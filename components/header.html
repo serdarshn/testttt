@@ -1,0 +1,295 @@
+<!-- Header Navigation -->
+<style>
+    /* Mega Menu Inline Fixes for Plesk Compatibility */
+    .mega-menu-trigger {
+        position: relative !important;
+    }
+    
+    .mega-menu-wrapper {
+        position: absolute !important;
+        top: 100% !important;
+        left: 0 !important;
+        width: 100% !important;
+        background: white !important;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1) !important;
+        border-radius: 0 0 10px 10px !important;
+        padding: 20px 0 !important;
+        z-index: 1000 !important;
+        display: none !important;
+    }
+    
+    .mega-menu-trigger.show .mega-menu-wrapper {
+        display: block !important;
+    }
+    
+    .mega-menu-column {
+        padding: 15px !important;
+    }
+    
+    .mega-menu-list {
+        list-style: none !important;
+        padding-left: 0 !important;
+        margin-bottom: 0 !important;
+    }
+    
+    .mega-menu-item {
+        padding: 5px 0 !important;
+    }
+    
+    .mega-menu-link {
+        color: #333 !important;
+        text-decoration: none !important;
+        transition: color 0.3s !important;
+        display: block !important;
+    }
+    
+    .mega-menu-link:hover {
+        color: #ff6a00 !important;
+    }
+</style>
+
+<header id="header">
+    <nav class="navbar navbar-expand-lg navbar-transparent fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="https://guvenalmakina.com/">
+                <img src="images/guvenal_logo.png" alt="Güvenal Makina Logo" height="50" class="me-2">
+            </a>
+            <div class="language-switcher d-flex align-items-center d-lg-none ms-auto me-2">
+                <button class="language-btn btn btn-sm" data-lang="tr">
+                    <span class="flag-icon">🇹🇷</span>
+                    <span class="lang-text">TR</span>
+                </button>
+                <button class="language-btn btn btn-sm ms-1" data-lang="en">
+                    <span class="flag-icon">🇬🇧</span>
+                    <span class="lang-text">EN</span>
+                </button>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ms-auto me-3">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index" data-i18n="ana_sayfa">Ana Sayfa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="kurumsal" data-i18n="kurumsal">Kurumsal</a>
+                    </li>
+                    <li class="nav-item mega-menu-trigger position-relative dropdown">
+                        <a class="nav-link d-flex align-items-center mega-menu-link" href="urunler" id="navbarDropdown" role="button" aria-expanded="false">
+                            <span data-i18n="urunler">Ürünler</span>
+                            <i class="fas fa-chevron-down fa-xs ms-1"></i>
+                        </a>
+                        <!-- Mega Menu -->
+                        <div class="mega-menu-wrapper dropdown-menu">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-9">
+                                        <div class="row">
+                                            <div class="col-lg-5 mega-menu-column">
+                                                <ul class="mega-menu-list">
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=cnc-double-kolon" class="mega-menu-link" data-i18n="cnc_double_kolon">CNC Double Kolon Dik İşleme Merkezi</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=dalma-erozyon" class="mega-menu-link" data-i18n="dalma_erozyon">Dalma Erozyon Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=kalipci-freze" class="mega-menu-link" data-i18n="kalipci_freze">Kalıpçı Freze Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=universal-kalipci-freze" class="mega-menu-link" data-i18n="universal_kalipci_freze">Üniversal Kalıpçı Freze Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=koc-kafa-freze" class="mega-menu-link" data-i18n="koc_kafa_freze">Koç Kafa Universal Freze</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-lg-4 mega-menu-column">
+                                                <ul class="mega-menu-list">
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=taslama-tezgahlari" class="mega-menu-link" data-i18n="taslama_tezgahlari">Taşlama Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=torna-tezgahlari" class="mega-menu-link" data-i18n="torna_tezgahlari">Torna Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=radyal-matkap" class="mega-menu-link" data-i18n="radyal_matkap">Radyal Matkap Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=sutunlu-matkap" class="mega-menu-link" data-i18n="sutunlu_matkap">Sütunlu Matkap Tezgahları</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-lg-3 mega-menu-column">
+                                                <ul class="mega-menu-list">
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=testere-tezgahlari" class="mega-menu-link" data-i18n="testere_tezgahlari">Testere Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=kilavuz-cekme" class="mega-menu-link" data-i18n="kilavuz_cekme">Kılavuz Çekme Tezgahları</a>
+                                                    </li>
+                                                    <li class="mega-menu-item">
+                                                        <a href="urunler?category=makina-aksesuarlari" class="mega-menu-link" data-i18n="makina_aksesuarlari">Makina Aksesuarları</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 mega-menu-column">
+                                        <div class="mega-menu-featured">
+                                            <div class="mega-menu-icon">
+                                                <i class="fas fa-sync-alt fa-3x"></i>
+                                            </div>
+                                            <h5 data-i18n="ikinci_el_urunler_cat">İkinci El Ürünler</h5>
+                                            <p data-i18n="ikinci_el_aciklama">Bakımlı ve garantili ikinci el makine çözümleri.</p>
+                                            <a href="urunler?category=ikinci-el-urunler" class="mega-menu-btn" data-i18n="ikinci_el_urunler">İkinci El Ürünler</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="urunler?category=ikinci-el-urunler" data-i18n="ikinci_el_urunler">İkinci El Ürünler</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="shop" data-i18n="guvenal_shop">Güvenal Shop</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="e-katalog" data-i18n="e_katalog">E-Katalog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="iletisim" data-i18n="iletisim">İletişim</a>
+                    </li>
+                </ul>
+                <!-- Language Switcher (Desktop) -->
+                <div class="language-switcher d-none d-lg-flex align-items-center">
+                    <button class="language-btn btn btn-sm" data-lang="tr">
+                        <span class="flag-icon">🇹🇷</span>
+                        <span class="lang-text">TR</span>
+                    </button>
+                    <button class="language-btn btn btn-sm ms-1" data-lang="en">
+                        <span class="flag-icon">🇬🇧</span>
+                        <span class="lang-text">EN</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<!-- Navbar scroll efekti için doğrudan script -->
+<script>
+    // Sayfa yüklenir yüklenmez scroll işlemini başlat
+    (function() {
+        // Navbar elementi
+        const navbar = document.querySelector('.navbar');
+        
+        // Scroll olayı gerçekleştiğinde
+        function handleScroll() {
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        }
+        
+        // Scroll olayı dinleyicisi ekle
+        window.addEventListener('scroll', handleScroll);
+        
+        // Sayfa ilk yüklendiğinde mevcut scroll pozisyonunu kontrol et
+        handleScroll();
+        
+        // Mega Menu için saf JavaScript kullanımı
+        let timeout;
+        
+        // Mega menu trigger elementlerini seç
+        const megaMenuTriggers = document.querySelectorAll('.mega-menu-trigger');
+        const megaMenuWrappers = document.querySelectorAll('.mega-menu-wrapper');
+        
+        // Tüm mega menu trigger'lara mouseenter olayı ekle
+        megaMenuTriggers.forEach(trigger => {
+            trigger.addEventListener('mouseenter', function() {
+                // Önceki zamanlayıcıyı temizle
+                clearTimeout(timeout);
+                
+                // Tüm trigger'lardan show sınıfını kaldır
+                megaMenuTriggers.forEach(t => t.classList.remove('show'));
+                megaMenuWrappers.forEach(w => w.classList.remove('show'));
+                
+                // Bu trigger'a show sınıfını ekle
+                this.classList.add('show');
+                
+                // Bu trigger içindeki mega-menu-wrapper'a show sınıfını ekle
+                const wrapper = this.querySelector('.mega-menu-wrapper');
+                if (wrapper) {
+                    wrapper.classList.add('show');
+                }
+            });
+            
+            // Mouseleave olayı ekle
+            trigger.addEventListener('mouseleave', function() {
+                const currentTrigger = this;
+                
+                // Zamanlayıcı ayarla
+                timeout = setTimeout(function() {
+                    currentTrigger.classList.remove('show');
+                    
+                    const wrapper = currentTrigger.querySelector('.mega-menu-wrapper');
+                    if (wrapper) {
+                        wrapper.classList.remove('show');
+                    }
+                }, 300); // 300ms gecikme
+            });
+        });
+        
+        // Mega menu wrapper'lara olaylar ekle
+        megaMenuWrappers.forEach(wrapper => {
+            wrapper.addEventListener('mouseenter', function() {
+                // Önceki zamanlayıcıyı temizle
+                clearTimeout(timeout);
+            });
+            
+            wrapper.addEventListener('mouseleave', function() {
+                // En yakın mega-menu-trigger'ı bul
+                const trigger = this.closest('.mega-menu-trigger');
+                
+                // Zamanlayıcı ayarla
+                timeout = setTimeout(function() {
+                    if (trigger) {
+                        trigger.classList.remove('show');
+                        const innerWrapper = trigger.querySelector('.mega-menu-wrapper');
+                        if (innerWrapper) {
+                            innerWrapper.classList.remove('show');
+                        }
+                    }
+                }, 300); // 300ms gecikme
+            });
+        });
+        
+        // Mobil cihazlar için dokunma olayları
+        const megaMenuLinks = document.querySelectorAll('.mega-menu-link');
+        megaMenuLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                const parent = this.closest('.mega-menu-trigger');
+                
+                if (parent && !parent.classList.contains('show')) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    
+                    parent.classList.add('show');
+                    
+                    const wrapper = parent.querySelector('.mega-menu-wrapper');
+                    if (wrapper) {
+                        wrapper.classList.add('show');
+                    }
+                    
+                    return false;
+                }
+            });
+        });
+        
+        console.log("Navbar scroll effect and Mega Menu initialized with vanilla JavaScript");
+    })();
+</script> 

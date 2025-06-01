@@ -1,0 +1,3195 @@
+{
+  "categories": [
+    {
+      "id": "cnc-double-kolon",
+      "name": "CNC Double Kolon Dik İşleme Merkezi",
+      "subcategories": []
+    },
+    {
+      "id": "dalma-erozyon",
+      "name": "Dalma Erozyon Tezgahları",
+      "subcategories": [
+        {
+          "id": "best-edm",
+          "name": "BEST EDM",
+          "subcategories": [
+            {
+              "id": "znc-serisi-best",
+              "name": "ZNC Serisi"
+            },
+            {
+              "id": "pnc-serisi-best",
+              "name": "PNC Serisi"
+            },
+            {
+              "id": "cnc-serisi-best",
+              "name": "CNC Serisi"
+            }
+          ]
+        },
+        {
+          "id": "cift-kafali",
+          "name": "ÇİFT KAFALI DALMA EREZYON",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "kalipci-freze",
+      "name": "Kalıpçı Freze Tezgahları",
+      "subcategories": [
+        {
+          "id": "king-kalipci",
+          "name": "KING",
+          "subcategories": []
+        },
+        {
+          "id": "kg-super-kalipci",
+          "name": "KG SUPER",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "universal-kalipci-freze",
+      "name": "Üniversal Kalıpçı Freze Tezgahları",
+      "subcategories": [
+        {
+          "id": "king-universal",
+          "name": "KING",
+          "subcategories": []
+        },
+        {
+          "id": "kg-super-universal",
+          "name": "KG SUPER",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "koc-kafa-freze",
+      "name": "Koç Kafa Universal Freze",
+      "subcategories": [
+        {
+          "id": "kg-super-koc",
+          "name": "KG SUPER",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "taslama-tezgahlari",
+      "name": "Taşlama Tezgahları",
+      "subcategories": [
+        {
+          "id": "king-grinder",
+          "name": "KING GRINDER",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "torna-tezgahlari",
+      "name": "Torna Tezgahları",
+      "subcategories": [
+        {
+          "id": "king-torna",
+          "name": "KING",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "radyal-matkap",
+      "name": "Radyal Matkap Tezgahları",
+      "subcategories": [
+        {
+          "id": "kg-super-radyal",
+          "name": "KG SUPER",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "sutunlu-matkap",
+      "name": "Sütunlu Matkap Tezgahları",
+      "subcategories": [
+        {
+          "id": "kg-super-sutunlu",
+          "name": "KG SUPER",
+          "subcategories": []
+        },
+        {
+          "id": "sahin-sutunlu",
+          "name": "ŞAHİN",
+          "subcategories": []
+        },
+        {
+          "id": "boyka-sutunlu",
+          "name": "BOYKA",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "testere-tezgahlari",
+      "name": "Testere Tezgahları",
+      "subcategories": [
+        {
+          "id": "jetco-testere",
+          "name": "JETCO",
+          "subcategories": []
+        },
+        {
+          "id": "kesmak-testere",
+          "name": "KESMAK",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "kilavuz-cekme",
+      "name": "Kılavuz Çekme Tezgahları",
+      "subcategories": []
+    },
+    {
+      "id": "makina-aksesuarlari",
+      "name": "Makina Aksesuarları",
+      "subcategories": [
+        {
+          "id": "otomatik-yaglama",
+          "name": "Otomatik Yağlama",
+          "subcategories": []
+        },
+        {
+          "id": "filtre",
+          "name": "Filtre",
+          "subcategories": []
+        },
+        {
+          "id": "align-motor",
+          "name": "Alıgn Motor",
+          "subcategories": []
+        },
+        {
+          "id": "manuel-yaglama",
+          "name": "Manuel Yağlama",
+          "subcategories": []
+        },
+        {
+          "id": "havali-cektirme",
+          "name": "Havalı Çektirme",
+          "subcategories": []
+        },
+        {
+          "id": "erozyon-sivisi",
+          "name": "Erozyon Sıvısı",
+          "subcategories": []
+        },
+        {
+          "id": "kriko",
+          "name": "Kriko",
+          "subcategories": []
+        },
+        {
+          "id": "system-3r",
+          "name": "System 3R",
+          "subcategories": []
+        },
+        {
+          "id": "pens-takimi",
+          "name": "Pens Takımı",
+          "subcategories": []
+        },
+        {
+          "id": "baglama-seti",
+          "name": "Bağlama Seti",
+          "subcategories": []
+        },
+        {
+          "id": "mengene",
+          "name": "Mengene",
+          "subcategories": []
+        },
+        {
+          "id": "yan-tarama-kafasi",
+          "name": "Yan Tarama Kafası",
+          "subcategories": []
+        },
+        {
+          "id": "dijital-sistem",
+          "name": "Dijital Sistem",
+          "subcategories": []
+        },
+        {
+          "id": "yuk-tasima-arabasi",
+          "name": "Yük Taşıma Arabası",
+          "subcategories": []
+        },
+        {
+          "id": "korumalik",
+          "name": "Korumalık",
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "id": "ikinci-el-urunler",
+      "name": "İkinci El Ürünler",
+      "subcategories": []
+    }
+  ],
+  "products": [
+    {
+      "id": "king-ma-50-double-kolon-cnc",
+      "name": "KING MA-50 DOUBLE KOLON CNC",
+      "category": "cnc-double-kolon",
+      "image": "images/Urun Fotograflari/KİNG MA-50 DOUBLE KOLON CNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ- PRATİK KULLANIM- 3 EKSEN RULMANLI MİLLER- 45.MM Ø GÜÇLENDİRİLMİŞ KOLONLAR- HİGH SPEED HİGH PRECİSİON HİGH EFFİCİENCY",
+      "features": [
+        "FULL KAPALI KASA",
+        "OTOMATİK KAPANMA",
+        "YAĞ SIYIRICI",
+        "İÇ YIKAMA SİSTEMİ",
+        "20'Lİ CAROUSEL",
+        "YAĞ KAÇAK SİSTEMİ",
+        "FANLAR",
+        "OTOMATİK YAĞLAMA",
+        "CE"
+      ],
+      "specifications": {
+        "MODEL": "KİNG MA-50 DOUBLE KOLON CNC",
+        "Tabla Boyutu": "1300x850",
+        "T KANALI": "18x5x150 mm",
+        "MAKSİMUM YÜK": "1000 KG",
+        "X,Y,Z HAREKETLERİ": "1270x815x610 mm",
+        "İŞ MİLİ TABLA ARASI MESAFE": "200-810 mm",
+        "İŞ MİLİ MERKEZİNDEN KOLON KIZAKLARINA MESAFE": "1100 mm",
+        "KIZAK ÖLÇÜLERİ": "45/45/45 mm",
+        "İŞ MİLİ TİPİ": "DİREKT",
+        "İŞ MİLİ KONİĞİ": "BBT 40",
+        "İŞ MİLİ HIZI": "15.000 D/DK",
+        "KESİM HIZLARI": "20/20/20 M/DK",
+        "KESİM HIZLARI (BOŞ HIZ)": "20/20/20 M/DK",
+        "ATC TİPİ": "ARM",
+        "MAKSİMUM TAKIM ÇAPI": "75 / 150 mm",
+        "MAKSİMUM TAKIM BOYU": "300 mm",
+        "MAKSİMUM TAKIM AĞIRLIĞI": "7 KG",
+        "TAKIM TİPİ": "CAT 40",
+        "KAPASİTE": "24",
+        "EKSEN MOTORLARI": "7 x 7 x 7 kw",
+        "İŞ MİLİ MOTORU": "15 KW",
+        "X,Y,Z EKSEN RULMANLI MİLLERİ": "45 Ø",
+        "OTOMATİK YAĞLAMA": "GRESLİ",
+        "MAKİNA AĞIRLIĞI": "14.000 KG"
+      },
+      "standardAccessories": [
+        "FULL KAPALI KASA",
+        "KIZAK KAPAKLARI", 
+        "OTOMATİK KAPANMA", 
+        "YAĞ SIYIRICI", 
+        "SU TABANCASI VE HAVA TABANCASI", 
+        "İÇ YIKAMA SİSTEMİ", 
+        "TAKIM ÇANTASI", 
+        "ÇALIŞMA LAMBASI", 
+        "20' Lİ CAROUSEL TİP TAKIM DEĞİŞTİRME", 
+        "OTOMATİK YAĞLAMA", 
+        "FANLAR", 
+        "ALARM IŞIĞI", 
+        "TRANSFORMER", 
+        "MITSUBISHI M 70A KONTROL SİSTEMİ", 
+        "3' LÜ HELEZON TİP TALAŞ KONVEYÖRÜ", 
+        "CE"
+      ],
+      "optionalAccessories": [
+        "FANUC - SIEMENS - HEİDENHAİN İŞLETİM SİSTEMİ", 
+        "OTOMATİK TAKIM BOY ÖLÇME PROBU", 
+        "BANT TİPİ TALAŞ KONVEYÖRÜ", 
+        "20.000D/DK İŞ MİLİ", 
+        "20 BAR TAKIM İÇİ SU VERME", 
+        "YAĞ KANALI TUTUCU SİSTEM"
+      ]
+    },
+    {
+      "id": "king-ma-57-double-kolon-cnc",
+      "name": "KING MA-57 DOUBLE KOLON CNC",
+      "category": "cnc-double-kolon",
+      "image": "images/Urun Fotograflari/KİNG MA-57 DOUBLE KOLON CNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ- PRATİK KULLANIM- 3 EKSEN RULMANLI MİLLER- 45.MM Ø GÜÇLENDİRİLMİŞ KOLONLAR- HİGH SPEED HİGH PRECİSİON HİGH EFFİCİENCY",
+      "features": [
+        "FULL KAPALI KASA",
+        "KIZAK KAPAKLARI", 
+        "OTOMATİK KAPANMA", 
+        "YAĞ SIYIRICI", 
+        "SU TABANCASI VE HAVA TABANCASI", 
+        "İÇ YIKAMA SİSTEMİ", 
+        "TAKIM ÇANTASI", 
+        "ÇALIŞMA LAMBASI", 
+        "20' Lİ CAROUSEL TİP TAKIM DEĞİŞTİRME", 
+        "OTOMATİK YAĞLAMA", 
+        "FANLAR", 
+        "ALARM IŞIĞI", 
+        "TRANSFORMER", 
+        "MITSUBISHI M 70A KONTROL SİSTEMİ", 
+        "3' LÜ HELEZON TİP TALAŞ KONVEYÖRÜ", 
+        "CE"
+      ],
+      "specifications": {
+        "MODEL": "KİNG MA-57 DOUBLE KOLON CNC",
+        "Tabla Boyutu": "1450x1000 mm",
+        "T KANALI": "18x7x140",
+        "MAKSİMUM YÜK": "2000 KG",
+        "X,Y,Z HAREKETLERİ": "1450x1080x700",
+        "İŞ MİLİ TABLA ARASI MESAFE": "110-810 mm",
+        "İŞ MİLİ MERKEZİNDEN KOLON KIZAKLARINA MESAFE": "1100 mm",
+        "KIZAK ÖLÇÜLERİ": "45/45/45 mm",
+        "İŞ MİLİ TİPİ": "DİREKT",
+        "İŞ MİLİ KONİĞİ": "BBT 40",
+        "İŞ MİLİ HIZI": "15.000 D/DK",
+        "KESİM HIZLARI": "20/20/20 M/DK",
+        "KESİM HIZLARI (BOŞ HIZ)": "20/20/20 M/DK",
+        "ATC TİPİ": "ARM",
+        "MAKSİMUM TAKIM ÖLÇÜSÜ": "75 / 200 mm",
+        "MAKSİMUM TAKIM BOYU": "200 mm",
+        "MAKSİMUM TAKIM AĞIRLIĞI": "7 KG",
+        "TAKIM TİPİ": "BT 40",
+        "EKSEN MOTORLARI": "7 x 7 x 7 kw",
+        "TAKIM KAPASİTESİ": "12",
+        "İŞ MİLİ MOTORU": "15 KW",
+        "X,Y,Z EKSEN RULMANLI MİLLERİ": "45 Ø",
+        "MAKİNA AĞIRLIĞI": "12.000 KG"
+      },
+      "standardAccessories": [
+        "FULL KAPALI KASA", 
+        "KIZAK KAPAKLARI", 
+        "OTOMATİK KAPANMA", 
+        "YAĞ SIYIRICI", 
+        "SU TABANCASI VE HAVA TABANCASI", 
+        "İÇ YIKAMA SİSTEMİ", 
+        "TAKIM ÇANTASI", 
+        "ÇALIŞMA LAMBASI", 
+        "20' Lİ CAROUSEL TİP TAKIM DEĞİŞTİRME", 
+        "OTOMATİK YAĞLAMA", 
+        "FANLAR", 
+        "ALARM IŞIĞI", 
+        "TRANSFORMER", 
+        "MITSUBISHI M 70A KONTROL SİSTEMİ", 
+        "3' LÜ HELEZON TİP TALAŞ KONVEYÖRÜ", 
+        "CE"
+      ],
+      "optionalAccessories": [
+        "FULL KAPALI KASA", 
+        "KIZAK KAPAKLARI", 
+        "OTOMATİK KAPANMA", 
+        "YAĞ SIYIRICI", 
+        "SU TABANCASI VE HAVA TABANCASI", 
+        "İÇ YIKAMA SİSTEMİ", 
+        "TAKIM ÇANTASI", 
+        "ÇALIŞMA LAMBASI", 
+        "20' Lİ CAROUSEL TİP TAKIM DEĞİŞTİRME", 
+        "OTOMATİK YAĞLAMA", 
+        "FANLAR", 
+        "ALARM IŞIĞI", 
+        "TRANSFORMER", 
+        "MITSUBISHI M 70A KONTROL SİSTEMİ", 
+        "3' LÜ HELEZON TİP TALAŞ KONVEYÖRÜ", 
+        "CE"
+      ]
+    },
+    {
+      "id": "king-mt-5785v-vs-double-kolon-cnc",
+      "name": "KING MT-5785V/VS DOUBLE KOLON CNC",
+      "category": "cnc-double-kolon",
+      "image": "images/Urun Fotograflari/KİNG MT-5785V-VS DOUBLE KOLON CNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ PRATİK KULLANIM FULL KAPALI KASA RULMANLI MİLLER",
+      "features": [
+        "FULL KAPALI KASA",
+        "YAĞ SIYIRICI",
+        "YAĞ KAÇAK SİSTEMİ",
+        "OTOMATİK KAPANMA",
+        "İÇ YIKAMA SİSTEMİ",
+        "OTOMATİK TAKIM UZUNLUGU"
+      ],
+      "specifications": {
+        "MODEL": "KİNG MT-5785V/VS DOUBLE KOLON CNC",
+        "İş Mili Motoru": "15 kw",
+        "Eksen Motorları": "9 x 7 x 7 kw",
+        "Takım Tipi": "CAT 40",
+        "Ağırlık": "17000",
+        "X Eksen Hareketi": "2150 MM",
+        "Y Eksen Hareketi": "1450 MM",
+        "Z eksen Hareketi": "700 MM",
+        "Maksimum Tabla İş Ağırlığı": "4800 Kg",
+        "Mil Tutucu": "Direkt",
+        "Konik": "BBT-40",
+        "Çap": "70 mm",
+        "İş Mil Hızı": "15000 RPM",
+        "Kesme Hızı (X.Y.Z)": "20/20/20 M/Min",
+        "Takım Çapı": "75/200 MM"
+      },
+      "standardAccessories": [
+        "FULL KAPALI KASA", 
+        "KIZAK KAPAKLARI", 
+        "OTOMATİK KAPANMA", 
+        "YAĞ SIYIRICI", 
+        "SU TABANCASI VE HAVA TABANCASI", 
+        "İÇ YIKAMA SİSTEMİ", 
+        "TAKIM ÇANTASI", 
+        "ÇALIŞMA LAMBASI", 
+        "20' Lİ CAROUSEL TİP TAKIM DEĞİŞTİRME"
+      ],
+      "optionalAccessories": [
+        "BBT # 40 Direkt tipte işmili 12000RPM", 
+        "BBT # 50 Direkt tipte işmili 6000-8000RPM", 
+        "HSKA63 Dahili tip mil 24000RPM", 
+        "Uzun tip mil", 
+        "Düz tipi talaş konveyörü", 
+        "İş mili boyunca soğutma sıvısı", 
+        "3 Eksen optik ölçeği", 
+        "CE normu", 
+        "Kırılma algılama sistemi"
+      ]
+    },
+    {
+      "id": "king-mt-5765v-vs-double-kolon-cnc",
+      "name": "KING MT-5765V / VS DOUBLE KOLON CNC",
+      "category": "cnc-double-kolon",
+      "image": "images/Urun Fotograflari/KİNG MT-5765V - VS DOUBLE KOLON CNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ PRATİK KULLANIM FULL KAPALI KASA RULMANLI MİLLER",
+      "features": [
+        "FULL KAPALI KASA",
+        "YAĞ SIYIRICI",
+        "YAĞ KAÇAK SİSTEMİ",
+        "OTOMATİK KAPANMA",
+        "İÇ YIKAMA SİSTEMİ",
+        "OTOMATİK TAKIM UZUNLUGU"
+      ],
+      "specifications": {
+        "MODEL": "KİNG MT-5765V / VS DOUBLE KOLON CNC",
+        "X Eksen Hareketi": "1650 MM",
+        "Y Eksen Hareketi": "1450 MM",
+        "Z eksen Hareketi": "700 MM",
+        "Linear Kızaklar": "45x2 / 45 / 45 mm",
+        "T Kanalı": "20x8x200 MM",
+        "MAX YÜK": "3800 Kg",
+        "Mil Tutucu": "Direkt",
+        "Konik": "BBT-50",
+        "Çap": "70 MM",
+        "İş Mili Hızı": "15000 RPM",
+        "Kesme Hızı (X.Y.Z)": "20/20/20 M/Min",
+        "Hızlı İlerleme Hızı": "20/20/20 M/Min",
+        "Takım Çapı": "75/150 MM",
+        "Takım Boyu": "300 MM",
+        "Takım Ağırlığı": "7 Kg",
+        "Takım Tİpi": "CAT 40",
+        "Takım Kapasite": "24",
+        "İş Mİli Motoru": "15 Kw",
+        "Soğutucu Pompası": "0.75 Kw",
+        "Sogutma Sıvı Kapasite": "500 Lt",
+        "Ağırlık": "15400 Kg"
+      },
+      "standardAccessories": [
+        "FULL KAPALI KASA", 
+        "KIZAK KAPAKLARI", 
+        "OTOMATİK KAPANMA", 
+        "YAĞ SIYIRICI", 
+        "SU TABANCASI VE HAVA TABANCASI", 
+        "İÇ YIKAMA SİSTEMİ", 
+        "TAKIM ÇANTASI", 
+        "ÇALIŞMA LAMBASI", 
+        "20' Lİ CAROUSEL TİP TAKIM DEĞİŞTİRME"
+      ],
+      "optionalAccessories": [
+        "BBT # 40 Direkt tipte işmili 12000RPM", 
+        "BBT # 50 Direkt tipte işmili 6000-8000RPM", 
+        "HSKA63 Dahili tip mil 24000RPM", 
+        "Uzun tip mil", 
+        "Düz tipi talaş konveyörü", 
+        "İş mili boyunca soğutma sıvısı", 
+        "3 Eksen optik ölçeği", 
+        "CE normu", 
+        "Kırılma algılama sistemi"
+      ]
+    },
+    {
+      "id": "king-mt-57e5v-vs-double-kolon-cnc",
+      "name": "KING MT-57E5V / VS DOUBLE KOLON CNC",
+      "category": "cnc-double-kolon",
+      "image": "images/Urun Fotograflari/KİNG MT-57E5V - VS DOUBLE KOLON CNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ PRATİK KULLANIM FULL KAPALI KASA RULMANLI MİLLER",
+      "features": [
+        "FULL KAPALI KASA",
+        "YAĞ SIYIRICI",
+        "YAĞ KAÇAK SİSTEMİ",
+        "OTOMATİK KAPANMA",
+        "İÇ YIKAMA SİSTEMİ",
+        "OTOMATİK TAKIM UZUNLUGU"
+      ],
+      "specifications": {
+        "MODEL": "KİNG MT-57E5V / VS DOUBLE KOLON CNC",
+        "X Eksen Hareketi": "2650 MM",
+        "Y Eksen Hareketi": "1450 MM",
+        "Z eksen Hareketi": "700 MM",
+        "Bilyalı Vida (X.Y.Z Ekseni )": "80/40/40 MM",
+        "Tablo Boyutu": "2550x1450 MM",
+        "T Kanalı": "20X12X200 MM",
+        "MAX YÜK": "5800 Kg",
+        "Mil Tutucu": "Direkt",
+        "Konik": "BBT-40",
+        "Çap": "70 MM",
+        "İş Mili Hızı": "15000 RPM",
+        "Kesme Hızı (X.Y.Z)": "20/20/20 M/Min",
+        "Hızlı İlerleme Hızı": "20/20/20 M/Min",
+        "Takım Çapı": "75-/ 150 mm",
+        "Takım Boyu": "300 MM",
+        "Takım Ağırlığı": "7 Kg",
+        "Takım Kapasite": "24",
+        "X,Y,Z Eksen Motorları": "9 x 7 x 7 kw",
+        "Soğutucu Pompası": "0.75 KW",
+        "Sogutma Sıvı Kapasite": "500 Lt",
+        "NET AGIRLIK": "18600 KG"
+      },
+      "standardAccessories": [
+        "FULL KAPALI KASA", 
+        "KIZAK KAPAKLARI", 
+        "OTOMATİK KAPANMA", 
+        "YAĞ SIYIRICI", 
+        "SU TABANCASI VE HAVA TABANCASI", 
+        "İÇ YIKAMA SİSTEMİ", 
+        "TAKIM ÇANTASI", 
+        "ÇALIŞMA LAMBASI", 
+        "20' Lİ CAROUSEL TİP TAKIM DEĞİŞTİRME"
+      ],
+      "optionalAccessories": [
+        "BBT # 40 Direkt tipte işmili 12000RPM", 
+        "BBT # 50 Direkt tipte işmili 6000-8000RPM", 
+        "HSKA63 Dahili tip mil 24000RPM", 
+        "Uzun tip mil", 
+        "Düz tipi talaş konveyörü", 
+        "İş mili boyunca soğutma sıvısı", 
+        "3 Eksen optik ölçeği", 
+        "CE normu", 
+        "Kırılma algılama sistemi"
+      ]
+    },
+    {
+      "id": "3000-znc",
+      "name": "3000 ZNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "znc-serisi-best",
+      "image": "images/Urun Fotograflari/3000 ZNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ GENİŞ REFERANS LİSTESİ",
+      "features": [
+        "X,Y,Z EKSENLERİ C5 SINIFI BİLYALLI MİLLİ KIZAKLAR",
+        "Z EKSENİ ÇİFT LİNEER YATAKLI",
+        "FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSENLİ DİJİTAL SİSTEM",
+        "TÜRKÇE MENÜ",
+        "HIZLI KESİM MİNİMUM BAKIR AŞINDIRMA",
+        "SORUNSUZ ÇELİK ÇELİĞE ARIŞTIRMA",
+        "HERTÜRLÜ GRAFİT İLE KESİM",
+        "SERT METAL KESİMİ",
+        "ARK SENSÖRÜ",
+        "FLAT ÖZELLİĞİ İLE AYNA YÜZEYLER",
+        "YANGIN SÖDÜRME TERTİBATI",
+        "SIVI SEVİYE KONTROLÜ",
+        "BAKIR AŞINDIRMAZ PROGRAMI",
+        "MAKİNA TOPLAM ÇALIŞMA",
+        "İŞ ÇALIŞMA SÜRESİNİN TAKİBİ",
+        "Z EKSENİ DC STEP SERVO MOTOR",
+        "9+9 DELİK HAFIZASI",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ"
+      ],
+      "specifications": {
+        "MODEL": "3000 ZNC",
+        "X EKSEN HAREKETİ": "400 MM",
+        "Y EKSEN HAREKETİ": "300 MM",
+        "Z EKSEN HAREKETİ": "200+250 MM",
+        "MAKSİMUM İŞ PARÇASI": "950X580X450 MM",
+        "ÇALIŞMA TABLASI": "360X700 MM",
+        "ELEKTROT AĞIRLIĞI": "120 KG",
+        "İŞ PARÇASI AĞIRLIĞI": "800 KG",
+        "ÇALIŞMA TANKI EBATI": "1140X640X420 MM",
+        "YAĞ HAZNESİ ÖLÇÜLERİ": "1200X1000X400 MM",
+        "MAKİNA AĞIRLIĞI": "1200 KG",
+        "YAĞ KAPASİTESİ": "430 LT",
+        "MAKSİMUM AMPER": "50 AMPER",
+        "BAKIR AŞINDIRMA ORANI": "0.01 %",
+        "TOPLAM GÜÇ": "7.5 KW"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ", 
+        "FİLTRE TAKIMI", 
+        "HALOJEN LAMBA", 
+        "MANYETİK TABLO", 
+        "MIKNATISLI SU HORTUMLARI", 
+        "TAKIM ÇANTASI", 
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "SYSTEM 3 R HIZLI BAĞLAMA SETİ"
+      ]
+    },
+    {
+      "id": "680-znc",
+      "name": "680 ZNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "znc-serisi-best",
+      "image": "images/Urun Fotograflari/680 ZNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ GENİŞ REFERANS LİSTESİ",
+      "features": [
+        "X,Y,Z EKSENLERİ C5 SINIFI BİLYALLI MİLLİ",
+        "Z EKSENİ ÇİFT LİNEER YATAKLI",
+        "FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSENLİ DİJİTAL SİSTEM",
+        "TÜRKÇE MENÜ",
+        "HIZLI KESİM MİNİMUM BAKIR AŞINDIRMA",
+        "SORUNSUZ ÇELİK ÇELİĞE ARIŞTIRMA",
+        "HERTÜRLÜ GRAFİT İLE KESİM",
+        "SERT METAL KESİMİ",
+        "ARK SENSÖRÜ",
+        "FLAT ÖZELLİĞİ İLE AYNA YÜZEYLER",
+        "YANGIN SÖDÜRME TERTİBATI",
+        "SIVI SEVİYE KONTROLÜ",
+        "BAKIR AŞINDIRMAZ PROGRAMI",
+        "MAKİNA TOPLAM ÇALIŞMA",
+        "İŞ ÇALIŞMA SÜRESİNİN TAKİBİ",
+        "Z EKSENİ DC STEP SERVO MOTOR",
+        "9+9 DELİK HAFIZASI",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ"
+      ],
+      "specifications": {
+        "MODEL": "680 ZNC",
+        "X EKSEN HAREKETİ": "800 MM",
+        "Y EKSEN HAREKETİ": "600 MM",
+        "Z EKSEN HAREKETİ": "450 MM",
+        "TABLO ÖLÇÜLERİ": "700X1200 MM",
+        "MAKSİMUM ELEKTROD AĞIRLIĞI": "250 KG",
+        "MAKSİMUM İŞ PARÇASI AĞIRLIĞI": "2500 KG",
+        "YAĞ TANKI ÖLÇÜLERİ": "1800X940X720 MM",
+        "YAĞ KAPASİTESİ": "1200 LT",
+        "MAKİNA AĞIRLIĞI": "4,000 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ", 
+        "FİLTRE TAKIMI", 
+        "HALOJEN LAMBA", 
+        "MANYETİK TABLO", 
+        "MIKNATISLI SU HORTUMLARI", 
+        "TAKIM ÇANTASI", 
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "SYSTEM 3 R HIZLI BAĞLAMA SETİ"
+      ]
+    },
+    {
+      "id": "560-znc",
+      "name": "560 ZNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "znc-serisi-best",
+      "image": "images/Urun Fotograflari/560 ZNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ GENİŞ REFERANS LİSTESİ",
+      "features": [
+        "X,Y,Z EKSENLERİ C5 SINIFI BİLYALLI MİLLİ",
+        "Z EKSENİ ÇİFT LİNEER YATAKLI",
+        "FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSENLİ DİJİTAL SİSTEM",
+        "TÜRKÇE MENÜ",
+        "HIZLI KESİM MİNİMUM BAKIR AŞINDIRMA",
+        "SORUNSUZ ÇELİK ÇELİĞE ARIŞTIRMA",
+        "HERTÜRLÜ GRAFİT İLE KESİM",
+        "SERT METAL KESİMİ",
+        "ARK SENSÖRÜ",
+        "FLAT ÖZELLİĞİ İLE AYNA YÜZEYLER",
+        "YANGIN SÖDÜRME TERTİBATI",
+        "SIVI SEVİYE KONTROLÜ",
+        "BAKIR AŞINDIRMAZ PROGRAMI",
+        "MAKİNA TOPLAM ÇALIŞMA",
+        "İŞ ÇALIŞMA SÜRESİNİN TAKİBİ",
+        "Z EKSENİ DC STEP SERVO MOTOR",
+        "9+9 DELİK HAFIZASI",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ"
+      ],
+      "specifications": {
+        "MODEL": "560 ZNC",
+        "X EKSEN HAREKETİ": "600 MM",
+        "Y EKSEN HAREKETİ": "500 MM",
+        "Z EKSEN HAREKETİ": "550 MM",
+        "TABLO ÖLÇÜLERİ": "550X1000 MM",
+        "MAKSİMUM ELEKTROD AĞIRLIĞI": "200 KG",
+        "MAKSİMUM İŞ PARÇASI AĞIRLIĞI": "1500 KG",
+        "MAKSİMUM İŞ PARÇASI ÖLÇÜLERİ": "1350X800X600 MM",
+        "İŞ TANKI ÖLÇÜLERİ": "1580X870X550 MM",
+        "YAĞ TANK ÖLÇÜLERİ": "1000X2000X480 MM",
+        "YAĞ KAPASİTESİ": "800 LT",
+        "MAKİNA AĞIRLIĞI": "2.100 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ",
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MANYETİK TABLO",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "SYSTEM 3 R HIZLI BAĞLAMA SETİ"
+      ]
+    },
+    {
+      "id": "570-znc",
+      "name": "570 ZNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "znc-serisi-best",
+      "image": "images/Urun Fotograflari/570 ZNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ GENİŞ REFERANS LİSTESİ",
+      "features": [
+        "X,Y,Z EKSENLERİ C5 SINIFI BİLYALLI MİLLİ",
+        "Z EKSENİ ÇİFT LİNEER YATAKLI",
+        "FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSENLİ DİJİTAL SİSTEM",
+        "TÜRKÇE MENÜ",
+        "HIZLI KESİM MİNİMUM BAKIR AŞINDIRMA",
+        "SORUNSUZ ÇELİK ÇELİĞE ARIŞTIRMA",
+        "HERTÜRLÜ GRAFİT İLE KESİM",
+        "SERT METAL KESİMİ",
+        "ARK SENSÖRÜ",
+        "FLAT ÖZELLİĞİ İLE AYNA YÜZEYLER",
+        "YANGIN SÖDÜRME TERTİBATI",
+        "SIVI SEVİYE KONTROLÜ",
+        "BAKIR AŞINDIRMAZ PROGRAMI",
+        "MAKİNA TOPLAM ÇALIŞMA",
+        "İŞ ÇALIŞMA SÜRESİNİN TAKİBİ",
+        "Z EKSENİ DC STEP SERVO MOTOR",
+        "9+9 DELİK HAFIZASI",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ"
+      ],
+      "specifications": {
+        "MODEL": "570 ZNC",
+        "X EKSEN HAREKETİ": "700 MM",
+        "Y EKSEN HAREKETİ": "500 MM",
+        "Z EKSEN HAREKETİ": "600 MM",
+        "TABLO ÖLÇÜLERİ": "700X1200 MM",
+        "MAKSİMUM ELEKTROD AĞIRLIĞI": "250 KG",
+        "MAKSİMUM İŞ PARÇASI AĞIRLIĞI": "2000 KG",
+        "MAKSİMUM İŞ PARÇASI ÖLÇÜLERİ": "1700X920X720 MM",
+        "İŞ TANKI ÖLÇÜLERİ": "1900X1000X600 MM",
+        "YAĞ TANK ÖLÇÜLERİ": "1300X2200X520 MM",
+        "YAĞ KAPASİTESİ": "1200 LT",
+        "MAKİNA AĞIRLIĞI": "3.800 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ",
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MANYETİK TABLO",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "SYSTEM 3 R HIZLI BAĞLAMA SETİ"
+      ]
+    },
+    {
+      "id": "best-2500-znc",
+      "name": "BEST 2500 ZNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "znc-serisi-best",
+      "image": "images/Urun Fotograflari/BEST 2500 ZNC.webp",
+      "generalInfo": "3 Eksenli Dijital Koordinat Okuma Sistemi, Geniş Çalışma Havuzu, ZNC Otomatik program (Kaba kesimden ince kesime 10 adımlı programlanabilir finiş özelliği), Ark sensörü sayesinde sorunsuz kesim.",
+      "features": [
+        "3 Eksenli Dijital Koordinat Okuma Sistemi",
+        "Geniş Çalışma Havuzu",
+        "ZNC Otomatik Program (Kaba kesimden ince kesime 10 adımlı programlanabilir finiş özelliği)",
+        "Ark Sensörü Sayesinde Sorunsuz Kesim"
+      ],
+      "specifications": {
+        "MODEL": "BEST 2500 ZNC",
+        "Tabla Ebadı": "600 x 315 mm",
+        "X Eksen Hareketi": "350 mm",
+        "Y Eksen Hareketi": "250 mm",
+        "Z Eksen Hareketi": "180 mm",
+        "Max. Elektrot Ağırlığı": "50 kg",
+        "Max. Amper": "50 A",
+        "Max. Kesme Hızı": "600 mm³ / dk",
+        "Yüzey Hassasiyeti": "0.8 ra",
+        "Max. İş Parçası": "600 kg",
+        "Tabladan Elektrot Tutucuya Mesafe": "350 mm"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "best-3500-znc",
+      "name": "BEST 3500 ZNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "znc-serisi-best",
+      "image": "images/Urun Fotograflari/BEST 3500 ZNC.webp",
+      "generalInfo": "3 Eksenli Dijital Koordinat Okuma Sistemi, Geniş Çalışma Havuzu, ZNC Otomatik program (Kaba kesimden ince kesime 10 adımlı programlanabilir finiş özelliği), Ark sensörü sayesinde sorunsuz kesim.",
+      "features": [
+        "3 Eksenli Dijital Koordinat Okuma Sistemi",
+        "Geniş Çalışma Havuzu",
+        "ZNC Otomatik Program (Kaba kesimden ince kesime 10 adımlı programlanabilir finiş özelliği)",
+        "Ark Sensörü Sayesinde Sorunsuz Kesim"
+      ],
+      "specifications": {
+        "MODEL": "BEST 3500 ZNC",
+        "Tabla Ebadı": "750 x 420 mm",
+        "X Eksen Hareketi": "450 mm",
+        "Y Eksen Hareketi": "350 mm",
+        "Z Eksen Hareketi": "200 + 200 mm",
+        "Max. Elektrot Ağırlığı": "80 kg",
+        "Max. Amper": "60 A",
+        "Max. Kesme Hızı": "600 mm³ / dk",
+        "Yüzey Hassasiyeti": "0.8 ra",
+        "Max. İş Parçası": "1100 kg",
+        "Tabladan Elektrot Tutucuya Mesafe": "520 mm"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "best-4500-znc",
+      "name": "BEST 4500 ZNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "znc-serisi-best",
+      "image": "images/Urun Fotograflari/BEST 4500 ZNC.webp",
+      "generalInfo": "3 Eksenli Dijital Koordinat Okuma Sistemi, Geniş Çalışma Havuzu, ZNC Otomatik program (Kaba kesimden ince kesime 10 adımlı programlanabilir finiş özelliği), Ark sensörü sayesinde sorunsuz kesim.",
+      "features": [
+        "3 Eksenli Dijital Koordinat Okuma Sistemi",
+        "Geniş Çalışma Havuzu",
+        "ZNC Otomatik Program (Kaba kesimden ince kesime 10 adımlı programlanabilir finiş özelliği)",
+        "Ark Sensörü Sayesinde Sorunsuz Kesim"
+      ],
+      "specifications": {
+        "MODEL": "BEST 4500 ZNC",
+        "Tabla Ebadı": "800 x 350 mm",
+        "X Eksen Hareketi": "500 mm",
+        "Y Eksen Hareketi": "400 mm",
+        "Z Eksen Hareketi": "200 + 250 mm",
+        "Max. Elektrot Ağırlığı": "100 kg",
+        "Max. Amper": "60 A",
+        "Max. Kesme Hızı": "600 mm³ / dk",
+        "Yüzey Hassasiyeti": "0.8 ra",
+        "Max. İş Parçası": "1200 kg",
+        "Tabladan Elektrot Tutucuya Mesafe": "540 mm"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "3000-pnc",
+      "name": "3000 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/3000 PNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ GENİŞ REFERANS LİSTESİ",
+      "features": [
+        "X,Y,Z EKSENLERİ C5 SINIFI BİLYALLI MİLLİ KIZAKLAR",
+        "Z EKSENİ ÇİFT LİNEER YATAKLI",
+        "FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSENLİ DİJİTAL SİSTEM",
+        "TÜRKÇE MENÜ",
+        "HIZLI KESİM MİNİMUM BAKIR AŞINDIRMA",
+        "SORUNSUZ ÇELİK ÇELİĞE ARIŞTIRMA",
+        "HERTÜRLÜ GRAFİT İLE KESİM",
+        "SERT METAL KESİMİ",
+        "ARK SENSÖRÜ",
+        "FLAT ÖZELLİĞİ İLE AYNA YÜZEYLER",
+        "YANGIN SÖDÜRME TERTİBATI",
+        "SIVI SEVİYE KONTROLÜ",
+        "BAKIR AŞINDIRMAZ PROGRAMI",
+        "MAKİNA TOPLAM ÇALIŞMA",
+        "İŞ ÇALIŞMA SÜRESİNİN TAKİBİ",
+        "Z EKSENİ DC STEP SERVO MOTOR",
+        "9+9 DELİK HAFIZASI",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ"
+      ],
+      "specifications": {
+        "MODEL": "3000 PNC",
+        "X EKSEN HAREKETİ": "400 MM",
+        "Y EKSEN HAREKETİ": "300 MM",
+        "Z EKSEN HAREKETİ": "200+250 MM",
+        "MAKSİMUM İŞ PARÇASI": "950X580X450 MM",
+        "ÇALIŞMA TABLASI": "360X700 MM",
+        "ELEKTROT AĞIRLIĞI": "120 KG",
+        "İŞ PARÇASI AĞIRLIĞI": "800 KG",
+        "ÇALIŞMA TANKI EBATI": "1140X640X420 MM",
+        "YAĞ HAZNESİ ÖLÇÜLERİ": "1200X1000X400 MM",
+        "YAĞ KAPASİTESİ": "430 LT",
+        "MAKİNA AĞIRLIĞI": "1200 KG",
+        "MAKSİMUM AMPER": "50 AMPER",
+        "BAKIR AŞINDIRMA ORANI": "0.01 %",
+        "TOPLAM GÜÇ": "7.5 KW"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ", 
+        "FİLTRE TAKIMI", 
+        "HALOJEN LAMBA", 
+        "MANYATİK TABLO", 
+        "MIKNATISLI SU HORTUMLARI", 
+        "TAKIM ÇANTASI", 
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "SYSTEM 3 R HIZLI BAĞLAMA SETİ"
+      ]
+    },
+    {
+      "id": "850-pnc",
+      "name": "850 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/850 PNC.webp",
+      "generalInfo": "YÜKSEK HASSASİYET*ENERJİDEN TASSARUF*LCD EKRAN *EL KUMANDASI*",
+      "features": [
+        "PNC PROGRAMLAMA",
+        "X-Y-Z EKSENLERİ BİLYALI MİL",
+        "Z EKSENİ TAİWAN MALI DC SERVO MOTOR",
+        "Z EKSENİ AVRUPA MENŞEİ LİNEER KIZAK",
+        "BAKIR-GRAFİT-ÇELİK OLARAK ÇALIŞMA",
+        "TEK PARÇA DÖKÜM GÖVDE YAPISI",
+        "SERT METAL VE ELMAS MALZEME KESİMİ",
+        "ÇOK FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSEN DİJİTAL SİSTEM",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ",
+        "ARIZA UYARI SİSTEMİ",
+        "EROZYON SIVI SEVİYE KONTROL SİSTEMİ",
+        "LCD EKRAN",
+        "EL KUMANDASI"
+      ],
+      "specifications": {
+        "MODEL": "850 PNC",
+        "X EKSEN HAREKETİ": "800 MM",
+        "Y EKSEN HAREKETİ": "500 MM",
+        "Z EKSEN HAREKETİ": "450 MM",
+        "TABLO BOYUTU": "700X1200 MM",
+        "MAKSİMUM ELEKTROT AĞIRLIĞI": "250 KG",
+        "MAKSİMUM İŞ PARÇASI AĞIRLIĞI": "4.000 KG",
+        "MAKİNA TANK ÖLÇÜLERİ": "1700X900X700 MM",
+        "YAĞ TANKI ÖLÇÜLERİ": "2100X1050X660 MM",
+        "YAĞ TANKI KAPASİTESİ": "950 LT",
+        "MAKİNA AĞIRLIĞI": "4.500 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ",
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "SYSTEM 3 R"
+      ]
+    },
+    {
+      "id": "570-pnc",
+      "name": "570 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/570 PNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ",
+      "features": [
+        "PNC PROGRAMLAMA",
+        "X-Y-Z EKSENLERİ BİLYALI MİL",
+        "Z EKSENİ TAİWAN MALI DC SERVO MOTOR",
+        "Z EKSENİ AVRUPA MENŞEİ LİNEER KIZAK",
+        "BAKIR-GRAFİT-ÇELİK OLARAK ÇALIŞMA",
+        "TEK PARÇA DÖKÜM GÖVDE YAPISI",
+        "SERT METAL VE ELMAS MALZEME KESİMİ",
+        "ÇOK FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSEN DİJİTAL SİSTEM",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ",
+        "ARIZA UYARI SİSTEMİ",
+        "EROZYON SIVI SEVİYE KONTROL SİSTEMİ",
+        "LCD EKRAN",
+        "EL KUMANDASI"
+      ],
+      "specifications": {
+        "MODEL": "570 PNC",
+        "X EKSEN HAREKETİ": "700 MM",
+        "Y EKSEN HAREKETİ": "500 MM",
+        "Z EKSEN HAREKETİ": "250 MM",
+        "Z1 EKSEN HAREKETİ": "350 MM",
+        "TABLA EBADI": "700X1200 MM",
+        "DEPO SIVI KAPASİTESİ": "1200 LT",
+        "İŞ PARÇA BOYUTU": "1700X920X720",
+        "İŞ PARÇA AĞIRLIĞI": "2000 KG",
+        "TANK ÖLÇÜLERİ": "1900X1000X600",
+        "MAKİNA AĞIRLIĞI": "3800 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ", 
+        "FİLTRE TAKIMI", 
+        "HALOJEN LAMBA", 
+        "MANYATİK TABLO", 
+        "MIKNATISLI SU HORTUMLARI", 
+        "TAKIM ÇANTASI", 
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "YANGIN TÜPÜ", 
+        "FİLTRE TAKIMI", 
+        "HALOJEN LAMBA", 
+        "MANYATİK TABLO", 
+        "MIKNATISLI SU HORTUMLARI", 
+        "TAKIM ÇANTASI", 
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ]
+    },
+    {
+      "id": "560-pnc",
+      "name": "560 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/560 PNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ",
+      "features": [
+        "PNC PROGRAMLAMA",
+        "X-Y-Z EKSENLERİ BİLYALI MİL",
+        "Z EKSENİ TAİWAN MALI DC SERVO MOTOR",
+        "Z EKSENİ AVRUPA MENŞEİ LİNEER KIZAK",
+        "BAKIR-GRAFİT-ÇELİK OLARAK ÇALIŞMA",
+        "TEK PARÇA DÖKÜM GÖVDE YAPISI",
+        "SERT METAL VE ELMAS MALZEME KESİMİ",
+        "ÇOK FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSEN DİJİTAL SİSTEM",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ",
+        "ARIZA UYARI SİSTEMİ",
+        "EROZYON SIVI SEVİYE KONTROL SİSTEMİ",
+        "LCD EKRAN",
+        "EL KUMANDASI"
+      ],
+      "specifications": {
+        "MODEL": "560 PNC",
+        "X EKSEN HAREKETİ": "600 MM",
+        "Y EKSEN HAREKETİ": "500 MM",
+        "Z EKSEN HAREKETİ": "250 MM",
+        "Z1 EKSEN HAREKETİ": "300 MM",
+        "TANK ÖLÇÜLERİ": "1350X800X600",
+        "TABLA EBADI": "550X1000 MM",
+        "ELEKTRO AĞIRLIĞI": "200 KG",
+        "DEPO SIVI KAPASİTESİ": "800 LT",
+        "İŞ PARÇA AĞIRLIĞI": "1500 KG",
+        "MAKİNA AĞIRLIĞI": "2100 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ",
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MANYATİK TABLO",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "3R SYSTEM"
+      ]
+    },
+    {
+      "id": "680-pnc",
+      "name": "680 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/680 PNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ",
+      "features": [
+        "PNC PROGRAMLAMA",
+        "X-Y-Z EKSENLERİ BİLYALI MİL",
+        "Z EKSENİ TAİWAN MALI DC SERVO MOTOR",
+        "Z EKSENİ AVRUPA MENŞEİ LİNEER KIZAK",
+        "BAKIR-GRAFİT-ÇELİK OLARAK ÇALIŞMA",
+        "TEK PARÇA DÖKÜM GÖVDE YAPISI",
+        "SERT METAL VE ELMAS MALZEME KESİMİ",
+        "ÇOK FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSEN DİJİTAL SİSTEM",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ",
+        "ARIZA UYARI SİSTEMİ",
+        "EROZYON SIVI SEVİYE KONTROL SİSTEMİ",
+        "LCD EKRAN",
+        "EL KUMANDASI"
+      ],
+      "specifications": {
+        "MODEL": "680 PNC",
+        "X EKSEN HAREKETİ": "800 MM",
+        "Y EKSEN HAREKETİ": "600 MM",
+        "Z EKSEN HAREKETİ": "250 MM",
+        "Z1 EKSEN HAREKETİ": "350 MM",
+        "TABLA EBADI": "700X1300 MM",
+        "ELEKTRO AĞIRLIĞI": "250 KG",
+        "İŞ PARÇA AĞIRLIĞI": "2500 KG",
+        "İŞ PARÇA BOYUTU": "1800X940X720 MM",
+        "TANK ÖLÇÜLERİ": "2000X1020X650 MM",
+        "DEPO SIVI KAPASİTESİ": "1200 LT",
+        "MAKİNA AĞIRLIĞI": "4000 KG"
+      },
+      "standardAccessories": [
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MANYATİK TABLO",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "YANGIN TÜPÜ",
+        "SYSTEM 3R"
+      ]
+    },
+    {
+      "id": "1060-pnc",
+      "name": "1060 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/1060 PNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ",
+      "features": [
+        "PNC PROGRAMLAMA",
+        "X-Y-Z EKSENLERİ BİLYALI MİL",
+        "Z EKSENİ TAİWAN MALI DC SERVO MOTOR",
+        "Z EKSENİ AVRUPA MENŞEİ LİNEER KIZAK",
+        "BAKIR-GRAFİT-ÇELİK OLARAK ÇALIŞMA",
+        "TEK PARÇA DÖKÜM GÖVDE YAPISI",
+        "SERT METAL VE ELMAS MALZEME KESİMİ",
+        "ÇOK FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSEN DİJİTAL SİSTEM",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ",
+        "ARIZA UYARI SİSTEMİ",
+        "EROZYON SIVI SEVİYE KONTROL SİSTEMİ",
+        "LCD EKRAN",
+        "EL KUMANDASI"
+      ],
+      "specifications": {
+        "MODEL": "1060 PNC",
+        "X EKSEN HAREKETİ": "1000 MM",
+        "Y EKSEN HAREKETİ": "600 MM",
+        "Z EKSEN HAREKETİ": "450 MM",
+        "TABLA EBADI": "700X1200 MM",
+        "ELEKTRO AĞIRLIĞI": "250 KG",
+        "TABLA YÜKLEME KAPASİTESİ": "4000 KG",
+        "İŞ PARÇA BOYUTU": "2000X1000X700 MM",
+        "TANK ÖLÇÜLERİ": "2400X1150X650 MM",
+        "DEPO SIVI KAPASİTESİ": "1300 LT",
+        "MAKİNA AĞIRLIĞI": "4800 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ",
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MANYATİK TABLO",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "SYSTEM 3R"
+      ]
+    },
+    {
+      "id": "1200-pnc",
+      "name": "1200 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/1200 PNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ",
+      "features": [
+        "PNC PROGRAMLAMA",
+        "X-Y-Z EKSENLERİ BİLYALI MİL",
+        "Z EKSENİ TAİWAN MALI DC SERVO MOTOR",
+        "Z EKSENİ AVRUPA MENŞEİ LİNEER KIZAK",
+        "BAKIR-GRAFİT-ÇELİK OLARAK ÇALIŞMA",
+        "TEK PARÇA DÖKÜM GÖVDE YAPISI",
+        "SERT METAL VE ELMAS MALZEME KESİMİ",
+        "ÇOK FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSEN DİJİTAL SİSTEM",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ",
+        "ARIZA UYARI SİSTEMİ",
+        "EROZYON SIVI SEVİYE KONTROL SİSTEMİ",
+        "LCD EKRAN",
+        "EL KUMANDASI"
+      ],
+      "specifications": {
+        "MODEL": "1200 PNC",
+        "X EKSEN HAREKETİ": "1200 MM",
+        "Y EKSEN HAREKETİ": "700 MM",
+        "Z EKSEN HAREKETİ": "500 MM",
+        "TABLA EBADI": "900X1500 MM",
+        "ELEKTROT AĞIRLIĞI": "300 KG",
+        "TABLA YÜKLEME KAPASİTESİ": "4500 KG",
+        "İŞ PARÇA BOYUTU": "2000X1100X750 MM",
+        "TANK ÖLÇÜLERİ": "2500X1200X750 MM",
+        "DEPO SIVI KAPASİTESİ": "2000 LT",
+        "MAKİNA AĞIRLIĞI": "6000 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ",
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MANYATİK TABLO",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "3R SYSTEM"
+      ]
+    },
+    {
+      "id": "1500-pnc",
+      "name": "1500 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/1500 PNC.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ",
+      "features": [
+        "PNC PROGRAMLAMA",
+        "X-Y-Z EKSENLERİ BİLYALI MİL",
+        "Z EKSENİ TAİWAN MALI DC SERVO MOTOR",
+        "Z EKSENİ AVRUPA MENŞEİ LİNEER KIZAK",
+        "BAKIR-GRAFİT-ÇELİK OLARAK ÇALIŞMA",
+        "TEK PARÇA DÖKÜM GÖVDE YAPISI",
+        "SERT METAL VE ELMAS MALZEME KESİMİ",
+        "ÇOK FONKSİYONLU ELEKTROT TUTUCU KAFA",
+        "3 EKSEN DİJİTAL SİSTEM",
+        "YANGIN SENSÖRLERİ",
+        "YANGIN SÖNDÜRME SİSTEMİ",
+        "ARIZA UYARI SİSTEMİ",
+        "EROZYON SIVI SEVİYE KONTROL SİSTEMİ",
+        "LCD EKRAN",
+        "EL KUMANDASI"
+      ],
+      "specifications": {
+        "MODEL": "1500 PNC",
+        "X EKSEN HAREKETİ": "1500 MM",
+        "Y EKSEN HAREKETİ": "800 MM",
+        "Z EKSEN HAREKETİ": "600 MM",
+        "TABLA EBADI": "900X1700",
+        "ELEKTRO AĞIRLIĞI": "300 KG",
+        "İŞ PARÇA AĞIRLIĞI": "5000 KG",
+        "İŞ PARÇA BOYUTU": "2500X1200X750 MM",
+        "TANK ÖLÇÜLERİ": "3000X1300X750 MM",
+        "DEPO SIVI KAPASİTESİ": "2500 LT",
+        "MAKİNA AĞIRLIĞI": "7500 KG"
+      },
+      "standardAccessories": [
+        "YANGIN TÜPÜ",
+        "FİLTRE TAKIMI",
+        "HALOJEN LAMBA",
+        "MANYATİK TABLO",
+        "MIKNATISLI SU HORTUMLARI",
+        "TAKIM ÇANTASI",
+        "TÜRKÇE KULLANMA KLAVUZU"
+      ],
+      "optionalAccessories": [
+        "3R SYSTEM"
+      ]
+    },
+    {
+      "id": "best-2500-pnc",
+      "name": "BEST 2500 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/BEST 2500 PNC.webp",
+      "generalInfo": "",
+      "features": [
+        "3 Eksenli Dijital Koordinat Okuma Sistemi",
+        "Geniş Çalışma Havuzu",
+        "Otomatik Çok Gözlü İşleme Özelliği",
+        "Ark sensörü sayesinde sorunsuz kesim"
+      ],
+      "specifications": {
+        "MODEL": "BEST 2500 PNC",
+        "TABLA EBADI": "600 x 315 mm",
+        "X EKSEN HAREKETİ": "350 mm",
+        "Y EKSEN HAREKETİ": "250 mm",
+        "Z EKSEN HAREKETİ": "180 mm",
+        "MAX. ELEKTROT AĞIRLIĞI": "50 kg",
+        "MAX. KESME HIZI": "600 mm³ / dk",
+        "YÜZEY HASSASİYETİ": "0.8 ra",
+        "MAX. İŞ PARÇASI": "600 kg",
+        "TABLADAN ELEKTROT TUTUCUYA MESAFE": "350 mm"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "best-3500-pnc",
+      "name": "BEST 3500 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/BEST 3500 PNC.webp",
+      "generalInfo": "",
+      "features": [
+        "3 Eksenli Dijital Koordinat Okuma Sistemi",
+        "Geniş Çalışma Havuzu",
+        "Otomatik Çok Gözlü İşleme Özelliği",
+        "Ark sensörü sayesinde sorunsuz kesim"
+      ],
+      "specifications": {
+        "MODEL": "BEST 3500 PNC",
+        "TABLA EBADI": "750 x 420 mm",
+        "X EKSEN HAREKETİ": "450 mm",
+        "Y EKSEN HAREKETİ": "350 mm",
+        "Z EKSEN HAREKETİ": "200 + 200 mm",
+        "MAX. ELEKTROT AĞIRLIĞI": "80 kg",
+        "MAX. AMPER": "60 A",
+        "MAX. KESME HIZI": "600 mm³ / dk",
+        "YÜZEY HASSASİYETİ": "0.8 ra",
+        "MAX. İŞ PARÇASI": "1100 kg",
+        "TABLADAN ELEKTROT TUTUCUYA MESAFE": "520 mm"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "best-4500-pnc",
+      "name": "BEST 4500 PNC",
+      "category": "dalma-erozyon",
+      "subcategory": "best-edm",
+      "subSubcategory": "pnc-serisi-best",
+      "image": "images/Urun Fotograflari/BEST 4500 PNC.webp",
+      "generalInfo": "",
+      "features": [
+        "3 Eksenli Dijital Koordinat Okuma Sistemi",
+        "Geniş Çalışma Havuzu",
+        "Otomatik Çok Gözlü İşleme Özelliği",
+        "Ark sensörü sayesinde sorunsuz kesim"
+      ],
+      "specifications": {
+        "MODEL": "BEST 4500 PNC",
+        "TABLA EBADI": "800 x 350 mm",
+        "X EKSEN HAREKETİ": "500 mm",
+        "Y EKSEN HAREKETİ": "400 mm",
+        "Z EKSEN HAREKETİ": "200 + 250 mm",
+        "MAX. ELEKTROT AĞIRLIĞI": "100 kg",
+        "MAX. AMPER": "60 A",
+        "MAX. KESME HIZI": "600 mm³ / dk",
+        "YÜZEY HASSASİYETİ": "0.8 ra",
+        "MAX. İŞ PARÇASI": "1200 Kg",
+        "TABLADAN ELEKTROT TUTUCUYA MESAFE": "540 mm"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "ysm-26shb",
+      "name": "YSM 26SHB",
+      "category": "universal-kalipci-freze",
+      "subcategory": "king-universal",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/YSM-26SHB.webp",
+      "generalInfo": "Göbekden Milli Yatay Dikey İşleme",
+      "features": [
+        "Döndürülebilir Kontrol Paneli",
+        "Taşlanmış Şanzıman Dişlileri",
+        "X,Y Eksenlerinde Rulmanlı Mİller",
+        "X,Y DC Servo Motor Kontrolü",
+        "Şanzımanlı Yağlama Sistemi",
+        "Otomatik Yağlama Sistemi",
+        "Led Lamba"
+      ],
+      "specifications": {
+        "MODEL": "YSM-26SHB",
+        "İş Mİli Motoru": "5 Bg",
+        "Çektirme Mili": "ISO 40 İş Mili",
+        "Ağırlık": "2250 Kg",
+        "Ebatlar": "1970X2300x2550",
+        "Pinol Çapı": "105 MM",
+        "Tabla Ebadı": "1370X300",
+        "X Eksen Hareketi": "1000 MM",
+        "Y Eksen Hareketi": "400 MM",
+        "T Kanal Ölçüsü": "16 x 3 x 61 mm",
+        "İş Mili Devri - Dikey": "58-5560 rpm",
+        "İş Mili Devri - Yatay": "75 - 1450 rpm",
+        "Z eksen Hareketi": "480 MM"
+      },
+      "standardAccessories": [
+        "OTOMATİK YAĞLAMA",
+        "SOGUTMA SİSTEMİ",
+        "HALEJON İŞ LAMBASI",
+        "ÖN ARKA KIZAK KORUYUCU",
+        "İŞ MİLİ ÇEKTİRME",
+        "TAKIM ÇANTASI",
+        "HAREKETLİ SEFFAF TALAŞ SİPERLİGİ"
+      ],
+      "optionalAccessories": [
+        "HAVALI İŞ MİLİ CEKTİRME",
+        "DİGİTAL SİSTEM",
+        "YATAY DİKEY DÖNER TABLA",
+        "ÜNİVERSAL DİVİZÖR",
+        "YAN TARAMA KAFASI"
+      ]
+    },
+    {
+      "id": "king-ysm-26-chb",
+      "name": "KING YSM 26 CHB",
+      "category": "kalipci-freze",
+      "subcategory": "king-kalipci",
+      "image": "images/Urun Fotograflari/KİNG YSM - 26 CHB.webp",
+      "generalInfo": "Hassas & Güçlü Universal Çalışma",
+      "features": [
+        "Tabla Ölçüsü : 300 x 1370 mm",
+        "X - Y - Z Eksen : 1000 x 400 x 480 mm",
+        "Motor Gücü : 5 BG",
+        "İş Mili Koniği : ISO 40"
+      ],
+      "specifications": {
+        "MODEL": "KİNG YSM - 26 CHB",
+        "Tabla Ölçüsü": "300 x 1370 mm",
+        "T Kanalı": "16 x 3 x 61 mm",
+        "X- Y - Z Hareketler": "1000 x 400 x 480 mm",
+        "İş Mili Koniği": "ISO 40",
+        "Pinol Çapı": "105 mm",
+        "Pinol Hareketi": "140 mm",
+        "İş Mili Devri - Dikey": "58 - 5660 Rpm",
+        "İş Mili Devri - Yatay": "75 - 1450 Rpm",
+        "Motor Gücü": "5 BG",
+        "Ağırlık": "2200 - 2500 Kg"
+      },
+      "standardAccessories": [
+        "PENS TAKIMI",
+        "MENGENE",
+        "BAĞLAMA SETİ"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-sz-2200-hvd",
+      "name": "KING SZ 2200 HVD",
+      "category": "universal-kalipci-freze",
+      "subcategory": "king-universal",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KİNG SZ 2200 HVD.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ * SERVO MOTORLAR * KUTU KIZAKLAR * KLAVUZ ÇEKME TERTİBATI * GENİŞ REFERANS LİSTESİ",
+      "features": [
+        "5 BG. Motor Gücü",
+        "X, Y eksenlerinde Japon DC servo motorlar",
+        "X, Y eksenleri C5 sınıfı rulmanlı mil",
+        "16 kademeli hız seçeneği",
+        "Turcide B (Aşınmayan) kaplı KUTU kızaklar",
+        "Sarsıntı ve suya karşı optik cetvel koruması",
+        "Katlanır tip çevirme manuel kolları",
+        "3D (Alman) test kontrollü hassas kafa",
+        "Klavuz çekme tertibatı",
+        "Komparatör saati",
+        "F30 - FCD45 alaşım, giydirilmiş gövde iç yapısı",
+        "Otomatik zaman ayarlı yağlama sistemi",
+        "Talaş teknesi",
+        "Metal tezgah tamponları",
+        "Takım çantası ve avadanlıklar",
+        "Çalışma lambası",
+        "Türkçe pano"
+      ],
+      "specifications": {
+        "MODEL": "KİNG SZ 2200 HVD",
+        "İŞ MİLİ MOTORU": "75-3600 devir",
+        "Z EKSEN MOTOR GÜCÜ": "0.75 KW (1 HP)",
+        "YAĞLAMA POMPASI": "150 W (OTOMATİK ZAMAN AYARLI)",
+        "ELEKTRO MANYETİK POMPA": "40 W",
+        "İŞ MİLİ HIZI DİKEY": "75-3600 devir",
+        "İŞ MİLİ HIZI YATAY": "80-1220 D/DK 9 KADEMELİ",
+        "İŞ MİLİ KONİĞİ": "DIN 2080 ISO 40",
+        "PİNOL ÇAPI": "110 MM",
+        "PİNOL HAREKETİ": "140 MM",
+        "PİNOL OTOMATİK İLERLEME": "0.035/0.07/0.14.3 KADEMELİ",
+        "KOÇ KAFA HAREKETİ": "450 MM (İLERİ-GERİ)",
+        "İŞ MİLİ TABLA ARASI MESAFE": "530 MM",
+        "KAFA DÖNÜŞÜ": "45 DERECE (SAĞ -SOL)",
+        "TABLA BOYU": "1350X305 MM",
+        "X EKSEN HAREKETİ": "950 MM",
+        "Y EKSEN HAREKETİ": "400 MM",
+        "Z EKSEN HAREKETİ": "400 MM",
+        "T KANALI": "3X16X63 MM",
+        "KESME HIZI (X,Y)": "0-1500 MM/DK",
+        "İLERLEME HIZI ( X,Y)": "3000 MM-MİN",
+        "İLERLEME HIZI Z": "1150 MM/DK",
+        "MAKİNA ÖLÇÜLERİ": "2800X2300X2400 MM",
+        "MAKİNA AĞIRLIĞI": "2700 KG"
+      },
+      "standardAccessories": [
+        "5 BG. Motor Gücü",
+        "X, Y eksenlerinde Japon DC servo motorlar",
+        "X, Y eksenleri C5 sınıfı rulmanlı mil",
+        "16 kademeli hız seçeneği",
+        "Turcide B (Aşınmayan) kaplı KUTU kızaklar",
+        "Sarsıntı ve suya karşı optik cetvel koruması",
+        "Katlanır tip çevirme manuel kolları",
+        "3D (Alman) test kontrollü hassas kafa",
+        "Klavuz çekme tertibatı",
+        "Komparatör saati",
+        "F30 - FCD45 alaşım, giydirilmiş gövde iç yapısı",
+        "Otomatik zaman ayarlı yağlama sistemi",
+        "Talaş teknesi",
+        "Metal tezgah tamponları",
+        "Takım çantası ve avadanlıklar",
+        "Çalışma lambası",
+        "Türkçe pano"
+      ],
+      "optionalAccessories": [
+        "Pnömatik iş mili çektirme",
+        "Dijital koordinat okuyucusistem(gösterge + cetvel)",
+        "6'' mengene / pens takımı",
+        "İş parçası bağlama seti",
+        "İnvertörlü motor seçenek"
+      ]
+    },
+    {
+      "id": "king-sz-2200-hvsd",
+      "name": "KING SZ 2200 HVSD",
+      "category": "universal-kalipci-freze",
+      "subcategory": "king-universal",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KİNG SZ 2200 HVSD.webp",
+      "generalInfo": "ÜSTÜN TAİWAN TEKNOLOJİSİ * SERVO MOTORLAR * KUTU KIZAKLAR * KLAVUZ ÇEKME TERTİBATI * GENİŞ REFERANS LİSTESİ",
+      "features": [
+        "5 BG. Motor Gücü",
+        "X, Y eksenlerinde Japon DC servo motorlar",
+        "X, Y eksenleri C5 sınıfı rulmanlı mil",
+        "16 kademeli hız seçeneği",
+        "Turcide B (Aşınmayan) kaplı KUTU kızaklar",
+        "Sarsıntı ve suya karşı optik cetvel koruması",
+        "Katlanır tip çevirme manuel kolları",
+        "3D (Alman) test kontrollü hassas kafa",
+        "Klavuz çekme tertibatı",
+        "Komparatör saati",
+        "F30 - FCD45 alaşım, giydirilmiş gövde iç yapısı",
+        "Otomatik zaman ayarlı yağlama sistemi",
+        "Talaş teknesi",
+        "Metal tezgah tamponları",
+        "Takım çantası ve avadanlıklar",
+        "Çalışma lambası",
+        "Türkçe pano"
+      ],
+      "specifications": {
+        "MODEL": "KİNG SZ 2200 HVSD",
+        "İŞ MİLİ MOTORU": "3.7 KW (5HP)",
+        "Z EKSEN MOTOR GÜCÜ": "0.75 KW (1 HP)",
+        "YAĞLAMA POMPASI": "150 W (OTOMATİK ZAMAN AYARLI)",
+        "ELEKTRO MANYETİK POMPA": "40 W",
+        "İŞ MİLİ HIZI DİKEY": "75-3600 D/DK 16 KADEMELİ",
+        "İŞ MİLİ HIZI YATAY": "80-1220 D/DK 9 KADEMELİ",
+        "İŞ MİLİ KONİĞİ": "İSO 40",
+        "PİNOL ÇAPI": "110 MM",
+        "PİNOL HAREKETİ": "140 MM",
+        "PİNOL OTOMATİK İLERLEME": "0.035/0.07/0.14.3 KADEMELİ",
+        "KOÇ KAFA HAREKETİ": "450 MM (İLERİ-GERİ)",
+        "İŞ MİLİ TABLA ARASI MESAFE": "530 MM",
+        "KAFA DÖNÜŞÜ": "45 DERECE (SAĞ ,SOL)",
+        "TABLA BOYU": "1350X305 MM",
+        "X EKSEN HAREKETİ": "950 MM",
+        "Y EKSEN HAREKETİ": "400 MM",
+        "Z EKSEN HAREKETİ": "400 MM",
+        "T KANALI": "3X16X63 MM",
+        "KESME HIZI (X,Y)": "0-1500 MM/MİN",
+        "İLERLEME HIZI ( X,Y)": "3000 MM-MİN",
+        "İLERLEME HIZI Z": "1150 MM/MİN",
+        "MAKİNA ÖLÇÜLERİ": "2800X2300X2400 MM",
+        "MAKİNA AĞIRLIĞI": "2700 KG"
+      },
+      "standardAccessories": [
+        "5 BG. Motor Gücü",
+        "X, Y eksenlerinde Japon DC servo motorlar",
+        "X, Y eksenleri C5 sınıfı rulmanlı mil",
+        "16 kademeli hız seçeneği",
+        "Turcide B (Aşınmayan) kaplı KUTU kızaklar",
+        "Sarsıntı ve suya karşı optik cetvel koruması",
+        "Katlanır tip çevirme manuel kolları",
+        "3D (Alman) test kontrollü hassas kafa",
+        "Klavuz çekme tertibatı",
+        "Komparatör saati",
+        "F30 - FCD45 alaşım, giydirilmiş gövde iç yapısı",
+        "Otomatik zaman ayarlı yağlama sistemi",
+        "Talaş teknesi",
+        "Metal tezgah tamponları",
+        "Takım çantası ve avadanlıklar",
+        "Çalışma lambası",
+        "Türkçe pano"
+      ],
+      "optionalAccessories": [
+        "Pnömatik iş mili çektirme",
+        "Dijital koordinat okuyucusistem(gösterge + cetvel)",
+        "6'' mengene / pens takımı",
+        "İş parçası bağlama seti"
+      ]
+    },
+    {
+      "id": "kg-super-x6325w",
+      "name": "KG SUPER X6325W",
+      "category": "universal-kalipci-freze",
+      "subcategory": "kg-super-universal",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KG SUPER X6325W UNİVERSAL FREZE.webp",
+      "generalInfo": "Yatay & Dikey Kafalı Makine Yapısı Sayesinde Çok Fonksiyonlu Kullanıma Uygun Bir Makinedir",
+      "features": [
+        "X - Y eksenlerinde ALİGN AL-500 Motor Z Eksen Rapid Motor",
+        "X - Y eksenlerinde C5 Sınıfı Bilyalı Miller",
+        "Turcide - B kaplı X - Y Kızakları",
+        "3X Dijital Koordinat Okuyucu Sistem",
+        "Kolay Kullanımlı Kontrol Paneli",
+        "Sertleştirilmiş Tabla"
+      ],
+      "specifications": {
+        "MODEL": "KG SUPER X6325W UNİVERSAL FREZE",
+        "X Eksen Hareketi": "750 mm",
+        "Y Eksen Hareketi": "400 mm",
+        "Z Eksen Hareketi": "400 mm",
+        "Tabla Ebadı": "1370 x 305",
+        "İş Mili Hızı ( Dikey )": "66 - 4540 rpm",
+        "İş Mili Hızı ( Yatay )": "40 - 1300 rpm",
+        "İş Mili Koniği": "ISO 40",
+        "İş Mili Motor Gücü ( Dikey )": "3 kw",
+        "İş Mili Motor Gücü ( Yatay )": "3.7 kw",
+        "Pinol Çapı": "105 mm",
+        "Makine Ölçüleri": "1850 x 1650 x 2250 mm",
+        "Makine Ağırlığı": "1.750 kg"
+      },
+      "standardAccessories": [
+        "Pens Takımı",
+        "Mengene",
+        "Bağlama Seti",
+        "Sino Dijital Okuyucu Sistem"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kg-super-xl6436clw",
+      "name": "KG SUPER XL6436CLW KOÇ KAFA FREZE",
+      "category": "koc-kafa-freze",
+      "subcategory": "kg-super-koc-kafa",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KG SUPER XL6436CLW KOÇ KAFA FREZE.webp",
+      "generalInfo": "Tek otomatik servo motor ile 3 eksenden tahriklidir. X - Y - Z Eksenleri tek tuşla kontorl edilebilir. Şanzumanlı Dikey ve Yatay iş milleri Kaba talaş & Ebatlama işlerinizde güçlü yardımcı",
+      "features": [
+        "İş Mili Koruma Kapağı",
+        "Dikey İş Mili İçin Tutucu",
+        "Yatay Arbor Yatağı 27 Çap",
+        "Yatay Arbor Yatağı 32 Çap",
+        "Çektirme M24",
+        "17-19 / 22-24 / 36-41 Anahtarlar",
+        "Pul ve Somunlar / Allen Takımı",
+        "6\" Mengene",
+        "ISO 50 Pens Takımı 8'li",
+        "Tabla Talaş Koruma Kapağı",
+        "LED Lamba",
+        "Açılı Tabla",
+        "Otomatik Yağlama",
+        "Schneider Marka Elektrik Sistemi"
+      ],
+      "specifications": {
+        "MODEL": "KG SUPER XL6436CLW KOÇ KAFA FREZE",
+        "İş Mili Devirleri ( V )": "12 Kademe 60 - 1800 ( V ) d / dk",
+        "T Kanalı": "3 / 18 / 80 mm",
+        "Ağırlık": "2800 kg",
+        "Tabla Ebadı": "1600 x 360 mm",
+        "X Eksen Hareketi": "1300 mm",
+        "Y Eksen Hareketi": "320 mm",
+        "Z Eksen Hareketi": "450 mm",
+        "Hareket Hızı": "30-750 / 20-500 / 15-375",
+        "Kafa Hareketi": "550 mm",
+        "İş Milli Uçundan Tablaya Yüzeyine Mesafe": "196 - 646 mm",
+        "Yatay İş Mili Ucundan Tabla Yüzeyine Mesafe": "20 - 470 mm",
+        "İş Mili Merkezinden Kolon Yüzeyine Mesafe": "200 mm",
+        "İş Mili Devirleri": "12 Kademe 60 - 1750 ( H ) d/dk"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kg-super-xl6436c",
+      "name": "KG SUPER XL6436C KOÇ KAFA UNIVERSAL FREZE",
+      "category": "koc-kafa-freze",
+      "subcategory": "kg-super-koc-kafa",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KG SUPER XL6436C KOÇ KAFA UNIVERSAL FREZE.webp",
+      "generalInfo": "Tek otomatik servo motor ile 3 eksenden tahriklidir. X - Y - Z Eksenleri tek tuşla kontorl edilebilir. Şanzumanlı Dikey ve Yatay iş milleri Kaba talaş & Ebatlama işlerinizde güçlü yardımcı",
+      "features": [
+        "İş Mili Koruma Kapağı",
+        "Dikey İş Mili İçin Tutucu",
+        "Yatay Arbor Yatağı 27 Çap",
+        "Yatay Arbor Yatağı 32 Çap",
+        "Çektirme M24",
+        "17-19 / 22-24 / 36-41 Anahtarlar",
+        "Pul ve Somunlar / Allen Takımı",
+        "6\" Mengene",
+        "ISO 50 Pens Takımı 8'li",
+        "Tabla Talaş Koruma Kapağı",
+        "LED Lamba",
+        "Açılı Tabla",
+        "Otomatik Yağlama",
+        "Schneider Marka Elektrik Sistemi"
+      ],
+      "specifications": {
+        "MODEL": "KG SUPER XL6436C KOÇ KAFA UNIVERSAL FREZE",
+        "Tabla Ebadı": "1325 x 360 mm",
+        "X Eksen Hareketi": "1100 mm",
+        "Y Eksen Hareketi": "320 mm",
+        "Z Eksen Hareketi": "450 mm",
+        "Kafa Hareketi": "550 mm",
+        "İş Mili Ucundan Tabla Yüzeyinden Mesafe": "196 - 646 mm",
+        "Yatay İş Mili Ucundan Tablaya Mesafe": "20 - 470 mm",
+        "İş Mili Merkezinden Kolon Yüzeyine Mesafe": "200 mm",
+        "İş Mili Devirleri ( H )": "12 Kademe 60 - 1750 ( H ) d /dk",
+        "İş Mili Devirleri ( V )": "12 Kademe 60 - 1800 ( V ) d / dk",
+        "T Kanalı": "3 / 18 / 80 mm",
+        "Ağırlık": "2750 kg"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-grinder-sg-3060-ahd",
+      "name": "KING GRINDER SG-3060 AHD",
+      "category": "taslama-tezgahlari",
+      "subcategory": "king-grinder",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KING GRINDER SG-3060 AHD.webp",
+      "generalInfo": "PLC Otomatik Taşlama Kontrol (Siemens) ve İki Eksen Dijital Okuyucu ile donatılmış hassas taşlama tezgahı",
+      "features": [
+        "PLC Otomatik Taşlama Kontrol (Siemens)",
+        "İki Eksen Dijital Okuyucu"
+      ],
+      "specifications": {
+        "MODEL": "KING GRINDER SG-3060 AHD",
+        "Tabla Ebadı": "305 x 635 mm",
+        "Max. Yatay Hareket": "765 mm",
+        "Max. Croos Hareket": "340 mm",
+        "İş Milli Merkezinden Tablaya Ölçü": "580 mm",
+        "Manyetik Tabla Ebadı": "300 x 600 mm",
+        "Tabla El Çarkı İle İlerleme": "0.02 mm/div",
+        "Taş Otomatik İlerleme": "0.0005/0.05 mm",
+        "Taşlama Taşı Hızı": "1750 d/dk",
+        "Taş Ebadı": "350x40x127",
+        "İş Mili Motoru": "4 kw",
+        "Max. Tabla Yükü": "270 Kg",
+        "Ağırlık": "2800 kg"
+      },
+      "standardAccessories": [
+        "Sıvı ünitesi",
+        "Manyetik Sepratör",
+        "Elektro Manyetik Tabla",
+        "Balans Mil",
+        "Taş Sökme Aparatı",
+        "Balans Sehpası",
+        "Taşlama Taşı",
+        "Taş Bileme Standı",
+        "PLC Otomatik Taşlama Kontrol (Siemens)",
+        "İki Eksen Dijital Okuyucu",
+        "Yedek Flanş",
+        "Luxury Type Kabin Arka Koruması"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-grinder-sg-4080-ahd",
+      "name": "KING GRINDER SG-4080 AHD",
+      "category": "taslama-tezgahlari",
+      "subcategory": "king-grinder",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KING GRINDER SG-4080 AHD.webp",
+      "generalInfo": "PLC Otomatik Taşlama Kontrol (Siemens) ve İki Eksen Dijital Okuyucu ile donatılmış hassas taşlama tezgahı",
+      "features": [
+        "PLC Otomatik Taşlama Kontrol (Siemens)",
+        "İki Eksen Dijital Okuyucu"
+      ],
+      "specifications": {
+        "MODEL": "KING GRINDER SG-4080 AHD",
+        "Tabla Ölçüsü": "406x813 mm",
+        "Max. Yatay Hareket": "910 mm",
+        "Max. Croos Hareket": "450 mm",
+        "İş Milli Merkezinden Tablaya Ölçü": "580 mm",
+        "Manyetik Tabla Ebadı": "400x800 mm",
+        "Tabla Hızı": "5-25 m/dk",
+        "Tabla Otomatik İlerleme": "0.1-8 mm",
+        "Tabla El Çarkı ile İlerleme": "0.02 mm/div",
+        "Tabla Rapid İlerleme": "990 mm/dk",
+        "Taş Otomatik İlerleme": "0.0005/0.05 mm",
+        "Taşlama Taşı Hızı": "1750 d/dk",
+        "Taş Ebadı": "350x40x127",
+        "İş Mili Motoru": "4 kw",
+        "Z Eksen Hareket Motoru": "Servo",
+        "Max. Tabla Yükü": "500 kg",
+        "Makina Ebadı": "3600x2400x1890 mm",
+        "Ağırlık": "3400 kg"
+      },
+      "standardAccessories": [
+        "Sıvı ünitesi",
+        "Manyetik Sepratör",
+        "Elektro Manyetik Tabla",
+        "Balans Mil",
+        "Taş Sökme Aparatı",
+        "Balans Sehpası",
+        "Taşlama Taşı",
+        "Taş Bileme Standı",
+        "PLC Otomatik Taşlama Kontrol (Siemens)",
+        "İki Eksen Dijital Okuyucu",
+        "Yedek Flanş",
+        "Luxury Type Kabin Arka Koruması"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-sg-40100-ahd",
+      "name": "KING SG-40100 AHD",
+      "category": "taslama-tezgahlari",
+      "subcategory": "king-grinder",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KING SG-40100 AHD.webp",
+      "generalInfo": "İki Eksen Dijital Okuyucu ile donatılmış hassas taşlama tezgahı",
+      "features": [
+        "İki Eksen Dijital Okuyucu"
+      ],
+      "specifications": {
+        "MODEL": "KING SG-40100 AHD",
+        "Tabla Ölçüsü": "406 x 1020 mm",
+        "Max. Yatay Hareket": "1130 mm",
+        "Max. Croos Hareket": "450 mm",
+        "İş Milli Merkezinden Tablaya Ölçü": "580 mm",
+        "Manyetik Tabla Ebadı": "400 x 1000 mm",
+        "Tabla El Çarkı İle İlerleme": "0.02 mm/div",
+        "Taş Otomatik İlerleme": "0.0005/0.05 mm",
+        "Taşlama Taşı Hızı": "1750 d/dk",
+        "Taş Ebadı": "350 x 40 x 127 mm",
+        "İş Mili Motoru": "4 kw",
+        "Max. Tabla Yükü": "600 kg",
+        "Ağırlık": "3700 kg"
+      },
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-c0636dx1000",
+      "name": "KING C0636DX1000",
+      "category": "torna-tezgahlari",
+      "subcategory": "king-torna",
+      "subSubcategory": "",
+      "image": "",
+      "generalInfo": "",
+      "features": [],
+      "specifications": {},
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-cm6241x1000",
+      "name": "KING CM6241X1000",
+      "category": "torna-tezgahlari",
+      "subcategory": "king-torna",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/CM6241-1000.webp",
+      "generalInfo": "ÜNİVERSAL TORNA",
+      "features": [
+        "DÖKÜM GÖVDE",
+        "GENİŞ REFERANS LİSTESİ",
+        "SORUNSUZ ÇALIŞMA",
+        "410 ÇAP",
+        "1800 DEVİR",
+        "3 AYAKLI AYNA",
+        "SABİT PUNTA",
+        "GEZER LÜNET",
+        "SABİT LÜNET",
+        "KALEMLİK",
+        "AYDINLATMA LAMBASI"
+      ],
+      "specifications": {
+        "MODEL": "CM6241/1000",
+        "BANKO ÜZERİ ÇAP": "410 MM",
+        "ARABA ÜZERİ ÇAP": "255 MM",
+        "KÖPRÜ BOŞLUĞUNDAKİ ÇAP": "580 MM",
+        "BANKO GENİŞLİĞİ": "250 MM",
+        "PUNTALAR ARASI MESAFE": "1000 MM",
+        "MİL DELİK ÇAPI": "52 MM",
+        "MİL KONİĞİ": "M.T.NO 6",
+        "MİL HIZ ARALIĞI": "45-1800",
+        "ENİNE SUPPORT HAREKETİ": "250 MM",
+        "ÇAPRAZ SUPORT HAREKETİ": "140 MM",
+        "DOĞRUSAL İLERLEME ORANI": "0.005-1.7 MM",
+        "ENİNE İLERLEME ORANI": "0.025-0.85 MM",
+        "METRİK": "0.2-14 MM",
+        "WİTHWORTH 38": "2-72 TPI HATVE",
+        "MODÜL HATVE": "0.3-3.5 MP",
+        "DİAMETRİK HATVE 31": "8-44 DP",
+        "KARŞI PUNTA ÇAPI": "50 MM",
+        "KARŞI PUNTA KONİĞİ": "M.T. NO 4",
+        "KARŞI PUNTA STROKU": "120 MM",
+        "ANA MOTOR ÇIKIŞ GÜCÜ": "3 KW",
+        "GENİŞLİK -YÜKSEKLİK": "85X132 MM",
+        "UZUNLUK": "195 MM",
+        "AĞIRLIK": "1.160 KG"
+      },
+      "standardAccessories": [
+        "3 AYAKLI AYNA",
+        "SABİT PUNTA",
+        "GEZER LÜNET",
+        "SABİT LÜNET",
+        "KALEMLİK", 
+        "AYDINLATMA LAMBASI",
+        "SOĞUTMA SUYU SİSTEMİ"
+      ],
+      "optionalAccessories": [
+        "DİJİTAL KOORDİNAT OKUYUCU SİSTEM",
+        "KONİK TORNALAMA APARATI",
+        "4 AYAKLI AYNA",
+        "DÖNER PUNTA",
+        "BÜYÜK ÇAP SABİT YATAK"
+      ]
+    },
+    {
+      "id": "king-cs6250b-1500",
+      "name": "KING CS6250B/1500",
+      "category": "torna-tezgahlari",
+      "subcategory": "king-torna",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KING CS - 6250 - 1500.webp",
+      "generalInfo": "ÜNİVERSAL TORNA",
+      "features": [
+        "GENİŞ BANKO",
+        "YÜKSEK KAPASİTE",
+        "GÜÇLÜ MOTOR"
+      ],
+      "specifications": {
+        "MODEL": "KING CS - 6250 / 1500",
+        "Banko Üzeri Çap": "500 mm",
+        "Araba Üzeri Çap": "300 mm",
+        "Köprü Boşluğundaki Çap": "710 mm",
+        "Banko Genişliği": "405 mm",
+        "Puntalar Arası Mesafe": "1500 mm",
+        "Köprü Kanal Uzunluğı": "240 mm",
+        "Mil Ucu": "D1-8",
+        "Mil Delik Çapı": "80 mm",
+        "Mil Koniği": "MT-7",
+        "Mil Hız Kademesi": "24",
+        "Mil Hız Aralığı": "9 - 1600",
+        "Doğrusal ve Enine ilerleme Sayısı": "65",
+        "Doğrusal İlerleme Oranı": "0.063- 2.52",
+        "Enine İlerleme Oranı": "0.027 - 1.07",
+        "Hızlı Doğrusal İlerleme": "4.5",
+        "Hızlı Enine İlerleme": "1.9",
+        "Kalemlik Ölcüsü": "25 x 25",
+        "Metrik Havte Sayısı": "48",
+        "Metrik Havte Oranı": "0.5 - 112",
+        "Karşı Punta Pinol Hareketi": "150 mm",
+        "Karşı Punta Konikliği": "MT-5",
+        "Ana Motor Gücü": "7.5 KW",
+        "Hızlı İlerleme Motor GücÜ": "250 W",
+        "Ağırlık": "2.300 KG"
+      },
+      "standardAccessories": [
+        "ÜÇ AYAKLI AYNA 250 MM",
+        "KEPENKLİ AYNA 320 MM",
+        "SERBEST AYAKLI AYNA 400 MM",
+        "YEDEK AYNA FLANŞ",
+        "FIRDÖNDÜ AYNA",
+        "SABİT VE GEZER ARA YATAK",
+        "YAĞLAMA POMPASI",
+        "TALAŞ MUHAFAZASI",
+        "KORUYUCU SİPERLİK",
+        "MİL ASKI APARATI"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-cs6250b-2000",
+      "name": "KING CS6250B/2000",
+      "category": "torna-tezgahlari",
+      "subcategory": "king-torna",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KING CS - 6250 - 2000.webp",
+      "generalInfo": "ÜNİVERSAL TORNA",
+      "features": [
+        "GENİŞ BANKO",
+        "YÜKSEK KAPASİTE",
+        "GÜÇLÜ MOTOR"
+      ],
+      "specifications": {
+        "MODEL": "KING CS - 6250 / 2000",
+        "Banko Üzeri Çap": "500 mm",
+        "Araba Üzeri Çap": "300 mm",
+        "Köprü Boşluğundaki Çap": "710 mm",
+        "Banko Genişliği": "405 mm",
+        "Puntalar Arası Mesafe": "2000 mm",
+        "Köprü Kanal Uzunluğu": "240 mm",
+        "Mil Ucu": "D1-8",
+        "Mil Delik Çapı": "80 mm",
+        "Mil Koniği": "MT-7",
+        "Mil Hız Kademesi": "24",
+        "Mil Hız Kademesi": "9 - 1600 rpm",
+        "Kalemlik Ölçüsü": "25 x 25 mm",
+        "Metrik Hatve Sayısı": "48",
+        "Metrik Hatve Oranı": "0.5 - 224 mm",
+        "Karşı Punta Pinol Hareket": "150 mm",
+        "Karşı Punta Konikliği": "MT-5",
+        "Ana Motor Gücü": "7.5 kw",
+        "Ağırlık": "2.500 KG"
+      },
+      "standardAccessories": [
+        "ÜÇ AYAKLI AYNA 250 MM",
+        "KEPENKLİ AYNA 320 MM",
+        "SERBEST AYAKLI AYNA 400 MM",
+        "YEDEK AYNA FLANŞ",
+        "FIRDÖNDÜ AYNA",
+        "SABİT VE GEZER ARA YATAK",
+        "YAĞLAMA POMPASI",
+        "TALAŞ MUHAFAZASI",
+        "KORUYUCU SİPERLİK",
+        "MİL ASKI APARATI"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-cs6266c-2000",
+      "name": "KING CS6266C/2000",
+      "category": "torna-tezgahlari",
+      "subcategory": "king-torna",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KİNG CS-6266C - 2000.webp",
+      "generalInfo": "ÜNİVERSAL TORNA",
+      "features": [
+        "GENİŞ BANKO",
+        "YÜKSEK KAPASİTE",
+        "GÜÇLÜ MOTOR",
+        "BÜYÜK MİL DELİĞİ"
+      ],
+      "specifications": {
+        "MODEL": "KING CS6266C/2000",
+        "Banko Üzeri Çap": "660 mm",
+        "Araba Üzeri Çap": "420 mm",
+        "Köprü Boşluğundaki Çap": "870 mm",
+        "Banko Genişliği": "405 mm",
+        "Puntalar Arası Mesafe": "2000 mm",
+        "Köprü Kanal Uzunluğu": "240 mm",
+        "Mil Ucu": "D1-8",
+        "Mil Delik Çapı": "105 mm",
+        "Mil Koniği": "MT-7",
+        "Mil Hız Kademesi": "12",
+        "Mil Hız Aralığı": "36 - 1600",
+        "Doğrusal ve Enine İlerleme Sayısı": "65",
+        "Doğrusal İlerleme Oranı": "0.063 - 2.52",
+        "Enine İlerleme Oranı": "0.027 - 1.07",
+        "Hızlı Doğrusal İlerleme": "4.5",
+        "Hızlı Enine İlerleme": "2.0",
+        "Maksimum Enine Suport Hareketi": "310 mm",
+        "Maksimum Çapraz Suport Hareketi": "145 mm",
+        "Maksimum Araba Hareketi": "1900 mm",
+        "Kalemlik Ölçüsü": "25 x 25 mm",
+        "Metrik Hatve Sayısı": "22",
+        "Metrik Hatve Oranı": "1 - 14 mm",
+        "Karşı Punta Pinol Hareketi": "150 mm",
+        "Karşı Punta Konikliği": "MT-5",
+        "Ana Motor Gücü": "7.5 kw",
+        "Ağırlık": "2.700 kg"
+      },
+      "standardAccessories": [
+        "Üç Ayaklı Ayna 250 mm",
+        "Kepenkli Ayna 400 mm",
+        "Serbest Ayaklı Ayna 400 mm",
+        "Yedek Ayna Flanşı",
+        "Fırdöndü Ayna",
+        "Sabit ve Gezer Ara Yatak",
+        "Yağlama Pompası",
+        "Talaş Muhafazası",
+        "Koruyucu Siperlik",
+        "Mil Askı Aparatı"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "king-cs6266c-3000",
+      "name": "KING CS6266C/3000",
+      "category": "torna-tezgahlari",
+      "subcategory": "king-torna",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KİNG CS-6266C - 3000.webp",
+      "generalInfo": "Banko Üzeri Çap : 660 mm Fener Mil Çapı : 105 mm",
+      "features": [
+        "GENİŞ BANKO",
+        "YÜKSEK KAPASİTE",
+        "GÜÇLÜ MOTOR",
+        "BÜYÜK MİL DELİĞİ"
+      ],
+      "specifications": {
+        "MODEL": "KING CS6266C/3000",
+        "Banko Üzeri çap": "660 mm",
+        "Araba Üzeri Çap": "420 mm",
+        "Köprü Boşluğundaki Çap": "870 mm",
+        "Banko Genişliği": "405 mm",
+        "Puntalar Arası Mesafe": "3000 mm",
+        "Köprü Kanal Uzunluğu": "240 mm",
+        "Mil Ucu": "D1-8",
+        "Mil Delik Çapı": "105 mm",
+        "Mil Hız Kademesi": "12",
+        "Kalemlik Ölçüsü": "25 x 25 mm",
+        "Metrik Hatve Sayısı": "22",
+        "Metrik Hatve Oranı": "1 - 14 mm",
+        "Max. Araba Hareketi": "2900 mm",
+        "Karşı Punta Pinol Hareket": "150 mm",
+        "Ağırlık": "3.000 kg"
+      },
+      "standardAccessories": [
+        "Üç Ayaklı Ayna 250 mm",
+        "Kepenkli Ayna 400 mm",
+        "Serbest Ayaklı Ayna 400 mm",
+        "Yedek Ayna Flanşı",
+        "Fırdöndü Ayna",
+        "Sabit ve Gezer Ara Yatak",
+        "Yağlama Pompası",
+        "Talaş Muhafazası",
+        "Koruyucu Siperlik",
+        "Mil Askı Aparatı"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kg-super-z3032x14",
+      "name": "KG SUPER Z3032X14",
+      "category": "radyal-matkap",
+      "subcategory": "kg-super-radyal",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KG SUPER Z 3032x14 RADYAL MATKAP.webp",
+      "generalInfo": "Radyal Matkap Tezgahı",
+      "features": [
+        "Hassas ve Kolay Kullanım",
+        "Güçlü Performans",
+        "Dayanıklı Yapı"
+      ],
+      "specifications": {
+        "MODEL": "KG SUPER Z 3032x14 RADYAL MATKAP",
+        "Max. Delme Çapı": "32 mm",
+        "İş Mili Ucundan Tablaya Mesafe": "220 - 980 mm",
+        "İş Mili Merkezinden Kolona Mesafe": "260 - 1000 mm",
+        "İş Mili Hareketi": "120 mm",
+        "İş Mili Koniği": "4",
+        "İş Mili Devirleri": "108 / 162 / 262 / 398 / 665 / 1000 d/dk",
+        "İş Mili Devir Adet": "6",
+        "İş Mili Otomatik İlerleme": "0.10 - 0.25 mm",
+        "Kafa Dönüş Açısı": "360°",
+        "Ana Motor Gücü": "1.5 kw",
+        "Hareket Motor Gücü": "0.75 kw",
+        "Ağırlık": "800 kg"
+      },
+      "standardAccessories": [
+        "Mandren & Mandren Konikleri",
+        "Çalışma Lambası",
+        "Takım Çantası",
+        "Kama",
+        "Gönye"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kg-super-z3040x14",
+      "name": "KG SUPER Z3040X14",
+      "category": "radyal-matkap",
+      "subcategory": "kg-super-radyal",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KG SUPER Z 3040x14 RADYAL MATKAP.webp",
+      "generalInfo": "Radyal Matkap Tezgahı",
+      "features": [
+        "Hassas ve Kolay Kullanım",
+        "Güçlü Performans",
+        "Dayanıklı Yapı"
+      ],
+      "specifications": {
+        "MODEL": "KG SUPER Z 3040x14 RADYAL MATKAP",
+        "Max. Delme Çapı": "40 mm",
+        "İş Mili Ucundan Tablaya Mesafe": "320 - 1180 mm",
+        "İş Mili Merkezinden Kolona Mesafe": "350 - 1100 mm",
+        "İş Mili Hareketi": "180 mm",
+        "İş Mili Koniği": "4",
+        "İş Mili Devirleri": "75 / 130 / 240 / 380 / 660 / 1200 d/dk",
+        "İş Mili Devir Adet": "6",
+        "İş Mili Otomatik İlerleme": "0.10 - 0.25 mm",
+        "Kafa Dönüş Açısı": "90°",
+        "Ana Motor Gücü": "2.2 kw",
+        "Hareket Motor Gücü": "0.75 kw"
+      },
+      "standardAccessories": [
+        "Mandren & Mandren Konikleri",
+        "Çalışma Lambası",
+        "Takım Çantası",
+        "Kama",
+        "Gönye"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kg-super-z3050x14",
+      "name": "KG SUPER Z3050X14",
+      "category": "radyal-matkap",
+      "subcategory": "kg-super-radyal",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KG SUPER Z 3050x14 RADYAL MATKAP.webp",
+      "generalInfo": "Radyal Matkap Tezgahı",
+      "features": [
+        "Hassas ve Kolay Kullanım",
+        "Güçlü Performans",
+        "Dayanıklı Yapı"
+      ],
+      "specifications": {
+        "MODEL": "KG SUPER Z 3050x14 RADYAL MATKAP",
+        "Max. Delme Çapı": "50 mm",
+        "İş Mili Ucundan Tablaya Mesafe": "300 - 1200 mm",
+        "İş Mili Merkezinden Kolona Mesafe": "350 - 1310 MM",
+        "İş Mili Hareketi": "200 mm",
+        "İş Mili Koniği": "5",
+        "İş Mili Devirleri": "78 / 135 / 250 / 350 / 590 / 1100 d/dk",
+        "İş Mili Devir Adet": "6",
+        "İş Mili Otomatik İlerleme": "0.10 - 0.50 mm",
+        "Kafa Dönüş Açısı": "90°",
+        "Ana Motor Gücü": "4 kw",
+        "Hareket Motor Gücü": "1.5 kw"
+      },
+      "standardAccessories": [
+        "Mandren & Mandren Konikleri",
+        "Çalışma Lambası",
+        "Takım Çantası",
+        "Kama",
+        "Gönye"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kg-super-z3040x13",
+      "name": "KG SUPER Z3040X13",
+      "category": "radyal-matkap",
+      "subcategory": "kg-super-radyal",
+      "subSubcategory": "",
+      "image": "",
+      "generalInfo": "",
+      "features": [],
+      "specifications": {},
+      "standardAccessories": [],
+      "optionalAccessories": []
+    },
+    {
+      "id": "jbs-180t",
+      "name": "JBS 180T",
+      "category": "testere-tezgahlari",
+      "subcategory": "jetco-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/JBS 180T.webp",
+      "generalInfo": "Bimatel Şerit Testere",
+      "features": [
+        "Ayarlanabilir Dayama Kolu",
+        "Hidrolik Aşagı İlerleme Sistemi",
+        "Sogutma Sistemi",
+        "Dört Kademeli Kasnak Sistemi",
+        "Emniyet Swichtli Testere Kasnak Kapagı",
+        "Kesim Sonunda Otomatik Durma İçin Swicht",
+        "Kafa Dik Konumda Sabitlenerek Kesim Yapabilme Özelligi",
+        "Talaş Fırçası",
+        "Tekerlekli Ve Talaş Tekneli Kapalı Stand"
+      ],
+      "specifications": {
+        "MODEL": "JBS 180T",
+        "Kesma Kapasitesi 90 Derecede": "180 mm",
+        "Kesme Kapasitesi 45 Derecede": "110 mm",
+        "Şerit Testere Ölçüleri": "20 x 0.9 x 2362 mm",
+        "Mengene Acı Aralıgı": "0-45 Derece",
+        "Şerit Kasnak Çapı": "300 mm",
+        "Şerit Hızları 4 Kademe": "20-32-45-72 mt/dk.",
+        "Çalışma Voltajı": "400 V",
+        "Motor Giriş Gücü": "1.9 HP",
+        "Motor Çıkış Gücü": "1 HP",
+        "Soğutucu Sistem Sıvı Kapasitesi": "8 Litre",
+        "Ölçüler": "1260x520x970 mm",
+        "Ağırlık": "145 kg"
+      },
+      "standardAccessories": [
+        "Bimetel Şerit Testere", 
+        "Hidrolik Aşağı İlerleme Sistemi", 
+        "Dört Kademeli Kasnak Sistemi", 
+        "Emniyet Swici", 
+        "Talaş Fırçası", 
+        "Otomatik Durma Swici"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "jbs-180m",
+      "name": "JBS 180M",
+      "category": "testere-tezgahlari",
+      "subcategory": "jetco-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/JBS 180M.webp",
+      "generalInfo": "Manuel Şerit Testere",
+      "features": [
+        "Ayarlanabilir Dayama Kolu",
+        "Manuel Aşağı İlerleme",
+        "Soğutma Sistemi",
+        "Dört Kademeli Kasnak Sistemi",
+        "Emniyet Switchli Testere Kasnak Kapağı",
+        "Talaş Fırçası",
+        "Tekerlekli ve Talaş Tekneli Kapalı Stand"
+      ],
+      "specifications": {
+        "MODEL": "JBS 180M",
+        "Kesme Kapasitesi 90 Derecede": "178 mm",
+        "Kesme Kapasitesi 45 Derecede": "127 mm",
+        "Şerit Testere Ölçüleri": "20 x 0.9 x 2362 mm",
+        "Mengene Açı Aralığı": "0-45 Derece",
+        "Şerit Hızları 4 Kademe": "20-32-45-72 mt/dk.",
+        "Çalışma Voltajı": "400 V",
+        "Motor Giriş Gücü": "1.5 HP",
+        "Soğutucu Sistem Sıvı Kapasitesi": "8 Litre",
+        "Ölçüler": "1260x520x970 mm",
+        "Ağırlık": "140 kg"
+      },
+      "standardAccessories": [
+        "Bimetal Şerit Testere", 
+        "Dayama Kolu", 
+        "Dört Kademeli Kasnak Sistemi", 
+        "Emniyet Swici", 
+        "Talaş Fırçası"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "jbs-180gt",
+      "name": "JBS 180GT",
+      "category": "testere-tezgahlari",
+      "subcategory": "jetco-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/JBS 180GT.webp",
+      "generalInfo": "TAİWAN MENŞEİ",
+      "features": [
+        "Ayarlanabilir Dayama Kolu",
+        "Hidrolik Aşagı İlerleme Sistemi",
+        "Sogutma Sistemi",
+        "Dört Kademeli Kasnak Sistemi",
+        "Emniyet Swichtli Testere Kasnak Kapagı",
+        "Kesim Sonunda Otomatik Durma İçin Swicht",
+        "Kafa Dik Konumda Sabitlenerek Kesim Yapabilme Özelligi",
+        "Talaş Fırçası",
+        "Tekerlekli Ve Talaş Tekneli Kapalı Stand"
+      ],
+      "specifications": {
+        "MODEL": "JBS 180GT",
+        "Kesme Kapasitesi 90": "178 MM",
+        "Kesme Kapasitesi 45": "127 MM",
+        "Şerit Testere Ölçüleri": "19.05x0.8x2362 MM",
+        "Mengene Açı Aralığı": "0-45 MM",
+        "Şerit Hızları 4 Kademe": "34-50-65 M/DAK",
+        "Çalışma Voltajı": "400 V",
+        "Motor Gücü": "0.75 kw (1 HP)",
+        "Ölçüler ( BXGXY )": "1285x500x1000 MM",
+        "Ağırlık": "145 Kg"
+      },
+      "standardAccessories": [
+        "BİMETAL ŞERİT TESTERE", 
+        "AYARLANABİLİR DAYAMA KOLU", 
+        "DÖRT KADEMELİ KASNAK SİSTEMİ", 
+        "TALAŞ FIRÇASI", 
+        "OTOMATİK DURMA SWİCH"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "jbs-200t",
+      "name": "JBS 200T",
+      "category": "testere-tezgahlari",
+      "subcategory": "jetco-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/JBS 200T.webp",
+      "generalInfo": "Bimetal Şerit Testere",
+      "features": [
+        "Ayarlanabilir Dayama Kolu",
+        "Hidrolik Aşagı İlerleme Sistemi",
+        "Sogutma Sistemi",
+        "Dört Kademeli Kasnak Sistemi",
+        "Emniyet Swichtli Testere Kasnak Kapagı",
+        "Kesim Sonunda Otomatik Durma İçin Swicht",
+        "Kafa Dik Konumda Sabitlenerek Kesim Yapabilme Özelligi",
+        "Talaş Fırçası",
+        "Tekerlekli Ve Talaş Tekneli Kapalı Stand"
+      ],
+      "specifications": {
+        "MODEL": "JBS 200T",
+        "Kesme Kapasitesi 90 Derecede": "200 mm",
+        "Kesme Kapasitesi 45 Derecede": "125 mm",
+        "Şerit Testere Ölçüleri": "20 x 0.9 x 2362 mm",
+        "Mengene Acı Aralıgı": "0-45 Derece",
+        "Şerit Kasnak Çapı": "290 mm",
+        "Şerit Hızları 4 Kademe": "25-40-60-80 mt / dk",
+        "Çalışma Voltajı": "400 V",
+        "Motor Giriş Gücü": "1.9 HP",
+        "Motor Çıkış Gücü": "1 HP",
+        "Soğutucu Sistem Sıvı Kapasitesi": "8 Litre",
+        "Ölçüler (B x G x Y)": "1250x440x1100 mm",
+        "Ağırlık": "160 kg"
+      },
+      "standardAccessories": [
+        "Bimetel Şerit Testere", 
+        "Hidrolik Aşağı İlerleme Sistemi", 
+        "Dört Kademeli Kasnak Sistemi", 
+        "Emniyet Swici", 
+        "Talaş Fırçası", 
+        "Otomatik Durma Swici"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "jbs-200gt",
+      "name": "JBS 200GT",
+      "category": "testere-tezgahlari",
+      "subcategory": "jetco-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/JBS 200GT.webp",
+      "generalInfo": "Taiwan Menşeili Profesyonel Şerit Testere",
+      "features": [
+        "Ayarlanabilir Dayama Kolu",
+        "Hidrolik Aşagı İlerleme Sistemi",
+        "Sogutma Sistemi",
+        "Dört Kademeli Kasnak Sistemi",
+        "Emniyet Swichtli Testere Kasnak Kapagı",
+        "Kesim Sonunda Otomatik Durma İçin Swicht",
+        "Talaş Fırçası",
+        "Tekerlekli Ve Talaş Tekneli Kapalı Stand"
+      ],
+      "specifications": {
+        "MODEL": "JBS 200GT",
+        "Kesme Kapasitesi 90": "200 mm",
+        "Kesme Kapasitesi 45": "127 mm",
+        "Şerit Testere Ölçüleri": "19.05x0.8x2362 mm",
+        "Mengene Açı Aralığı": "0-45",
+        "Şerit Hızları 4 Kademe": "34-50-65 m/dak",
+        "Çalışma Voltajı": "400 V",
+        "Motor Gücü": "0.75 kw (1 HP)",
+        "Ölçüler (BXGXY)": "1235x430x1100 mm",
+        "Ağırlık": "190 kg"
+      },
+      "standardAccessories": [
+        "Bimetal Şerit Testere", 
+        "Ayarlanabilir Dayama Kolu", 
+        "Dört Kademeli Kasnak Sistemi", 
+        "Talaş Fırçası", 
+        "Otomatik Durma Switch"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kme-220",
+      "name": "KME 220",
+      "category": "testere-tezgahlari",
+      "subcategory": "kesmak-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KME 220.webp",
+      "generalInfo": "Kesmak Şerit Testere",
+      "features": [
+        "Açılı Kesim",
+        "Malzeme Sıkma",
+        "Talaş Fırçası",
+        "Malzeme Sürme Hassasiyeti",
+        "Üst Baskı",
+        "Kesim Hızı",
+        "Kontrol Ünitesi Sehba",
+        "Malzeme Dayama",
+        "Talaş Konveyorü",
+        "Yükseklik Ayarı"
+      ],
+      "specifications": {
+        "MODEL": "KME 220",
+        "Kesme Kapasitesi 90": "220 MM",
+        "Kare Kesim": "200x200 Mm",
+        "Dikdörtgen Kesim": "200x250 Mm",
+        "ANA MOTOR GÜCÜ": "1.5 Kw",
+        "Bor Yağ Motor Gücü": "0.12 Kw",
+        "Hidrolik Motor Gücü": "0.18 Kw",
+        "Sürücü Motor Gücü": "0.37 Kw",
+        "Şerit Ebadı": "0.9X27X3300 MM",
+        "Bor Yağ Depo Hacmi": "30 Lt",
+        "Hidrolik Depo Hacmi": "6.5 Lt",
+        "Besleme Yüksekligi": "715 Mm",
+        "Sürme Boyu": "600 Mm",
+        "Ağırlık": "570 Kg"
+      },
+      "standardAccessories": [
+        "Talaş Konveyorü",
+        "Malzeme Dayama",
+        "Takım Çantası",
+        "Malzeme Sıkma",
+        "Talaş Fırcası"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kmo-220",
+      "name": "KMO 220",
+      "category": "testere-tezgahlari",
+      "subcategory": "kesmak-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KMO 220.webp",
+      "generalInfo": "Kesmak Şerit Testere",
+      "features": [
+        "Açılı Kesim",
+        "Malzeme Sıkma",
+        "Talaş Fırçası",
+        "Malzeme Sürme Hassasiyeti",
+        "Üst Baskı",
+        "Kesim Hızı",
+        "Kontrol Ünitesi Sehba",
+        "Malzeme Dayama",
+        "Talaş Konveyorü",
+        "Yükseklik Ayarı"
+      ],
+      "specifications": {
+        "MODEL": "KMO 220",
+        "Kesme Kapasitesi 90": "220 Mm",
+        "Kare Kesim": "180x180 Mm",
+        "Dikdörtgen Kesim": "140x250 Mm",
+        "ANA MOTOR GÜCÜ": "1.5 kw",
+        "Bor Yağ Motor Gücü": "0.12 Kw",
+        "Hidrolik Motor Gücü": "0.18 Kw",
+        "Sürücü Motor Gücü": "0.37 Kw",
+        "Şerit Ebadı": "0,9X27X3300 MM",
+        "Bor Yağ Depo Hacmi": "20 Lt",
+        "Besleme Yüksekligi": "715 MM",
+        "Hidrolik Depo Hacmi": "6.5 Lt",
+        "Sürme Boyu": "500x2000 MM",
+        "Ağırlık": "550 Kg"
+      },
+      "standardAccessories": [
+        "Talaş Konveyorü",
+        "Malzeme Dayama",
+        "Takım Çantası",
+        "Malzeme Sıkma",
+        "Talaş Fırcası"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "kmy-280",
+      "name": "KMY 280",
+      "category": "testere-tezgahlari",
+      "subcategory": "kesmak-testere",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/KMY 280.webp",
+      "generalInfo": "Tam Otomatik Testere",
+      "features": [
+        "Açılı Kesim",
+        "Malzeme Sıkma",
+        "Talaş Fırçası",
+        "Malzeme Sürme Hassasiyeti",
+        "Üst Baskı",
+        "Kesim Hızı",
+        "Kontrol Ünitesi Sehba",
+        "Malzeme Dayama",
+        "Talaş Konveyorü",
+        "Yükseklik Ayarı"
+      ],
+      "specifications": {
+        "MODEL": "KMY 280",
+        "Kesme Kapasitesi 90": "280 Mm",
+        "Kare Kesim": "260x260 Mm",
+        "Dikdörtgen Kesim": "210x340 Mm",
+        "Yuvarlak Kesim": "160 Mm",
+        "Kesme Kapasitesi 45": "160 Mm",
+        "ANA MOTOR GÜCÜ": "2.2 Kw",
+        "Bor Yağ Motor Gücü": "0.12 Kw",
+        "Hidrolik Motor Gücü": "0.18 Kw",
+        "Şerit Ebadı": "0.9X27X3660MM",
+        "Bor Yağ Depo Hacmi": "27 Lt",
+        "Hidrolik Depo Hacmi": "6.5 Lt",
+        "Besleme Yüksekligi": "725 Mm",
+        "Ağırlık": "525 Kg"
+      },
+      "standardAccessories": [
+        "Talaş Konveyorü",
+        "Malzeme Dayama",
+        "Takım Çantası",
+        "Malzeme Sıkma",
+        "Talaş Fırcası"
+      ],
+      "optionalAccessories": []
+    },
+    {
+      "id": "otomatik-yaglama-urun",
+      "name": "Otomatik Yağlama",
+      "category": "makina-aksesuarlari",
+      "subcategory": "otomatik-yaglama",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Otomatik Yağlama.webp",
+      "generalInfo": "Makinalarınız için otomatik yağlama sistemleri. Düzenli ve doğru miktarda yağlama ile makine ömrünü uzatın.",
+      "features": [
+        "Zamanlayıcı kontrollü otomatik sistem",
+        "Ayarlanabilir debi",
+        "Kolay montaj",
+        "Uzun ömürlü",
+        "Çeşitli makine tiplerine uygun"
+      ],
+      "specifications": {
+        "MODEL": "Otomatik Yağlama Sistemi",
+        "Kapasite": "2-8 L",
+        "Güç": "220V",
+        "Çıkış Sayısı": "8-12 çıkış",
+        "Montaj": "Universal"
+      },
+      "standardAccessories": [
+        "Montaj Aparatları",
+        "Yağ Hortumları", 
+        "Kontrol Paneli", 
+        "Kullanım Kılavuzu"
+      ],
+      "optionalAccessories": [
+        "Yedek Yağ Haznesi",
+        "İlave Yağ Boruları",
+        "Özel Bağlantı Parçaları"
+      ]
+    },
+    {
+      "id": "filtre-urun",
+      "name": "Filtre",
+      "category": "makina-aksesuarlari",
+      "subcategory": "filtre",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Filtre.webp",
+      "generalInfo": "Makine ömrünü uzatan ve çalışma verimliliğini artıran yüksek kaliteli filtreler.",
+      "features": [
+        "Yüksek filtreleme kapasitesi",
+        "Kolay değiştirilebilir kartuş",
+        "Uzun ömürlü",
+        "Çeşitli boyutlarda",
+        "Yüksek basınca dayanıklı"
+      ],
+      "specifications": {
+        "MODEL": "Endüstriyel Filtre",
+        "Malzeme": "Paslanmaz Çelik",
+        "Filtreleme Kapasitesi": "1-50 mikron",
+        "Maksimum Basınç": "25 Bar",
+        "Bağlantı Tipi": "1/4\" - 1\""
+      },
+      "standardAccessories": [
+        "Bağlantı Elemanları",
+        "Montaj Aparatı",
+        "Yedek Kartuş"
+      ],
+      "optionalAccessories": [
+        "Basınç Göstergesi",
+        "Otomatik Temizleme Kiti",
+        "Çeşitli Ölçülerde Kartuşlar"
+      ]
+    },
+    {
+      "id": "align-motor-urun",
+      "name": "Alıgn Motor",
+      "category": "makina-aksesuarlari",
+      "subcategory": "align-motor",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Aling Motor.webp",
+      "generalInfo": "Hassas kontrol ve yüksek performans sağlayan Alıgn serisi motorlar.",
+      "features": [
+        "Yüksek hassasiyet",
+        "Kolay kurulum",
+        "Uzun ömürlü",
+        "Düşük bakım gereksinimi",
+        "Geniş hız aralığı"
+      ],
+      "specifications": {
+        "MODEL": "Align AL-500 Servo Motor",
+        "Güç": "500W - 5kW",
+        "Voltaj": "220V - 380V",
+        "Hız Aralığı": "0-3000 d/dk",
+        "Enkoder": "Yüksek Çözünürlüklü"
+      },
+      "standardAccessories": [
+        "Montaj Aparatları",
+        "Bağlantı Kabloları",
+        "Kullanım Kılavuzu",
+        "Yazılım"
+      ],
+      "optionalAccessories": [
+        "Sürücü Ünitesi",
+        "Uzatma Kabloları",
+        "Kontrol Paneli"
+      ]
+    },
+    {
+      "id": "manuel-yaglama-urun",
+      "name": "Manuel Yağlama",
+      "category": "makina-aksesuarlari",
+      "subcategory": "manuel-yaglama",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Manuel Yağlama.webp",
+      "generalInfo": "Makinelerin düzenli bakımı için tasarlanmış manuel yağlama sistemleri.",
+      "features": [
+        "Kolay uygulama",
+        "Hassas dozajlama",
+        "Çeşitli makine tiplerine uyumluluk",
+        "Dayanıklı yapı",
+        "Bakım gerektirmeyen mekanizma"
+      ],
+      "specifications": {
+        "MODEL": "MP-200 Manuel Yağlama Pompası",
+        "Kapasite": "500ml - 2L",
+        "Basınç": "20-30 Bar",
+        "Malzeme": "Alüminyum-Çelik",
+        "Ağırlık": "1.5-3 kg"
+      },
+      "standardAccessories": [
+        "Yağ Pompası",
+        "Yağ Tabancası",
+        "Hortum Seti",
+        "Çeşitli Uçlar"
+      ],
+      "optionalAccessories": [
+        "Uzatma Hortumları",
+        "Özel Uç Adaptörleri",
+        "Taşıma Çantası"
+      ]
+    },
+    {
+      "id": "havali-cektirme-urun",
+      "name": "Havalı Çektirme",
+      "category": "makina-aksesuarlari",
+      "subcategory": "havali-cektirme",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Havalı Çektirme.webp",
+      "generalInfo": "İş mili ve diğer parçaların hızlı ve güvenli bir şekilde çıkarılmasını sağlayan havalı çektirme sistemleri.",
+      "features": [
+        "Hızlı takma-sökme",
+        "Güvenli çalışma",
+        "Yüksek basınç dayanımı",
+        "Kompakt tasarım",
+        "Çeşitli bağlantı tipleri"
+      ],
+      "specifications": {
+        "MODEL": "HC-200 Havalı Çektirme",
+        "Çalışma Basıncı": "6-8 Bar",
+        "Giriş Bağlantısı": "1/4 NPT",
+        "Uyumlu Modeller": "ISO 30-40-50",
+        "Malzeme": "Krom Alaşımlı Çelik"
+      },
+      "standardAccessories": [
+        "Basınç Regülatörü",
+        "Hortum Seti",
+        "Adaptör Kiti",
+        "Montaj Aparatları"
+      ],
+      "optionalAccessories": [
+        "Özel Adaptörler",
+        "Uzatma Kiti",
+        "Hızlı Bağlantı Elemanları"
+      ]
+    },
+    {
+      "id": "erozyon-sivisi-urun",
+      "name": "Erozyon Sıvısı",
+      "category": "makina-aksesuarlari",
+      "subcategory": "erozyon-sivisi",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Erezyon Sıvısı.webp",
+      "generalInfo": "Elektro erozyon makineleri için özel formüle edilmiş yüksek performanslı dielektrik sıvılar.",
+      "features": [
+        "Yüksek izolasyon direnci",
+        "Düşük viskozite",
+        "İyi soğutma kapasitesi",
+        "Korozyon önleyici katkılar",
+        "Uzun servis ömrü"
+      ],
+      "specifications": {
+        "MODEL": "ES-100 Erozyon Sıvısı",
+        "Kapasite": "20L - 200L",
+        "Parlama Noktası": "> 120°C",
+        "Yoğunluk": "0.8 g/cm³",
+        "Uygulanabilir İşlemler": "Tel Erozyon, Dalma Erozyon"
+      },
+      "standardAccessories": [
+        "Boşaltım Musluğu",
+        "Dolum Hunisi"
+      ],
+      "optionalAccessories": [
+        "Filtreleme Ekipmanı",
+        "Sıvı Seviye Göstergesi",
+        "Otomatik Dolum Sistemi"
+      ]
+    },
+    {
+      "id": "kriko-urun",
+      "name": "Kriko",
+      "category": "makina-aksesuarlari",
+      "subcategory": "kriko",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Kriko.webp",
+      "generalInfo": "Ağır makinelerin yükseltilmesi ve konumlandırılması için özel üretilmiş endüstriyel krikolar.",
+      "features": [
+        "Yüksek kaldırma kapasitesi",
+        "Hassas yükseltme mekanizması",
+        "Dayanıklı gövde",
+        "Güvenlik kilitleri",
+        "Kolay hareket ettirme"
+      ],
+      "specifications": {
+        "MODEL": "HJ-500 Hidrolik Kriko",
+        "Kaldırma Kapasitesi": "5-50 Ton",
+        "Minimum Yükseklik": "150 mm",
+        "Maksimum Yükseklik": "550 mm",
+        "Ağırlık": "35-120 kg",
+        "Gövde Materyali": "Sertleştirilmiş Çelik"
+      },
+      "standardAccessories": [
+        "Uzatma Kolları",
+        "Güvenlik Pimleri",
+        "Kullanım Kılavuzu"
+      ],
+      "optionalAccessories": [
+        "Tekerlekli Platform",
+        "Uzatma Adaptörleri",
+        "Hidrolik Pompa"
+      ]
+    },
+    {
+      "id": "system-3r-urun",
+      "name": "System 3R",
+      "category": "makina-aksesuarlari",
+      "subcategory": "system-3r",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/System 3R.webp",
+      "generalInfo": "Erozyon ve freze makineleri için üstün hassasiyetli bağlama ve referanslama sistemi.",
+      "features": [
+        "Mikron seviyesinde hassasiyet",
+        "Hızlı değiştirme yeteneği",
+        "Modüler tasarım",
+        "Güvenilir referanslama",
+        "Otomasyona uygun"
+      ],
+      "specifications": {
+        "MODEL": "System 3R Macro",
+        "Pozisyonlama Hassasiyeti": "0.002 mm",
+        "Tekrarlanabilirlik": "< 0.001 mm",
+        "Maksimum Yük Kapasitesi": "70 kg",
+        "Gövde Malzemesi": "Paslanmaz Çelik",
+        "Uyumluluk": "Dalma Erozyon, Tel Erozyon, Freze"
+      },
+      "standardAccessories": [
+        "Referans Elemanları",
+        "Sıkma Aparatları",
+        "Ayar Aletleri",
+        "Montaj Kılavuzu"
+      ],
+      "optionalAccessories": [
+        "Otomatik Değiştirici",
+        "Palet Sistemi",
+        "Özel Bağlama Aparatları",
+        "Ölçüm Probları"
+      ]
+    },
+    {
+      "id": "pens-takimi-urun",
+      "name": "Pens Takımı",
+      "category": "makina-aksesuarlari",
+      "subcategory": "pens-takimi",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Pens Takımı.webp",
+      "generalInfo": "Freze ve tornada için yüksek hassasiyetli pens takımları.",
+      "features": [
+        "Yüksek sıkma hassasiyeti",
+        "Çeşitli çaplarda",
+        "Paslanmaz çelik konstrüksiyon",
+        "Dengeli tutuş",
+        "Uzun ömürlü"
+      ],
+      "specifications": {
+        "MODEL": "PT-100 Pens Takımı",
+        "Malzeme": "Sertleştirilmiş Çelik",
+        "Çap Aralığı": "3-25 mm",
+        "Standart": "DIN/ISO",
+        "Uyumlu Konikler": "ISO 30, 40, 50",
+        "Parça Adedi": "18 parça"
+      },
+      "standardAccessories": [
+        "Saklama Çantası",
+        "Montaj Anahtarı",
+        "Bakım Yağı"
+      ],
+      "optionalAccessories": [
+        "Özel Çap Pensler",
+        "Uzatma Adaptörleri",
+        "Pens Temizleme Kiti"
+      ]
+    },
+    {
+      "id": "baglama-seti-urun",
+      "name": "Bağlama Seti",
+      "category": "makina-aksesuarlari",
+      "subcategory": "baglama-seti",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Bağlama Seti.webp",
+      "generalInfo": "Freze, taşlama ve CNC makineleri için yüksek kaliteli parça bağlama ve sabitleme seti.",
+      "features": [
+        "Yüksek bağlama kuvveti",
+        "Hassas konumlandırma",
+        "Paslanmaya karşı dayanıklı",
+        "Çeşitli iş parçalarına uygunluk",
+        "Modüler yapı"
+      ],
+      "specifications": {
+        "MODEL": "BS-58 Deluxe Bağlama Seti",
+        "Malzeme": "Yüksek Mukavemetli Çelik",
+        "Set İçeriği": "58 Parça",
+        "T-Kanal Uyumluluğu": "10-22 mm",
+        "Sertlik": "HRC 42-48",
+        "Maksimum Sıkma Torku": "120 Nm"
+      },
+      "standardAccessories": [
+        "Sabitleme Pabuçları",
+        "T-Somunlar", 
+        "Bağlantı Cıvataları", 
+        "Basamaklı Bloklar",
+        "Özel Taşıma Kutusu"
+      ],
+      "optionalAccessories": [
+        "Manyetik T-Kanal Temizleyici",
+        "Hızlı Ayarlama Aparatları",
+        "Özel Bağlama Elemanları"
+      ]
+    },
+    {
+      "id": "mengene-urun",
+      "name": "Mengene",
+      "category": "makina-aksesuarlari",
+      "subcategory": "mengene",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Mengene.webp",
+      "generalInfo": "CNC, freze ve taşlama makineleri için hassas ve yüksek kaliteli hidrolik ve manuel mengeneler.",
+      "features": [
+        "Yüksek sıkma gücü",
+        "Hassas konumlandırma",
+        "360° döndürülebilir taban",
+        "Paralel çeneler",
+        "Uzun ömürlü"
+      ],
+      "specifications": {
+        "MODEL": "MN-160 Hassas Mengene",
+        "Çene Genişliği": "100-200 mm",
+        "Açma Kapasitesi": "0-160 mm",
+        "Çene Yüksekliği": "45 mm",
+        "Malzeme": "Sertleştirilmiş Alaşımlı Çelik",
+        "Taban Tipi": "Döner"
+      },
+      "standardAccessories": [
+        "Sabitleme Cıvataları",
+        "Yedek Çeneler",
+        "Mengene Altlıkları",
+        "Kullanım Kılavuzu"
+      ],
+      "optionalAccessories": [
+        "Manyetik Çeneler",
+        "Yumuşak Çeneler",
+        "Hızlı Ayarlanabilir Kol"
+      ]
+    },
+    {
+      "id": "yan-tarama-kafasi-urun",
+      "name": "Yan Tarama Kafası",
+      "category": "makina-aksesuarlari",
+      "subcategory": "yan-tarama-kafasi",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Yan Tarama Kafası.webp",
+      "generalInfo": "Freze tezgahları için çok yönlü ve hassas yan tarama kafası.",
+      "features": [
+        "90° açıyla konumlandırma",
+        "Yüksek hassasiyet",
+        "Universal montaj",
+        "Kolay kurulum",
+        "Sağlam konstrüksiyon"
+      ],
+      "specifications": {
+        "MODEL": "YTK-300 Yan Tarama Kafası",
+        "Konik Bağlantı": "ISO 40, ISO 50",
+        "Tarama Açısı": "0° - 90°",
+        "Devir Aralığı": "0-2000 d/dk",
+        "Maksimum Takım Çapı": "50 mm",
+        "Ağırlık": "10 kg"
+      },
+      "standardAccessories": [
+        "Montaj Flanşı",
+        "Sabitleme Civatası",
+        "Yağlama Seti",
+        "Anahtar Seti"
+      ],
+      "optionalAccessories": [
+        "Özel Adaptörler",
+        "Uzatma Aparatı",
+        "Yüksek Devir Ünitesi"
+      ]
+    },
+    {
+      "id": "dijital-sistem-urun",
+      "name": "Dijital Sistem",
+      "category": "makina-aksesuarlari",
+      "subcategory": "dijital-sistem",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Dijital Sistem.webp",
+      "generalInfo": "Talaşlı imalat makineleri için hassas dijital koordinat okuma ve gösterge sistemleri.",
+      "features": [
+        "Yüksek hassasiyet",
+        "Kolay montaj",
+        "Kullanıcı dostu arayüz",
+        "Çeşitli makine tiplerine uyumluluk",
+        "Dayanıklı yapı"
+      ],
+      "specifications": {
+        "MODEL": "DS-300 Dijital Koordinat Okuyucu",
+        "Ekran": "7\" LCD Renkli Ekran",
+        "Çözünürlük": "0.001 mm",
+        "Eksen Sayısı": "2-3 Eksen",
+        "Bağlantı": "RS-232",
+        "Güç Kaynağı": "220V AC"
+      },
+      "standardAccessories": [
+        "Montaj Aparatları",
+        "Bağlantı Kabloları",
+        "Kullanım Kılavuzu",
+        "Cetvel Setleri"
+      ],
+      "optionalAccessories": [
+        "Uzatma Kabloları",
+        "Özel Montaj Aparatları",
+        "Yedek Cetveller"
+      ]
+    },
+    {
+      "id": "biga-dijital-sistem-urun",
+      "name": "BİGA DİJİTAL KOORDİNAT OKUYUCU SİSTEM",
+      "category": "makina-aksesuarlari",
+      "subcategory": "dijital-sistem",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/BİGA DİJİTAL KOORDİNAT OKUYUCU SİSTEM.webp",
+      "generalInfo": "Yüksek hassasiyetli BİGA marka dijital koordinat okuma ve gösterge sistemi. Freze, tornada ve taşlama makineleri için ideal çözüm.",
+      "features": [
+        "Türkçe menü",
+        "Yüksek hassasiyetli ölçüm",
+        "Kolay kullanım",
+        "Dayanıklı yapı",
+        "Geniş ekran",
+        "Çoklu eksen desteği"
+      ],
+      "specifications": {
+        "MODEL": "BİGA DRO-3",
+        "Ekran": "8.4\" Renkli TFT Ekran",
+        "Çözünürlük": "0.0005 mm",
+        "Eksen Sayısı": "2-3 Eksen",
+        "Hafıza": "200 Adım",
+        "Güç Kaynağı": "110-220V AC",
+        "Çalışma Sıcaklığı": "0-45°C"
+      },
+      "standardAccessories": [
+        "Cetvel Setleri",
+        "Montaj Aparatları",
+        "Bağlantı Kabloları",
+        "Kullanım Kılavuzu",
+        "Koruyucu Kılıf"
+      ],
+      "optionalAccessories": [
+        "Uzatma Kabloları",
+        "Özel Montaj Aparatları",
+        "Yedek Cetveller",
+        "Toz Koruma Kılıfları"
+      ]
+    },
+    {
+      "id": "yuk-tasima-arabasi-urun",
+      "name": "Yük Taşıma Arabası",
+      "category": "makina-aksesuarlari",
+      "subcategory": "yuk-tasima-arabasi",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/YÜK TAŞIMA ARABASI.webp",
+      "generalInfo": "Ağır makine parçalarının taşınması için tasarlanmış dayanıklı ve yüksek kapasiteli yük taşıma arabaları.",
+      "features": [
+        "Yüksek taşıma kapasitesi",
+        "Manevra kolaylığı",
+        "Dayanıklı tekerlekler",
+        "Ayarlanabilir yükseklik",
+        "Güvenlik kilitleri"
+      ],
+      "specifications": {
+        "MODEL": "YTA-500 Premium",
+        "Taşıma Kapasitesi": "500-2000 kg",
+        "Platform Boyutu": "800x500 mm",
+        "Minimum Yükseklik": "450 mm",
+        "Maksimum Yükseklik": "750 mm",
+        "Tekerlek Çapı": "150 mm",
+        "Ağırlık": "85 kg"
+      },
+      "standardAccessories": [
+        "Güvenlik Kilitleri",
+        "Kaydırmaz Platform Yüzeyi",
+        "Ergonomik Taşıma Kolları",
+        "Frenleme Sistemi"
+      ],
+      "optionalAccessories": [
+        "Kauçuk Tamponlar",
+        "Özel Boyutlu Platform",
+        "Hidrolik Kaldırma Sistemi"
+      ]
+    },
+    {
+      "id": "korumalik-urun",
+      "name": "Korumalık",
+      "category": "makina-aksesuarlari",
+      "subcategory": "korumalik",
+      "subSubcategory": "",
+      "image": "images/Urun Fotograflari/Korumalık.webp",
+      "generalInfo": "Makine operatörleri için güvenli çalışma ortamı sağlayan modern koruma sistemleri.",
+      "features": [
+        "Yüksek darbe dayanımı",
+        "Şeffaf görüş alanı",
+        "Kolay montaj",
+        "Yüksek sıcaklığa dayanıklı",
+        "Ergonomik tasarım"
+      ],
+      "specifications": {
+        "MODEL": "KM-200 Güvenlik Korumalığı",
+        "Malzeme": "Sertleştirilmiş Polikarbonat",
+        "Kalınlık": "5-10 mm",
+        "Standart": "CE EN 12417",
+        "Boyutlar": "Özelleştirilebilir",
+        "Darbe Dayanımı": "150 J",
+        "Isı Dayanımı": "120°C"
+      },
+      "standardAccessories": [
+        "Montaj Aparatları",
+        "Güvenlik Kilitleri",
+        "Acil Durum Erişim Kapağı",
+        "Ayarlanabilir Menteşeler"
+      ],
+      "optionalAccessories": [
+        "Otomatik Kilitlenme Sistemi",
+        "LED Aydınlatma",
+        "Özelleştirilmiş Logolandırma",
+        "Kapasite Yükseltme Kiti"
+      ]
+    }
+  ]
+} 

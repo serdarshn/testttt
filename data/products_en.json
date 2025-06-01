@@ -1,0 +1,3091 @@
+{
+    "categories":  [
+                       {
+                           "id":  "cnc-double-kolon",
+                           "name":  "CNC Double Column Machining Center",
+                           "subcategories":  [
+
+                                             ]
+                       },
+                       {
+                           "id":  "dalma-erozyon",
+                           "name":  "Die Sinker EDM",
+                           "subcategories":  [
+                                                 {
+                                                     "id":  "best-edm",
+                                                     "name":  "BEST EDM",
+                                                     "subcategories":  [
+                                                                           {
+                                                                               "id":  "znc-serisi-best",
+                                                                               "name":  "ZNC Series"
+                                                                           },
+                                                                           {
+                                                                               "id":  "pnc-serisi-best",
+                                                                               "name":  "PNC Series"
+                                                                           },
+                                                                           {
+                                                                               "id":  "cnc-serisi-best",
+                                                                               "name":  "CNC Series"
+                                                                           }
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "id":  "cift-kafali",
+                                                     "name":  "DOUBLE-HEAD EDM",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 }
+                                             ]
+                       },
+                       {
+                           "id":  "kalipci-freze",
+                           "name":  "Milling Machine",
+                           "subcategories":  [
+                                                 {
+                                                     "id":  "king-kalipci",
+                                                     "name":  "KING",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "id":  "kg-super-kalipci",
+                                                     "name":  "KG SUPER",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 }
+                                             ]
+                       },
+                       {
+                           "id":  "universal-kalipci-freze",
+                           "name":  "Vertical & Universal Milling Machine",
+                           "subcategories":  [
+                                                 {
+                                                     "id":  "king-universal",
+                                                     "name":  "KING",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "id":  "kg-super-universal",
+                                                     "name":  "KG SUPER",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 }
+                                             ]
+                       },
+                       {
+                           "id":  "koc-kafa-freze",
+                           "name":  "Ram Head Universal Milling",
+                           "subcategories":  [
+                                                 {
+                                                     "id":  "kg-super-koc",
+                                                     "name":  "KG SUPER",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 }
+                                             ]
+                       },
+                       {
+                           "id":  "taslama-tezgahlari",
+                           "name":  "Grinding Machines",
+                           "subcategories":  [
+                                                 {
+                                                     "id":  "king-grinder",
+                                                     "name":  "KING GRINDER",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 }
+                                             ]
+                       },
+                       {
+                           "id":  "torna-tezgahlari",
+                           "name":  "Lathe",
+                           "subcategories":  [
+                                                 {
+                                                     "id":  "king-torna",
+                                                     "name":  "KING",
+                                                     "subcategories":  []
+                                                 }
+                                             ]
+                       },
+                       {
+                           "id":  "radyal-matkap",
+                           "name":  "Radial Drilling Machine",
+                           "subcategories":  [
+                                                 {
+                                                     "id":  "kg-super-radyal",
+                                                     "name":  "KG SUPER",
+                                                     "subcategories":  [
+
+                                                                       ]
+                                                 }
+                                             ]
+                       },
+                       {
+                           "id":  "sutunlu-matkap",
+                           "name":  "Column Drilling Machines",
+                           "subcategories":  [
+                               {
+                                   "id":  "kg-super-sutunlu",
+                                   "name":  "KG SUPER",
+                                   "subcategories":  [
+                                   ]
+                               },
+                               {
+                                   "id":  "sahin-sutunlu",
+                                   "name":  "ŞAHİN",
+                                   "subcategories":  [
+                                   ]
+                               },
+                               {
+                                   "id":  "boyka-sutunlu",
+                                   "name":  "BOYKA",
+                                   "subcategories":  [
+                                   ]
+                               }
+                           ]
+                       },
+                       {
+                           "id":  "testere-tezgahlari",
+                           "name":  "Saw Machines",
+                                                     "subcategories":  [
+                                                                           {
+                                                                               "id":  "jetco-testere",
+                                                                               "name":  "JETCO",
+                                                                               "subcategories":  [
+
+                                                                                               ]
+                                                                           },
+                                                                           {
+                                                                               "id":  "kesmak-testere",
+                                                                               "name":  "KESMAK",
+                                                                               "subcategories":  [
+
+                                                                                               ]
+                                                                           }
+                                                                       ]
+                       },
+                       {
+                           "id":  "kilavuz-cekme",
+                           "name":  "Tapping Machines",
+                                                     "subcategories":  [
+
+                                             ]
+                       },
+                       {
+                           "id":  "makina-aksesuarlari",
+                           "name":  "Machine Accessories",
+                           "subcategories":  [
+                               {
+                                   "id":  "otomatik-yaglama",
+                                   "name":  "Automatic Lubrication",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "filtre",
+                                   "name":  "Filter",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "align-motor",
+                                   "name":  "Align Motor",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "manuel-yaglama",
+                                   "name":  "Manual Lubrication",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "havali-cektirme",
+                                   "name":  "Pneumatic Puller",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "erozyon-sivisi",
+                                   "name":  "EDM Fluid",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "kriko",
+                                   "name":  "Jack",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "system-3r",
+                                   "name":  "System 3R",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "pens-takimi",
+                                   "name":  "Collet Set",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "baglama-seti",
+                                   "name":  "Clamping Kit",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "mengene",
+                                   "name":  "Vise",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "yan-tarama-kafasi",
+                                   "name":  "Side Milling Head",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "dijital-sistem",
+                                   "name":  "Digital System",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "yuk-tasima-arabasi",
+                                   "name":  "Load Carrying Cart",
+                                   "subcategories":  []
+                               },
+                               {
+                                   "id":  "korumalik",
+                                   "name":  "Safety Guard",
+                                   "subcategories":  []
+                               }
+                           ]
+                       },
+                       {
+                           "id":  "ikinci-el-urunler",
+                           "name":  "Second Hand Products",
+                                                     "subcategories":  [
+
+                                             ]
+                       }
+                   ],
+    "products":  [
+                     {
+                         "id":  "king-ma-50-double-kolon-cnc",
+                         "name":  "KING MA-50 DOUBLE COLUMN CNC",
+                         "category":  "cnc-double-kolon",
+                         "image":  "images/Urun Fotograflari/KİNG MA-50 DOUBLE KOLON CNC.webp",
+                         "generalInfo":  "SUPERIOR TAIWAN TECHNOLOGY- PRACTICAL USE- 3-AXIS BEARING SPINDLES- 45.MM Ø REINFORCED COLUMNS- HIGH SPEED HIGH PRECISION HIGH EFFICIENCY",
+                         "features":  [
+                                          "FULLY ENCLOSED HOUSING",
+                                          "AUTOMATIC SHUTDOWN",
+                                          "OIL SCRAPER",
+                                          "INTERNAL WASHING SYSTEM",
+                                          "20-TOOL CAROUSEL",
+                                          "OIL LEAK SYSTEM",
+                                          "FANS",
+                                          "AUTOMATIC LUBRICATION",
+                                          "CE"
+                                      ],
+                         "specifications":  {
+                                                "MODEL":  "KING MA-50 DOUBLE COLUMN CNC",
+                                                "Table Size":  "1300x850",
+                                                "T-SLOT":  "18x5x150 mm",
+                                                "MAXIMUM LOAD":  "1000 KG",
+                                                "X,Y,Z MOVEMENTS":  "1270x815x610 mm",
+                                                "SPINDLE-TABLE DISTANCE":  "200-810 mm",
+                                                "DISTANCE FROM SPINDLE CENTER TO COLUMN RAILS":  "1100 mm",
+                                                "RAIL DIMENSIONS":  "45/45/45 mm",
+                                                "SPINDLE TYPE":  "DIRECT",
+                                                "SPINDLE TAPER":  "BBT 40",
+                                                "SPINDLE SPEED":  "15,000 RPM",
+                                                "CUTTING SPEEDS":  "20/20/20 M/MIN",
+                                                "CUTTING SPEEDS (RAPID)":  "20/20/20 M/MIN",
+                                                "ATC TYPE":  "ARM",
+                                                "MAXIMUM TOOL DIAMETER":  "75 / 150 mm",
+                                                "MAXIMUM TOOL LENGTH":  "300 mm",
+                                                "MAXIMUM TOOL WEIGHT":  "7 KG",
+                                                "TOOL TYPE":  "CAT 40",
+                                                "CAPACITY":  "24",
+                                                "AXIS MOTORS":  "7 x 7 x 7 kw",
+                                                "SPINDLE MOTOR":  "15 KW",
+                                                "X,Y,Z AXIS BEARING SPINDLES":  "45 Ø",
+                                                "AUTOMATIC LUBRICATION":  "GREASED",
+                                                "MACHINE WEIGHT":  "14,000 KG"
+                                            },
+                         "standardAccessories":  [
+                                                     "FULLY ENCLOSED HOUSING",
+                                                     "RAIL COVERS",
+                                                     "AUTOMATIC SHUTDOWN",
+                                                     "OIL SCRAPER",
+                                                     "WATER GUN AND AIR GUN",
+                                                     "INTERNAL WASHING SYSTEM",
+                                                     "TOOL CASE",
+                                                     "WORK LAMP",
+                                                     "20-POSITION CAROUSEL TOOL CHANGER",
+                                                     "AUTOMATIC LUBRICATION",
+                                                     "FANS",
+                                                     "ALARM LIGHT",
+                                                     "TRANSFORMER",
+                                                     "MITSUBISHI M 70A CONTROL SYSTEM",
+                                                     "3-WAY SPIRAL CHIP CONVEYOR",
+                                                     "CE"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "FANUC - SIEMENS - HEIDENHAIN OPERATING SYSTEM",
+                                                     "AUTOMATIC TOOL LENGTH MEASUREMENT PROBE",
+                                                     "BELT-TYPE CHIP CONVEYOR",
+                                                     "20,000 RPM SPINDLE",
+                                                     "20 BAR THROUGH-TOOL COOLANT",
+                                                     "OIL CHANNEL HOLDER SYSTEM"
+                                                 ]
+                     },
+                     {
+                         "id":  "king-ma-57-double-kolon-cnc",
+                         "name":  "KING MA-57 DOUBLE COLUMN CNC",
+                         "category":  "cnc-double-kolon",
+                         "image":  "images/Urun Fotograflari/KİNG MA-57 DOUBLE KOLON CNC.webp",
+                         "generalInfo":  "SUPERIOR TAIWAN TECHNOLOGY- PRACTICAL USE- 3-AXIS BEARING SPINDLES- 45.MM Ø REINFORCED COLUMNS- HIGH SPEED HIGH PRECISION HIGH EFFICIENCY",
+                         "features":  [
+                                          "FULLY ENCLOSED HOUSING",
+                                          "RAIL COVERS",
+                                          "AUTOMATIC SHUTDOWN",
+                                          "OIL SCRAPER",
+                                          "WATER GUN AND AIR GUN",
+                                          "INTERNAL WASHING SYSTEM",
+                                          "TOOL CASE",
+                                          "WORK LAMP",
+                                          "20-POSITION CAROUSEL TOOL CHANGER",
+                                          "AUTOMATIC LUBRICATION",
+                                          "FANS",
+                                          "ALARM LIGHT",
+                                          "TRANSFORMER",
+                                          "MITSUBISHI M 70A CONTROL SYSTEM",
+                                          "3-WAY SPIRAL CHIP CONVEYOR",
+                                          "CE"
+                                      ],
+                         "specifications":  {
+                             "MODEL":  "KING MA-57 DOUBLE COLUMN CNC",
+                             "Table Size":  "1450x1000 mm",
+                             "T-SLOT":  "18x7x140",
+                             "MAXIMUM LOAD":  "2000 KG",
+                             "X,Y,Z MOVEMENTS":  "1450x1080x700",
+                             "SPINDLE-TABLE DISTANCE":  "110-810 mm",
+                             "DISTANCE FROM SPINDLE CENTER TO COLUMN RAILS":  "1100 mm",
+                             "RAIL DIMENSIONS":  "45/45/45 mm",
+                             "SPINDLE TYPE":  "DIRECT",
+                             "SPINDLE TAPER":  "BBT 40",
+                             "SPINDLE SPEED":  "15,000 RPM",
+                             "CUTTING SPEEDS":  "20/20/20 M/MIN",
+                             "CUTTING SPEEDS (RAPID)":  "20/20/20 M/MIN",
+                             "ATC TYPE":  "ARM",
+                             "MAXIMUM TOOL DIAMETER":  "75 / 200 mm",
+                             "MAXIMUM TOOL LENGTH":  "200 mm",
+                             "MAXIMUM TOOL WEIGHT":  "7 KG",
+                             "TOOL TYPE":  "BT 40",
+                             "AXIS MOTORS":  "7 x 7 x 7 kw",
+                             "TOOL CAPACITY":  "12",
+                             "SPINDLE MOTOR":  "15 KW",
+                             "X,Y,Z AXIS BEARING SPINDLES":  "45 Ø",
+                             "MACHINE WEIGHT":  "12,000 KG"
+                                            },
+                         "standardAccessories":  [
+                                                     "FULLY ENCLOSED HOUSING",
+                                                     "RAIL COVERS",
+                                                     "AUTOMATIC SHUTDOWN",
+                                                     "OIL SCRAPER",
+                                                     "WATER GUN AND AIR GUN",
+                                                     "INTERNAL WASHING SYSTEM",
+                                                     "TOOL CASE",
+                                                     "WORK LAMP",
+                                                     "20-POSITION CAROUSEL TOOL CHANGER",
+                                                     "AUTOMATIC LUBRICATION",
+                                                     "FANS",
+                                                     "ALARM LIGHT",
+                                                     "TRANSFORMER",
+                                                     "MITSUBISHI M 70A CONTROL SYSTEM",
+                                                     "3-WAY SPIRAL CHIP CONVEYOR",
+                                                     "CE"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "FULLY ENCLOSED HOUSING",
+                                                     "RAIL COVERS",
+                                                     "AUTOMATIC SHUTDOWN",
+                                                     "OIL SCRAPER",
+                                                     "WATER GUN AND AIR GUN",
+                                                     "INTERNAL WASHING SYSTEM",
+                                                     "TOOL CASE",
+                                                     "WORK LAMP",
+                                                     "20-POSITION CAROUSEL TOOL CHANGER",
+                                                     "AUTOMATIC LUBRICATION",
+                                                     "FANS",
+                                                     "ALARM LIGHT",
+                                                     "TRANSFORMER",
+                                                     "MITSUBISHI M 70A CONTROL SYSTEM",
+                                                     "3-WAY SPIRAL CHIP CONVEYOR",
+                                                     "CE"
+                                                 ]
+                     },
+                     {
+                         "id": "king-mt-5785v-vs-double-kolon-cnc",
+                         "name": "KING MT-5785V/VS DOUBLE COLUMN CNC",
+                         "category": "cnc-double-kolon",
+                         "image": "images/Urun Fotograflari/KİNG MT-5785V-VS DOUBLE KOLON CNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY PRACTICAL USE FULLY ENCLOSED HOUSING BEARING SPINDLES",
+                         "features": [
+                             "FULLY ENCLOSED HOUSING",
+                             "OIL SCRAPER",
+                             "OIL LEAK SYSTEM",
+                             "AUTOMATIC SHUTDOWN",
+                             "INTERNAL WASHING SYSTEM",
+                             "AUTOMATIC TOOL LENGTH"
+                                      ],
+                         "specifications":  {
+                             "MODEL": "KING MT-5785V/VS DOUBLE COLUMN CNC",
+                             "Spindle Motor": "15 kw",
+                             "Axis Motors": "9 x 7 x 7 kw",
+                             "Tool Type": "CAT 40",
+                             "Weight": "17000",
+                             "X-Axis Travel": "2150 MM",
+                             "Y-Axis Travel": "1450 MM",
+                             "Z-Axis Travel": "700 MM",
+                             "Maximum Table Load": "4800 Kg",
+                             "Spindle Holder": "Direct",
+                             "Taper": "BBT-40",
+                             "Diameter": "70 mm",
+                             "Spindle Speed": "15000 RPM",
+                             "Cutting Speed (X.Y.Z)": "20/20/20 M/Min",
+                             "Tool Diameter": "75/200 MM"
+                                            },
+                         "standardAccessories":  [
+                                                     "FULLY ENCLOSED HOUSING",
+                                                     "RAIL COVERS",
+                                                     "AUTOMATIC SHUTDOWN",
+                                                     "OIL SCRAPER",
+                                                     "WATER GUN AND AIR GUN",
+                                                     "INTERNAL WASHING SYSTEM",
+                                                     "TOOL CASE",
+                                                     "WORK LAMP",
+                                                     "20-POSITION CAROUSEL TOOL CHANGER"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "BBT # 40 Direct type spindle 12000RPM",
+                                                     "BBT # 50 Direct type spindle 6000-8000RPM",
+                                                     "HSKA63 Internal type spindle 24000RPM",
+                                                     "Long type spindle",
+                                                     "Flat type chip conveyor",
+                                                     "Through-spindle coolant",
+                                                     "3-Axis optical scale",
+                                                     "CE standard",
+                                                     "Breakage detection system"
+                                                 ]
+                     },
+                     {
+                         "id": "king-mt-5765v-vs-double-kolon-cnc",
+                         "name": "KING MT-5765V / VS DOUBLE COLUMN CNC",
+                         "category": "cnc-double-kolon",
+                         "image": "images/Urun Fotograflari/KİNG MT-5765V - VS DOUBLE KOLON CNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY PRACTICAL USE FULLY ENCLOSED HOUSING BEARING SPINDLES",
+                         "features": [
+                             "FULLY ENCLOSED HOUSING",
+                             "OIL SCRAPER",
+                             "OIL LEAK SYSTEM",
+                             "AUTOMATIC SHUTDOWN",
+                             "INTERNAL WASHING SYSTEM",
+                             "AUTOMATIC TOOL LENGTH"
+                                      ],
+                         "specifications":  {
+                             "MODEL": "KING MT-5765V / VS DOUBLE COLUMN CNC",
+                             "X-Axis Travel": "1650 MM",
+                             "Y-Axis Travel": "1450 MM",
+                             "Z-Axis Travel": "700 MM",
+                             "Linear Rails": "45x2 / 45 / 45 mm",
+                             "T-Slot": "20x8x200 MM",
+                             "MAX LOAD": "3800 Kg",
+                             "Spindle Holder": "Direct",
+                             "Taper": "BBT-50",
+                             "Diameter": "70 MM",
+                             "Spindle Speed": "15000 RPM",
+                             "Cutting Speed (X.Y.Z)": "20/20/20 M/Min",
+                             "Rapid Feed Rate": "20/20/20 M/Min",
+                             "Tool Diameter": "75/150 MM",
+                             "Tool Length": "300 MM",
+                             "Tool Weight": "7 Kg",
+                             "Tool Type": "CAT 40",
+                             "Tool Capacity": "24",
+                             "Spindle Motor": "15 Kw",
+                             "Coolant Pump": "0.75 Kw",
+                             "Coolant Tank Capacity": "500 L",
+                             "Weight": "15400 Kg"
+                                            },
+                         "standardAccessories":  [
+                                                     "FULLY ENCLOSED HOUSING",
+                                                     "RAIL COVERS",
+                                                     "AUTOMATIC SHUTDOWN",
+                                                     "OIL SCRAPER",
+                                                     "WATER GUN AND AIR GUN",
+                                                     "INTERNAL WASHING SYSTEM",
+                                                     "TOOL CASE",
+                                                     "WORK LAMP",
+                                                     "20-POSITION CAROUSEL TOOL CHANGER"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "BBT # 40 Direct type spindle 12000RPM",
+                                                     "BBT # 50 Direct type spindle 6000-8000RPM",
+                                                     "HSKA63 Internal type spindle 24000RPM",
+                                                     "Long type spindle",
+                                                     "Flat type chip conveyor",
+                                                     "Through-spindle coolant",
+                                                     "3-Axis optical scale",
+                                                     "CE standard",
+                                                     "Breakage detection system"
+                                                 ]
+                     },
+                     {
+                         "id": "king-mt-57e5v-vs-double-kolon-cnc",
+                         "name": "KING MT-57E5V / VS DOUBLE COLUMN CNC",
+                         "category": "cnc-double-kolon",
+                         "image": "images/Urun Fotograflari/KİNG MT-57E5V - VS DOUBLE KOLON CNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY PRACTICAL USE FULLY ENCLOSED HOUSING BEARING SPINDLES",
+                         "features": [
+                             "FULLY ENCLOSED HOUSING",
+                             "OIL SCRAPER",
+                             "OIL LEAK SYSTEM",
+                             "AUTOMATIC SHUTDOWN",
+                             "INTERNAL WASHING SYSTEM",
+                             "AUTOMATIC TOOL LENGTH"
+                                      ],
+                         "specifications":  {
+                             "MODEL": "KING MT-57E5V / VS DOUBLE COLUMN CNC",
+                             "X-Axis Travel": "2650 MM",
+                             "Y-Axis Travel": "1450 MM",
+                             "Z-Axis Travel": "700 MM",
+                             "Ball Screw (X.Y.Z Axis)": "80/40/40 MM",
+                             "Table Size": "2550x1450 MM",
+                             "T-Slot": "20X12X200 MM",
+                             "MAX LOAD": "5800 Kg",
+                             "Spindle Holder": "Direct",
+                             "Taper": "BBT-40",
+                             "Diameter": "70 MM",
+                             "Spindle Speed": "15000 RPM",
+                             "Cutting Speed (X.Y.Z)": "20/20/20 M/Min",
+                             "Rapid Feed Rate": "20/20/20 M/Min",
+                             "Tool Diameter": "75-/ 150 mm",
+                             "Tool Length": "300 MM",
+                             "Tool Weight": "7 Kg",
+                             "Tool Capacity": "24",
+                             "X,Y,Z Axis Motors": "9 x 7 x 7 kw",
+                             "Coolant Pump": "0.75 KW",
+                             "Coolant Tank Capacity": "500 L",
+                             "NET WEIGHT": "18600 KG"
+                                            },
+                         "standardAccessories":  [
+                                                     "FULLY ENCLOSED HOUSING",
+                                                     "RAIL COVERS",
+                                                     "AUTOMATIC SHUTDOWN",
+                                                     "OIL SCRAPER",
+                                                     "WATER GUN AND AIR GUN",
+                                                     "INTERNAL WASHING SYSTEM",
+                                                     "TOOL CASE",
+                                                     "WORK LAMP",
+                                                     "20-POSITION CAROUSEL TOOL CHANGER"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "BBT # 40 Direct type spindle 12000RPM",
+                                                     "BBT # 50 Direct type spindle 6000-8000RPM",
+                                                     "HSKA63 Internal type spindle 24000RPM",
+                                                     "Long type spindle",
+                                                     "Flat type chip conveyor",
+                                                     "Through-spindle coolant",
+                                                     "3-Axis optical scale",
+                                                     "CE standard",
+                                                     "Breakage detection system"
+                                                 ]
+                     },
+                     {
+                         "id": "3000-znc",
+                         "name": "3000 ZNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "znc-serisi-best",
+                         "image": "images/Urun Fotograflari/3000 ZNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY WITH EXTENSIVE REFERENCE LIST",
+                         "features": [
+                             "X,Y,Z AXES C5 CLASS BALL SCREW RAILS",
+                             "Z AXIS WITH DUAL LINEAR BEARINGS",
+                             "FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "TURKISH MENU",
+                             "FAST CUTTING WITH MINIMUM COPPER EROSION",
+                             "TROUBLE-FREE STEEL-TO-STEEL MACHINING",
+                             "CUTTING WITH ALL TYPES OF GRAPHITE",
+                             "HARD METAL CUTTING",
+                             "ARC SENSOR",
+                             "MIRROR SURFACES WITH FLAT FEATURE",
+                             "FIRE EXTINGUISHING APPARATUS",
+                             "LIQUID LEVEL CONTROL",
+                             "COPPER NON-ERODING PROGRAM",
+                             "MACHINE TOTAL OPERATION TIME",
+                             "WORK OPERATION TIME TRACKING",
+                             "Z AXIS DC STEP SERVO MOTOR",
+                             "9+9 HOLE MEMORY",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM"
+                                      ],
+                         "specifications":  {
+                             "MODEL":  "3000 ZNC",
+                             "X-AXIS TRAVEL":  "400 MM",
+                             "Y-AXIS TRAVEL":  "300 MM",
+                             "Z-AXIS TRAVEL":  "200+250 MM",
+                             "MAXIMUM WORKPIECE":  "950X580X450 MM",
+                             "WORKING TABLE":  "360X700 MM",
+                             "ELECTRODE WEIGHT":  "120 KG",
+                             "WORKPIECE WEIGHT":  "800 KG",
+                             "WORKING TANK SIZE":  "1140X640X420 MM",
+                             "OIL TANK DIMENSIONS":  "1200X1000X400 MM",
+                             "MACHINE WEIGHT":  "1200 KG",
+                             "OIL CAPACITY":  "430 L",
+                             "MAXIMUM AMPERAGE":  "50 AMP",
+                             "COPPER EROSION RATE":  "0.01 %",
+                             "TOTAL POWER":  "7.5 KW"
+                                            },
+                         "standardAccessories":  [
+                                                     "FIRE EXTINGUISHER", 
+                                                     "FILTER SET", 
+                                                     "HALOGEN LAMP", 
+                                                     "MAGNETIC TABLE", 
+                                                     "MAGNETIC WATER HOSES", 
+                                                     "TOOL CASE", 
+                                                     "TURKISH USER MANUAL"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "SYSTEM 3 R QUICK CLAMPING SET"
+                                                 ]
+                     },
+                     {
+                         "id": "680-znc",
+                         "name": "680 ZNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "znc-serisi-best",
+                         "image": "images/Urun Fotograflari/680 ZNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY WITH EXTENSIVE REFERENCE LIST",
+                         "features": [
+                             "X,Y,Z AXES C5 CLASS BALL SCREW RAILS",
+                             "Z AXIS WITH DUAL LINEAR BEARINGS",
+                             "FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "TURKISH MENU",
+                             "FAST CUTTING WITH MINIMUM COPPER EROSION",
+                             "TROUBLE-FREE STEEL-TO-STEEL MACHINING",
+                             "CUTTING WITH ALL TYPES OF GRAPHITE",
+                             "HARD METAL CUTTING",
+                             "ARC SENSOR",
+                             "MIRROR SURFACES WITH FLAT FEATURE",
+                             "FIRE EXTINGUISHING APPARATUS",
+                             "LIQUID LEVEL CONTROL",
+                             "COPPER NON-ERODING PROGRAM",
+                             "MACHINE TOTAL OPERATION TIME",
+                             "WORK OPERATION TIME TRACKING",
+                             "Z AXIS DC STEP SERVO MOTOR",
+                             "9+9 HOLE MEMORY",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM"
+                                      ],
+                         "specifications":  {
+                             "MODEL":  "680 ZNC",
+                             "X-AXIS TRAVEL":  "800 MM",
+                             "Y-AXIS TRAVEL":  "600 MM",
+                             "Z-AXIS TRAVEL":  "450 MM",
+                             "TABLE DIMENSIONS":  "700X1200 MM",
+                             "MAXIMUM ELECTRODE WEIGHT":  "250 KG",
+                             "MAXIMUM WORKPIECE WEIGHT":  "2500 KG",
+                             "OIL TANK DIMENSIONS":  "1800X940X720 MM",
+                             "OIL CAPACITY":  "1200 L",
+                             "MACHINE WEIGHT":  "4,000 KG"
+                                            },
+                         "standardAccessories":  [
+                                                     "FIRE EXTINGUISHER", 
+                                                     "FILTER SET", 
+                                                     "HALOGEN LAMP", 
+                                                     "MAGNETIC TABLE", 
+                                                     "MAGNETIC WATER HOSES", 
+                                                     "TOOL CASE", 
+                                                     "TURKISH USER MANUAL"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "SYSTEM 3 R QUICK CLAMPING SET"
+                                                 ]
+                     },
+                     {
+                         "id": "560-znc",
+                         "name": "560 ZNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "znc-serisi-best",
+                         "image": "images/Urun Fotograflari/560 ZNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY WITH EXTENSIVE REFERENCE LIST",
+                         "features": [
+                             "X,Y,Z AXES C5 CLASS BALL SCREW RAILS",
+                             "Z AXIS WITH DUAL LINEAR BEARINGS",
+                             "FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "TURKISH MENU",
+                             "FAST CUTTING WITH MINIMUM COPPER EROSION",
+                             "TROUBLE-FREE STEEL-TO-STEEL MACHINING",
+                             "CUTTING WITH ALL TYPES OF GRAPHITE",
+                             "HARD METAL CUTTING",
+                             "ARC SENSOR",
+                             "MIRROR SURFACES WITH FLAT FEATURE",
+                             "FIRE EXTINGUISHING APPARATUS",
+                             "LIQUID LEVEL CONTROL",
+                             "COPPER NON-ERODING PROGRAM",
+                             "MACHINE TOTAL OPERATION TIME",
+                             "WORK OPERATION TIME TRACKING",
+                             "Z AXIS DC STEP SERVO MOTOR",
+                             "9+9 HOLE MEMORY",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM"
+                                      ],
+                         "specifications":  {
+                             "MODEL":  "560 ZNC",
+                             "X-AXIS TRAVEL":  "600 MM",
+                             "Y-AXIS TRAVEL":  "500 MM",
+                             "Z-AXIS TRAVEL":  "550 MM",
+                             "TABLE DIMENSIONS":  "550X1000 MM",
+                             "MAXIMUM ELECTRODE WEIGHT":  "200 KG",
+                             "MAXIMUM WORKPIECE WEIGHT":  "1500 KG",
+                             "MAXIMUM WORKPIECE DIMENSIONS":  "1350X800X600 MM",
+                             "WORKING TANK DIMENSIONS":  "1580X870X550 MM",
+                             "OIL TANK DIMENSIONS":  "1000X2000X480 MM",
+                             "OIL CAPACITY":  "800 L",
+                             "MACHINE WEIGHT":  "2,100 KG"
+                                            },
+                         "standardAccessories":  [
+                                                     "FIRE EXTINGUISHER",
+                                                     "FILTER SET",
+                                                     "HALOGEN LAMP",
+                                                     "MAGNETIC TABLE",
+                                                     "MAGNETIC WATER HOSES",
+                                                     "TOOL CASE",
+                                                     "TURKISH USER MANUAL"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "SYSTEM 3 R QUICK CLAMPING SET"
+                                                 ]
+                     },
+                     {
+                         "id": "570-znc",
+                         "name": "570 ZNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "znc-serisi-best",
+                         "image": "images/Urun Fotograflari/570 ZNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY WITH EXTENSIVE REFERENCE LIST",
+                         "features": [
+                             "X,Y,Z AXES C5 CLASS BALL SCREW RAILS",
+                             "Z AXIS WITH DUAL LINEAR BEARINGS",
+                             "FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "TURKISH MENU",
+                             "FAST CUTTING WITH MINIMUM COPPER EROSION",
+                             "TROUBLE-FREE STEEL-TO-STEEL MACHINING",
+                             "CUTTING WITH ALL TYPES OF GRAPHITE",
+                             "HARD METAL CUTTING",
+                             "ARC SENSOR",
+                             "MIRROR SURFACES WITH FLAT FEATURE",
+                             "FIRE EXTINGUISHING APPARATUS",
+                             "LIQUID LEVEL CONTROL",
+                             "COPPER NON-ERODING PROGRAM",
+                             "MACHINE TOTAL OPERATION TIME",
+                             "WORK OPERATION TIME TRACKING",
+                             "Z AXIS DC STEP SERVO MOTOR",
+                             "9+9 HOLE MEMORY",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM"
+                                      ],
+                         "specifications":  {
+                             "MODEL":  "570 ZNC",
+                             "X-AXIS TRAVEL":  "700 MM",
+                             "Y-AXIS TRAVEL":  "500 MM",
+                             "Z-AXIS TRAVEL":  "600 MM",
+                             "TABLE DIMENSIONS":  "700X1200 MM",
+                             "MAXIMUM ELECTRODE WEIGHT":  "250 KG",
+                             "MAXIMUM WORKPIECE WEIGHT":  "2000 KG",
+                             "MAXIMUM WORKPIECE DIMENSIONS":  "1700X920X720 MM",
+                             "WORKING TANK DIMENSIONS":  "1900X1000X600 MM",
+                             "OIL TANK DIMENSIONS":  "1300X2200X520 MM",
+                             "OIL CAPACITY":  "1200 L",
+                             "MACHINE WEIGHT":  "3,800 KG"
+                                            },
+                         "standardAccessories":  [
+                                                     "FIRE EXTINGUISHER",
+                                                     "FILTER SET",
+                                                     "HALOGEN LAMP",
+                                                     "MAGNETIC TABLE",
+                                                     "MAGNETIC WATER HOSES",
+                                                     "TOOL CASE",
+                                                     "TURKISH USER MANUAL"
+                                                 ],
+                         "optionalAccessories":  [
+                                                     "SYSTEM 3 R QUICK CLAMPING SET"
+                                                 ]
+                     },
+                     {
+                         "id": "best-2500-znc",
+                         "name": "BEST 2500 ZNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "znc-serisi-best",
+                         "image": "images/Urun Fotograflari/BEST 2500 ZNC.webp",
+                         "generalInfo": "3-Axis Digital Coordinate Reading System, Large Working Tank, ZNC Automatic program (10-step programmable finish feature from rough to fine cutting), Trouble-free cutting thanks to arc sensor.",
+                         "features": [
+                             "3-Axis Digital Coordinate Reading System",
+                             "Large Working Tank",
+                             "ZNC Automatic Program (10-step programmable finish feature from rough to fine cutting)",
+                             "Trouble-free Cutting with Arc Sensor"
+                                      ],
+                         "specifications":  {
+                             "MODEL":  "BEST 2500 ZNC",
+                             "Table Dimensions":  "600 x 315 mm",
+                             "X-Axis Travel":  "350 mm",
+                             "Y-Axis Travel":  "250 mm",
+                             "Z-Axis Travel":  "180 mm",
+                             "Max. Electrode Weight":  "50 kg",
+                             "Max. Amperage":  "50 A",
+                             "Max. Cutting Speed":  "600 mm³ / min",
+                             "Surface Precision":  "0.8 ra",
+                             "Max. Workpiece Weight":  "600 kg",
+                             "Distance from Table to Electrode Holder":  "350 mm"
+                         },
+                         "standardAccessories":  [],
+                         "optionalAccessories":  []
+                     },
+                     {
+                         "id": "best-3500-znc",
+                         "name": "BEST 3500 ZNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "znc-serisi-best",
+                         "image": "images/Urun Fotograflari/BEST 3500 ZNC.webp",
+                         "generalInfo": "3-Axis Digital Coordinate Reading System, Large Working Tank, ZNC Automatic program (10-step programmable finish feature from rough to fine cutting), Trouble-free cutting thanks to arc sensor.",
+                         "features": [
+                             "3-Axis Digital Coordinate Reading System",
+                             "Large Working Tank",
+                             "ZNC Automatic Program (10-step programmable finish feature from rough to fine cutting)",
+                             "Trouble-free Cutting with Arc Sensor"
+                                      ],
+                         "specifications":  {
+                             "MODEL":  "BEST 3500 ZNC",
+                             "Table Dimensions":  "750 x 420 mm",
+                             "X-Axis Travel":  "450 mm",
+                             "Y-Axis Travel":  "350 mm",
+                             "Z-Axis Travel":  "200 + 200 mm",
+                             "Max. Electrode Weight":  "80 kg",
+                             "Max. Amperage":  "60 A",
+                             "Max. Cutting Speed":  "600 mm³ / min",
+                             "Surface Precision":  "0.8 ra",
+                             "Max. Workpiece Weight":  "1100 kg",
+                             "Distance from Table to Electrode Holder":  "520 mm"
+                         },
+                         "standardAccessories":  [],
+                         "optionalAccessories":  []
+                     },
+                     {
+                         "id": "best-4500-znc",
+                         "name": "BEST 4500 ZNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "znc-serisi-best",
+                         "image": "images/Urun Fotograflari/BEST 4500 ZNC.webp",
+                         "generalInfo": "3-Axis Digital Coordinate Reading System, Large Working Tank, ZNC Automatic program (10-step programmable finish feature from rough to fine cutting), Trouble-free cutting thanks to arc sensor.",
+                         "features": [
+                             "3-Axis Digital Coordinate Reading System",
+                             "Large Working Tank",
+                             "ZNC Automatic Program (10-step programmable finish feature from rough to fine cutting)",
+                             "Trouble-free Cutting with Arc Sensor"
+                                      ],
+                         "specifications": {
+                             "MODEL": "BEST 4500 ZNC",
+                             "Table Dimensions": "800 x 350 mm",
+                             "X-Axis Travel": "500 mm",
+                             "Y-Axis Travel": "400 mm",
+                             "Z-Axis Travel": "200 + 250 mm",
+                             "Max. Electrode Weight": "100 kg",
+                             "Max. Amperage": "60 A",
+                             "Max. Cutting Speed": "600 mm³ / min",
+                             "Surface Precision": "0.8 ra",
+                             "Max. Workpiece Weight": "1200 kg",
+                             "Distance from Table to Electrode Holder": "540 mm"
+                         },
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "3000-pnc",
+                         "name": "3000 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/3000 PNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY WITH EXTENSIVE REFERENCE LIST",
+                         "features": [
+                             "X,Y,Z AXES C5 CLASS BALL SCREW RAILS",
+                             "Z AXIS WITH DUAL LINEAR BEARINGS",
+                             "FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "TURKISH MENU",
+                             "FAST CUTTING WITH MINIMUM COPPER EROSION",
+                             "TROUBLE-FREE STEEL-TO-STEEL MACHINING",
+                             "CUTTING WITH ALL TYPES OF GRAPHITE",
+                             "HARD METAL CUTTING",
+                             "ARC SENSOR",
+                             "MIRROR SURFACES WITH FLAT FEATURE",
+                             "FIRE EXTINGUISHING APPARATUS",
+                             "LIQUID LEVEL CONTROL",
+                             "COPPER NON-ERODING PROGRAM",
+                             "MACHINE TOTAL OPERATION TIME",
+                             "WORK OPERATION TIME TRACKING",
+                             "Z AXIS DC STEP SERVO MOTOR",
+                             "9+9 HOLE MEMORY",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM"
+                         ],
+                         "specifications": {
+                             "MODEL": "3000 PNC",
+                             "X-AXIS TRAVEL": "400 MM",
+                             "Y-AXIS TRAVEL": "300 MM",
+                             "Z-AXIS TRAVEL": "200+250 MM",
+                             "MAXIMUM WORKPIECE": "950X580X450 MM",
+                             "WORKING TABLE": "360X700 MM",
+                             "ELECTRODE WEIGHT": "120 KG",
+                             "WORKPIECE WEIGHT": "800 KG",
+                             "WORKING TANK SIZE": "1140X640X420 MM",
+                             "OIL TANK DIMENSIONS": "1200X1000X400 MM",
+                             "OIL CAPACITY": "430 L",
+                             "MACHINE WEIGHT": "1200 KG",
+                             "MAXIMUM AMPERAGE": "50 AMP",
+                             "COPPER EROSION RATE": "0.01 %",
+                             "TOTAL POWER": "7.5 KW"
+                         },
+                         "standardAccessories": [
+                             "FIRE EXTINGUISHER",
+                             "FILTER SET",
+                             "HALOGEN LAMP",
+                             "MAGNETIC TABLE",
+                             "MAGNETIC WATER HOSES",
+                             "TOOL CASE",
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "SYSTEM 3 R QUICK CLAMPING SET"
+                         ]
+                     },
+                     {
+                         "id": "850-pnc",
+                         "name": "850 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/850 PNC.webp",
+                         "generalInfo": "HIGH PRECISION*ENERGY EFFICIENCY*LCD DISPLAY*HAND CONTROL*",
+                         "features": [
+                             "PNC PROGRAMMING",
+                             "X-Y-Z AXES BALL SCREW",
+                             "Z AXIS TAIWAN-MADE DC SERVO MOTOR",
+                             "Z AXIS EUROPEAN-ORIGIN LINEAR RAILS",
+                             "WORKING WITH COPPER-GRAPHITE-STEEL",
+                             "SINGLE-PIECE CAST BODY STRUCTURE",
+                             "HARD METAL AND DIAMOND MATERIAL CUTTING",
+                             "MULTI-FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM",
+                             "MALFUNCTION WARNING SYSTEM",
+                             "EROSION LIQUID LEVEL CONTROL SYSTEM",
+                             "LCD DISPLAY",
+                             "HAND CONTROL"
+                         ],
+                         "specifications": {
+                             "MODEL": "850 PNC",
+                             "X-AXIS TRAVEL": "800 MM",
+                             "Y-AXIS TRAVEL": "500 MM",
+                             "Z-AXIS TRAVEL": "450 MM",
+                             "TABLE SIZE": "700X1200 MM",
+                             "MAXIMUM ELECTRODE WEIGHT": "250 KG",
+                             "MAXIMUM WORKPIECE WEIGHT": "4,000 KG",
+                             "MACHINE TANK DIMENSIONS": "1700X900X700 MM",
+                             "OIL TANK DIMENSIONS": "2100X1050X660 MM",
+                             "OIL TANK CAPACITY": "950 L",
+                             "MACHINE WEIGHT": "4,500 KG"
+                         },
+                         "standardAccessories": [
+                             "FIRE EXTINGUISHER",
+                             "FILTER SET",
+                             "HALOGEN LAMP",
+                             "MAGNETIC WATER HOSES",
+                             "TOOL CASE",
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "SYSTEM 3 R"
+                         ]
+                     },
+                     {
+                         "id": "570-pnc",
+                         "name": "570 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/570 PNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY",
+                         "features": [
+                             "PNC PROGRAMMING",
+                             "X-Y-Z AXES BALL SCREW",
+                             "Z AXIS TAIWAN-MADE DC SERVO MOTOR",
+                             "Z AXIS EUROPEAN-ORIGIN LINEAR RAILS",
+                             "WORKING WITH COPPER-GRAPHITE-STEEL",
+                             "SINGLE-PIECE CAST BODY STRUCTURE",
+                             "HARD METAL AND DIAMOND MATERIAL CUTTING",
+                             "MULTI-FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM",
+                             "MALFUNCTION WARNING SYSTEM",
+                             "EROSION LIQUID LEVEL CONTROL SYSTEM",
+                             "LCD DISPLAY",
+                             "HAND CONTROL"
+                         ],
+                         "specifications": {
+                             "MODEL": "570 PNC",
+                             "X-AXIS TRAVEL": "700 MM",
+                             "Y-AXIS TRAVEL": "500 MM",
+                             "Z-AXIS TRAVEL": "250 MM",
+                             "Z1-AXIS TRAVEL": "350 MM",
+                             "TABLE SIZE": "700X1200 MM",
+                             "LIQUID TANK CAPACITY": "1200 L",
+                             "WORKPIECE SIZE": "1700X920X720",
+                             "WORKPIECE WEIGHT": "2000 KG",
+                             "TANK DIMENSIONS": "1900X1000X600",
+                             "MACHINE WEIGHT": "3800 KG"
+                         },
+                         "standardAccessories": [
+                             "FIRE EXTINGUISHER", 
+                             "FILTER SET", 
+                             "HALOGEN LAMP", 
+                             "MAGNETIC TABLE", 
+                             "MAGNETIC WATER HOSES", 
+                             "TOOL CASE", 
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "FIRE EXTINGUISHER", 
+                             "FILTER SET", 
+                             "HALOGEN LAMP", 
+                             "MAGNETIC TABLE", 
+                             "MAGNETIC WATER HOSES", 
+                             "TOOL CASE", 
+                             "TURKISH USER MANUAL"
+                         ]
+                     },
+                     {
+                         "id": "560-pnc",
+                         "name": "560 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/560 PNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY",
+                         "features": [
+                             "PNC PROGRAMMING",
+                             "X-Y-Z AXES BALL SCREW",
+                             "Z AXIS TAIWAN-MADE DC SERVO MOTOR",
+                             "Z AXIS EUROPEAN-ORIGIN LINEAR RAILS",
+                             "WORKING WITH COPPER-GRAPHITE-STEEL",
+                             "SINGLE-PIECE CAST BODY STRUCTURE",
+                             "HARD METAL AND DIAMOND MATERIAL CUTTING",
+                             "MULTI-FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM",
+                             "MALFUNCTION WARNING SYSTEM",
+                             "EROSION LIQUID LEVEL CONTROL SYSTEM",
+                             "LCD DISPLAY",
+                             "HAND CONTROL"
+                         ],
+                         "specifications": {
+                             "MODEL": "560 PNC",
+                             "X-AXIS TRAVEL": "600 MM",
+                             "Y-AXIS TRAVEL": "500 MM",
+                             "Z-AXIS TRAVEL": "250 MM",
+                             "Z1-AXIS TRAVEL": "300 MM",
+                             "TANK DIMENSIONS": "1350X800X600",
+                             "TABLE SIZE": "550X1000 MM",
+                             "ELECTRODE WEIGHT": "200 KG",
+                             "LIQUID TANK CAPACITY": "800 L",
+                             "WORKPIECE WEIGHT": "1500 KG",
+                             "MACHINE WEIGHT": "2100 KG"
+                         },
+                         "standardAccessories": [
+                             "FIRE EXTINGUISHER",
+                             "FILTER SET",
+                             "HALOGEN LAMP",
+                             "MAGNETIC TABLE",
+                             "MAGNETIC WATER HOSES",
+                             "TOOL CASE",
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "3R SYSTEM"
+                         ]
+                     },
+                     {
+                         "id": "680-pnc",
+                         "name": "680 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/680 PNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY",
+                         "features": [
+                             "PNC PROGRAMMING",
+                             "X-Y-Z AXES BALL SCREW",
+                             "Z AXIS TAIWAN-MADE DC SERVO MOTOR",
+                             "Z AXIS EUROPEAN-ORIGIN LINEAR RAILS",
+                             "WORKING WITH COPPER-GRAPHITE-STEEL",
+                             "SINGLE-PIECE CAST BODY STRUCTURE",
+                             "HARD METAL AND DIAMOND MATERIAL CUTTING",
+                             "MULTI-FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM",
+                             "MALFUNCTION WARNING SYSTEM",
+                             "EROSION LIQUID LEVEL CONTROL SYSTEM",
+                             "LCD DISPLAY",
+                             "HAND CONTROL"
+                         ],
+                         "specifications": {
+                             "MODEL": "680 PNC",
+                             "X-AXIS TRAVEL": "800 MM",
+                             "Y-AXIS TRAVEL": "600 MM",
+                             "Z-AXIS TRAVEL": "250 MM",
+                             "Z1-AXIS TRAVEL": "350 MM",
+                             "TABLE SIZE": "700X1300 MM",
+                             "ELECTRODE WEIGHT": "250 KG",
+                             "WORKPIECE WEIGHT": "2500 KG",
+                             "WORKPIECE SIZE": "1800X940X720 MM",
+                             "TANK DIMENSIONS": "2000X1020X650 MM",
+                             "LIQUID TANK CAPACITY": "1200 L",
+                             "MACHINE WEIGHT": "4000 KG"
+                         },
+                         "standardAccessories": [
+                             "FILTER SET",
+                             "HALOGEN LAMP",
+                             "MAGNETIC TABLE",
+                             "MAGNETIC WATER HOSES",
+                             "TOOL CASE",
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "FIRE EXTINGUISHER",
+                             "SYSTEM 3R"
+                         ]
+                     },
+                     {
+                         "id": "1060-pnc",
+                         "name": "1060 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/1060 PNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY",
+                         "features": [
+                             "PNC PROGRAMMING",
+                             "X-Y-Z AXES BALL SCREW",
+                             "Z AXIS TAIWAN-MADE DC SERVO MOTOR",
+                             "Z AXIS EUROPEAN-ORIGIN LINEAR RAILS",
+                             "WORKING WITH COPPER-GRAPHITE-STEEL",
+                             "SINGLE-PIECE CAST BODY STRUCTURE",
+                             "HARD METAL AND DIAMOND MATERIAL CUTTING",
+                             "MULTI-FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM",
+                             "MALFUNCTION WARNING SYSTEM",
+                             "EROSION LIQUID LEVEL CONTROL SYSTEM",
+                             "LCD DISPLAY",
+                             "HAND CONTROL"
+                         ],
+                         "specifications": {
+                             "MODEL": "1060 PNC",
+                             "X-AXIS TRAVEL": "1000 MM",
+                             "Y-AXIS TRAVEL": "600 MM",
+                             "Z-AXIS TRAVEL": "450 MM",
+                             "TABLE SIZE": "700X1200 MM",
+                             "ELECTRODE WEIGHT": "250 KG",
+                             "TABLE LOADING CAPACITY": "4000 KG",
+                             "WORKPIECE SIZE": "2000X1000X700 MM",
+                             "TANK DIMENSIONS": "2400X1150X650 MM",
+                             "LIQUID TANK CAPACITY": "1300 L",
+                             "MACHINE WEIGHT": "4800 KG"
+                         },
+                         "standardAccessories": [
+                             "FIRE EXTINGUISHER",
+                             "FILTER SET",
+                             "HALOGEN LAMP",
+                             "MAGNETIC TABLE",
+                             "MAGNETIC WATER HOSES",
+                             "TOOL CASE",
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "SYSTEM 3R"
+                         ]
+                     },
+                     {
+                         "id": "1200-pnc",
+                         "name": "1200 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/1200 PNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY",
+                         "features": [
+                             "PNC PROGRAMMING",
+                             "X-Y-Z AXES BALL SCREW",
+                             "Z AXIS TAIWAN-MADE DC SERVO MOTOR",
+                             "Z AXIS EUROPEAN-ORIGIN LINEAR RAILS",
+                             "WORKING WITH COPPER-GRAPHITE-STEEL",
+                             "SINGLE-PIECE CAST BODY STRUCTURE",
+                             "HARD METAL AND DIAMOND MATERIAL CUTTING",
+                             "MULTI-FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM",
+                             "MALFUNCTION WARNING SYSTEM",
+                             "EROSION LIQUID LEVEL CONTROL SYSTEM",
+                             "LCD DISPLAY",
+                             "HAND CONTROL"
+                         ],
+                         "specifications": {
+                             "MODEL": "1200 PNC",
+                             "X-AXIS TRAVEL": "1200 MM",
+                             "Y-AXIS TRAVEL": "700 MM",
+                             "Z-AXIS TRAVEL": "500 MM",
+                             "TABLE SIZE": "900X1500 MM",
+                             "ELECTRODE WEIGHT": "300 KG",
+                             "TABLE LOADING CAPACITY": "4500 KG",
+                             "WORKPIECE SIZE": "2000X1100X750 MM",
+                             "TANK DIMENSIONS": "2500X1200X750 MM",
+                             "LIQUID TANK CAPACITY": "2000 L",
+                             "MACHINE WEIGHT": "6000 KG"
+                         },
+                         "standardAccessories": [
+                             "FIRE EXTINGUISHER",
+                             "FILTER SET",
+                             "HALOGEN LAMP",
+                             "MAGNETIC TABLE",
+                             "MAGNETIC WATER HOSES",
+                             "TOOL CASE",
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "3R SYSTEM"
+                         ]
+                     },
+                     {
+                         "id": "1500-pnc",
+                         "name": "1500 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/1500 PNC.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY",
+                         "features": [
+                             "PNC PROGRAMMING",
+                             "X-Y-Z AXES BALL SCREW",
+                             "Z AXIS TAIWAN-MADE DC SERVO MOTOR",
+                             "Z AXIS EUROPEAN-ORIGIN LINEAR RAILS",
+                             "WORKING WITH COPPER-GRAPHITE-STEEL",
+                             "SINGLE-PIECE CAST BODY STRUCTURE",
+                             "HARD METAL AND DIAMOND MATERIAL CUTTING",
+                             "MULTI-FUNCTIONAL ELECTRODE HOLDER HEAD",
+                             "3-AXIS DIGITAL SYSTEM",
+                             "FIRE SENSORS",
+                             "FIRE EXTINGUISHING SYSTEM",
+                             "MALFUNCTION WARNING SYSTEM",
+                             "EROSION LIQUID LEVEL CONTROL SYSTEM",
+                             "LCD DISPLAY",
+                             "HAND CONTROL"
+                         ],
+                         "specifications": {
+                             "MODEL": "1500 PNC",
+                             "X-AXIS TRAVEL": "1500 MM",
+                             "Y-AXIS TRAVEL": "800 MM",
+                             "Z-AXIS TRAVEL": "600 MM",
+                             "TABLE SIZE": "900X1700",
+                             "ELECTRODE WEIGHT": "300 KG",
+                             "WORKPIECE WEIGHT": "5000 KG",
+                             "WORKPIECE SIZE": "2500X1200X750 MM",
+                             "TANK DIMENSIONS": "3000X1300X750 MM",
+                             "LIQUID TANK CAPACITY": "2500 L",
+                             "MACHINE WEIGHT": "7500 KG"
+                         },
+                         "standardAccessories": [
+                             "FIRE EXTINGUISHER",
+                             "FILTER SET",
+                             "HALOGEN LAMP",
+                             "MAGNETIC TABLE",
+                             "MAGNETIC WATER HOSES",
+                             "TOOL CASE",
+                             "TURKISH USER MANUAL"
+                         ],
+                         "optionalAccessories": [
+                             "3R SYSTEM"
+                         ]
+                     },
+                     {
+                         "id": "best-2500-pnc",
+                         "name": "BEST 2500 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/BEST 2500 PNC.webp",
+                         "generalInfo": "",
+                         "features": [
+                             "3-Axis Digital Coordinate Reading System",
+                             "Large Working Tank",
+                             "Automatic Multi-point Processing Feature",
+                             "Trouble-free Cutting with Arc Sensor"
+                         ],
+                         "specifications": {
+                             "MODEL": "BEST 2500 PNC",
+                             "Table Dimensions": "600 x 315 mm",
+                             "X-Axis Travel": "350 mm",
+                             "Y-Axis Travel": "250 mm",
+                             "Z-Axis Travel": "180 mm",
+                             "Max. Electrode Weight": "50 kg",
+                             "Max. Cutting Speed": "600 mm³ / min",
+                             "Surface Precision": "0.8 ra",
+                             "Max. Workpiece Weight": "600 kg",
+                             "Distance from Table to Electrode Holder": "350 mm"
+                         },
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "best-3500-pnc",
+                         "name": "BEST 3500 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/BEST 3500 PNC.webp",
+                         "generalInfo": "",
+                         "features": [
+                             "3-Axis Digital Coordinate Reading System",
+                             "Large Working Tank",
+                             "Automatic Multi-point Processing Feature",
+                             "Trouble-free Cutting with Arc Sensor"
+                         ],
+                         "specifications": {
+                             "MODEL": "BEST 3500 PNC",
+                             "Table Dimensions": "750 x 420 mm",
+                             "X-Axis Travel": "450 mm",
+                             "Y-Axis Travel": "350 mm",
+                             "Z-Axis Travel": "200 + 200 mm",
+                             "Max. Electrode Weight": "80 kg",
+                             "Max. Amperage": "60 A",
+                             "Max. Cutting Speed": "600 mm³ / min",
+                             "Surface Precision": "0.8 ra",
+                             "Max. Workpiece Weight": "1100 kg",
+                             "Distance from Table to Electrode Holder": "520 mm"
+                         },
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "best-4500-pnc",
+                         "name": "BEST 4500 PNC",
+                         "category": "dalma-erozyon",
+                         "subcategory": "best-edm",
+                         "subSubcategory": "pnc-serisi-best",
+                         "image": "images/Urun Fotograflari/BEST 4500 PNC.webp",
+                         "generalInfo": "",
+                         "features": [
+                             "3-Axis Digital Coordinate Reading System",
+                             "Large Working Tank",
+                             "Automatic Multi-point Processing Feature",
+                             "Trouble-free Cutting with Arc Sensor"
+                         ],
+                         "specifications": {
+                             "MODEL": "BEST 4500 PNC",
+                             "Table Dimensions": "800 x 350 mm",
+                             "X-Axis Travel": "500 mm",
+                             "Y-Axis Travel": "400 mm",
+                             "Z-Axis Travel": "200 + 250 mm",
+                             "Max. Electrode Weight": "100 kg",
+                             "Max. Amperage": "60 A",
+                             "Max. Cutting Speed": "600 mm³ / min",
+                             "Surface Precision": "0.8 ra",
+                             "Max. Workpiece Weight": "1200 kg",
+                             "Distance from Table to Electrode Holder": "540 mm"
+                         },
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "ysm-26shb",
+                         "name": "YSM 26SHB",
+                         "category": "universal-kalipci-freze",
+                         "subcategory": "king-universal",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/YSM-26SHB.webp",
+                         "generalInfo": "Horizontal and Vertical Milling with Center Shaft",
+                         "features": [
+                             "Rotatable Control Panel",
+                             "Ground Transmission Gears",
+                             "Ball Screws on X,Y Axes",
+                             "X,Y DC Servo Motor Control",
+                             "Transmission Lubrication System",
+                             "Automatic Lubrication System",
+                             "LED Lamp"
+                         ],
+                         "specifications": {
+                             "MODEL": "YSM-26SHB",
+                             "Spindle Motor": "5 Hp",
+                             "Spindle Taper": "ISO 40",
+                             "Weight": "2250 Kg",
+                             "Dimensions": "1970X2300x2550",
+                             "Quill Diameter": "105 MM",
+                             "Table Size": "1370X300",
+                             "X-Axis Travel": "1000 MM",
+                             "Y-Axis Travel": "400 MM",
+                             "T-Slot Size": "16 x 3 x 61 mm",
+                             "Spindle Speed - Vertical": "58-5560 rpm",
+                             "Spindle Speed - Horizontal": "75 - 1450 rpm",
+                             "Z-Axis Travel": "480 MM"
+                         },
+                         "standardAccessories": [
+                             "AUTOMATIC LUBRICATION",
+                             "COOLING SYSTEM",
+                             "HALOGEN WORK LIGHT",
+                             "FRONT AND REAR RAIL GUARDS",
+                             "SPINDLE PULLER",
+                             "TOOL SET",
+                             "MOVABLE TRANSPARENT CHIP GUARD"
+                         ],
+                         "optionalAccessories": [
+                             "PNEUMATIC SPINDLE PULLER",
+                             "DIGITAL SYSTEM",
+                             "HORIZONTAL VERTICAL ROTARY TABLE",
+                             "UNIVERSAL DIVIDER",
+                             "SIDE MILLING HEAD"
+                         ]
+                     },
+                     {
+                         "id": "king-ysm-26-chb",
+                         "name": "KING YSM 26 CHB",
+                         "category": "kalipci-freze",
+                         "subcategory": "king-kalipci",
+                         "image": "images/Urun Fotograflari/KİNG YSM - 26 CHB.webp",
+                         "generalInfo": "Precise & Powerful Universal Operation",
+                         "features": [
+                             "Table Size: 300 x 1370 mm",
+                             "X - Y - Z Axis: 1000 x 400 x 480 mm",
+                             "Motor Power: 5 HP",
+                             "Spindle Taper: ISO 40"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING YSM - 26 CHB",
+                             "Table Size": "300 x 1370 mm",
+                             "T-Slot": "16 x 3 x 61 mm",
+                             "X- Y - Z Movements": "1000 x 400 x 480 mm",
+                             "Spindle Taper": "ISO 40",
+                             "Quill Diameter": "105 mm",
+                             "Quill Travel": "140 mm",
+                             "Spindle Speed - Vertical": "58 - 5660 Rpm",
+                             "Spindle Speed - Horizontal": "75 - 1450 Rpm",
+                             "Motor Power": "5 HP",
+                             "Weight": "2200 - 2500 Kg"
+                         },
+                         "standardAccessories": [
+                             "COLLET SET",
+                             "VISE",
+                             "CLAMPING KIT"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-sz-2200-hvd",
+                         "name": "KING SZ 2200 HVD",
+                         "category": "universal-kalipci-freze",
+                         "subcategory": "king-universal",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KİNG SZ 2200 HVD.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY * SERVO MOTORS * BOX WAYS * THREADING ATTACHMENT * EXTENSIVE REFERENCE LIST",
+                         "features": [
+                             "5 HP Motor Power",
+                             "Japanese DC servo motors on X, Y axes",
+                             "C5 class ball screw on X, Y axes",
+                             "16-step speed options",
+                             "Turcide B (non-wear) coated BOX slides",
+                             "Shock and water-resistant optical scale protection",
+                             "Folding type manual handles",
+                             "3D (German) test-controlled precision head",
+                             "Threading attachment",
+                             "Comparator clock",
+                             "F30 - FCD45 alloy, clad body internal structure",
+                             "Automatic timed lubrication system",
+                             "Chip tray",
+                             "Metal machine buffers",
+                             "Tool case and tools",
+                             "Working lamp",
+                             "English panel"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING SZ 2200 HVD",
+                             "SPINDLE MOTOR": "75-3600 rpm",
+                             "Z AXIS MOTOR POWER": "0.75 KW (1 HP)",
+                             "LUBRICATION PUMP": "150 W (AUTOMATIC TIME CONTROLLED)",
+                             "ELECTROMAGNETIC PUMP": "40 W",
+                             "VERTICAL SPINDLE SPEED": "75-3600 rpm",
+                             "HORIZONTAL SPINDLE SPEED": "80-1220 RPM 9 SPEEDS",
+                             "SPINDLE TAPER": "DIN 2080 ISO 40",
+                             "QUILL DIAMETER": "110 MM",
+                             "QUILL TRAVEL": "140 MM",
+                             "AUTOMATIC QUILL FEED": "0.035/0.07/0.14 - 3 STEPS",
+                             "RAM MOVEMENT": "450 MM (FORWARD-BACKWARD)",
+                             "SPINDLE TO TABLE DISTANCE": "530 MM",
+                             "HEAD SWIVEL": "45 DEGREES (RIGHT-LEFT)",
+                             "TABLE SIZE": "1350X305 MM",
+                             "X-AXIS TRAVEL": "950 MM",
+                             "Y-AXIS TRAVEL": "400 MM",
+                             "Z-AXIS TRAVEL": "400 MM",
+                             "T-SLOT": "3X16X63 MM",
+                             "CUTTING SPEED (X,Y)": "0-1500 MM/MIN",
+                             "FEED RATE (X,Y)": "3000 MM-MIN",
+                             "FEED RATE Z": "1150 MM/MIN",
+                             "MACHINE DIMENSIONS": "2800X2300X2400 MM",
+                             "MACHINE WEIGHT": "2700 KG"
+                         },
+                         "standardAccessories": [
+                             "5 HP Motor Power",
+                             "Japanese DC servo motors on X, Y axes",
+                             "C5 class ball screw on X, Y axes",
+                             "16-step speed options",
+                             "Turcide B (non-wear) coated BOX slides",
+                             "Shock and water-resistant optical scale protection",
+                             "Folding type manual handles",
+                             "3D (German) test-controlled precision head",
+                             "Threading attachment",
+                             "Comparator clock",
+                             "F30 - FCD45 alloy, clad body internal structure",
+                             "Automatic timed lubrication system",
+                             "Chip tray",
+                             "Metal machine buffers",
+                             "Tool case and tools",
+                             "Working lamp",
+                             "English panel"
+                         ],
+                         "optionalAccessories": [
+                             "Pneumatic spindle puller",
+                             "Digital coordinate reading system (display + scale)",
+                             "6'' vise / collet set",
+                             "Workpiece clamping set",
+                             "Inverter motor option"
+                         ]
+                     },
+                     {
+                         "id": "king-sz-2200-hvsd",
+                         "name": "KING SZ 2200 HVSD",
+                         "category": "universal-kalipci-freze",
+                         "subcategory": "king-universal",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KİNG SZ 2200 HVSD.webp",
+                         "generalInfo": "SUPERIOR TAIWAN TECHNOLOGY * SERVO MOTORS * BOX WAYS * THREADING ATTACHMENT * EXTENSIVE REFERENCE LIST",
+                         "features": [
+                             "5 HP Motor Power",
+                             "Japanese DC servo motors on X, Y axes",
+                             "C5 class ball screw on X, Y axes",
+                             "16-step speed options",
+                             "Turcide B (non-wear) coated BOX slides",
+                             "Shock and water-resistant optical scale protection",
+                             "Folding type manual handles",
+                             "3D (German) test-controlled precision head",
+                             "Threading attachment",
+                             "Comparator clock",
+                             "F30 - FCD45 alloy, clad body internal structure",
+                             "Automatic timed lubrication system",
+                             "Chip tray",
+                             "Metal machine buffers",
+                             "Tool case and tools",
+                             "Working lamp",
+                             "English panel"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING SZ 2200 HVSD",
+                             "SPINDLE MOTOR": "3.7 KW (5HP)",
+                             "Z-AXIS MOTOR POWER": "0.75 KW (1 HP)",
+                             "LUBRICATION PUMP": "150 W (AUTOMATIC TIME CONTROLLED)",
+                             "ELECTROMAGNETIC PUMP": "40 W",
+                             "VERTICAL SPINDLE SPEED": "75-3600 RPM 16 SPEEDS",
+                             "HORIZONTAL SPINDLE SPEED": "80-1220 RPM 9 SPEEDS",
+                             "SPINDLE TAPER": "ISO 40",
+                             "QUILL DIAMETER": "110 MM",
+                             "QUILL TRAVEL": "140 MM",
+                             "AUTOMATIC QUILL FEED": "0.035/0.07/0.14 - 3 STEPS",
+                             "RAM MOVEMENT": "450 MM (FORWARD-BACKWARD)",
+                             "SPINDLE TO TABLE DISTANCE": "530 MM",
+                             "HEAD SWIVEL": "45 DEGREES (RIGHT-LEFT)",
+                             "TABLE SIZE": "1350X305 MM",
+                             "X-AXIS TRAVEL": "950 MM",
+                             "Y-AXIS TRAVEL": "400 MM",
+                             "Z-AXIS TRAVEL": "400 MM",
+                             "T-SLOT": "3X16X63 MM",
+                             "CUTTING SPEED (X,Y)": "0-1500 MM/MIN",
+                             "FEED RATE (X,Y)": "3000 MM-MIN",
+                             "FEED RATE Z": "1150 MM/MIN",
+                             "MACHINE DIMENSIONS": "2800X2300X2400 MM",
+                             "MACHINE WEIGHT": "2700 KG"
+                         },
+                         "standardAccessories": [
+                             "5 HP Motor Power",
+                             "Japanese DC servo motors on X, Y axes",
+                             "C5 class ball screw on X, Y axes",
+                             "16-step speed options",
+                             "Turcide B (non-wear) coated BOX slides",
+                             "Shock and water-resistant optical scale protection",
+                             "Folding type manual handles",
+                             "3D (German) test-controlled precision head",
+                             "Threading attachment",
+                             "Comparator clock",
+                             "F30 - FCD45 alloy, clad body internal structure",
+                             "Automatic timed lubrication system",
+                             "Chip tray",
+                             "Metal machine buffers",
+                             "Tool case and tools",
+                             "Working lamp",
+                             "English panel"
+                         ],
+                         "optionalAccessories": [
+                             "Pneumatic spindle puller",
+                             "Digital coordinate reading system (display + scale)",
+                             "6'' vise / collet set",
+                             "Workpiece clamping set"
+                         ]
+                     },
+                     {
+                         "id": "kg-super-x6325w",
+                         "name": "KG SUPER X6325W",
+                         "category": "universal-kalipci-freze",
+                         "subcategory": "kg-super-universal",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KG SUPER X6325W UNİVERSAL FREZE.webp",
+                         "generalInfo": "Multi-Functional Machine with Horizontal & Vertical Head Structure",
+                         "features": [
+                             "X - Y axes equipped with ALIGN AL-500 Motors, Z Axis Rapid Motor",
+                             "X - Y axes with C5 Class Ball Screws",
+                             "Turcide - B coated X - Y Ways",
+                             "3-Axis Digital Coordinate Reading System",
+                             "User-Friendly Control Panel",
+                             "Hardened Table"
+                         ],
+                         "specifications": {
+                             "MODEL": "KG SUPER X6325W UNIVERSAL MILLING",
+                             "X-Axis Travel": "750 mm",
+                             "Y-Axis Travel": "400 mm",
+                             "Z-Axis Travel": "400 mm",
+                             "Table Size": "1370 x 305",
+                             "Spindle Speed (Vertical)": "66 - 4540 rpm",
+                             "Spindle Speed (Horizontal)": "40 - 1300 rpm",
+                             "Spindle Taper": "ISO 40",
+                             "Spindle Motor Power (Vertical)": "3 kw",
+                             "Spindle Motor Power (Horizontal)": "3.7 kw",
+                             "Quill Diameter": "105 mm",
+                             "Machine Dimensions": "1850 x 1650 x 2250 mm",
+                             "Machine Weight": "1,750 kg"
+                         },
+                         "standardAccessories": [
+                             "Collet Set",
+                             "Vise",
+                             "Clamping Kit",
+                             "Sino Digital Reading System"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "kg-super-xl6436clw",
+                         "name": "KG SUPER XL6436CLW RAM HEAD MILLING",
+                         "category": "koc-kafa-freze",
+                         "subcategory": "kg-super-koc-kafa",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KG SUPER XL6436CLW KOÇ KAFA FREZE.webp",
+                         "generalInfo": "Driven by a single automatic servo motor on 3 axes. X - Y - Z Axes can be controlled with a single button. Geared Vertical and Horizontal spindles are powerful assistants for rough cutting & sizing operations",
+                         "features": [
+                             "Spindle Protection Cover",
+                             "Holder for Vertical Spindle",
+                             "Horizontal Arbor Bearing 27 Diameter",
+                             "Horizontal Arbor Bearing 32 Diameter",
+                             "Puller M24",
+                             "17-19 / 22-24 / 36-41 Wrenches",
+                             "Washers and Nuts / Allen Key Set",
+                             "6\" Vise",
+                             "ISO 50 Collet Set with 8 pieces",
+                             "Table Chip Protection Cover",
+                             "LED Lamp",
+                             "Angle Table",
+                             "Automatic Lubrication",
+                             "Schneider Brand Electrical System"
+                         ],
+                         "specifications": {
+                             "MODEL": "KG SUPER XL6436CLW RAM HEAD MILLING",
+                             "Spindle Speeds (V)": "12 Steps 60 - 1800 (V) rpm",
+                             "T-Slot": "3 / 18 / 80 mm",
+                             "Weight": "2800 kg",
+                             "Table Size": "1600 x 360 mm",
+                             "X-Axis Travel": "1300 mm",
+                             "Y-Axis Travel": "320 mm",
+                             "Z-Axis Travel": "450 mm",
+                             "Movement Speed": "30-750 / 20-500 / 15-375",
+                             "Head Travel": "550 mm",
+                             "Distance from Spindle Tip to Table Surface": "196 - 646 mm",
+                             "Distance from Horizontal Spindle Tip to Table Surface": "20 - 470 mm",
+                             "Distance from Spindle Center to Column Surface": "200 mm",
+                             "Spindle Speeds (H)": "12 Steps 60 - 1750 (H) rpm"
+                         },
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "kg-super-xl6436c",
+                         "name": "KG SUPER XL6436C RAM HEAD UNIVERSAL MILLING",
+                         "category": "koc-kafa-freze",
+                         "subcategory": "kg-super-koc-kafa",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KG SUPER XL6436C KOÇ KAFA UNIVERSAL FREZE.webp",
+                         "generalInfo": "Driven by a single automatic servo motor on 3 axes. X - Y - Z Axes can be controlled with a single button. Geared Vertical and Horizontal spindles are powerful assistants for rough cutting & sizing operations",
+                         "features": [
+                             "Spindle Protection Cover",
+                             "Holder for Vertical Spindle",
+                             "Horizontal Arbor Bearing 27 Diameter",
+                             "Horizontal Arbor Bearing 32 Diameter",
+                             "Puller M24",
+                             "17-19 / 22-24 / 36-41 Wrenches",
+                             "Washers and Nuts / Allen Key Set",
+                             "6\" Vise",
+                             "ISO 50 Collet Set with 8 pieces",
+                             "Table Chip Protection Cover",
+                             "LED Lamp",
+                             "Angle Table",
+                             "Automatic Lubrication",
+                             "Schneider Brand Electrical System"
+                         ],
+                         "specifications": {
+                             "MODEL": "KG SUPER XL6436C RAM HEAD UNIVERSAL MILLING",
+                             "Table Size": "1325 x 360 mm",
+                             "X-Axis Travel": "1100 mm",
+                             "Y-Axis Travel": "320 mm",
+                             "Z-Axis Travel": "450 mm",
+                             "Head Travel": "550 mm",
+                             "Distance from Spindle Tip to Table Surface": "196 - 646 mm",
+                             "Distance from Horizontal Spindle Tip to Table Surface": "20 - 470 mm",
+                             "Distance from Spindle Center to Column Surface": "200 mm",
+                             "Spindle Speeds (H)": "12 Steps 60 - 1750 (H) rpm",
+                             "Spindle Speeds (V)": "12 Steps 60 - 1800 (V) rpm",
+                             "T-Slot": "3 / 18 / 80 mm",
+                             "Weight": "2750 kg"
+                         },
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-grinder-sg-3060-ahd",
+                         "name": "KING GRINDER SG-3060 AHD",
+                         "category": "taslama-tezgahlari",
+                         "subcategory": "king-grinder",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KING GRINDER SG-3060 AHD.webp",
+                         "generalInfo": "Precision grinding machine equipped with PLC Automatic Grinding Control (Siemens) and Two-Axis Digital Reader",
+                         "features": [
+                             "PLC Automatic Grinding Control (Siemens)",
+                             "Two-Axis Digital Reader"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING GRINDER SG-3060 AHD",
+                             "Table Size": "305 x 635 mm",
+                             "Max. Horizontal Travel": "765 mm",
+                             "Max. Cross Travel": "340 mm",
+                             "Distance from Spindle Center to Table": "580 mm",
+                             "Magnetic Table Size": "300 x 600 mm",
+                             "Table Handwheel Feed": "0.02 mm/div",
+                             "Grinding Wheel Auto Feed": "0.0005/0.05 mm",
+                             "Grinding Wheel Speed": "1750 rpm",
+                             "Grinding Wheel Size": "350x40x127",
+                             "Spindle Motor": "4 kw",
+                             "Max. Table Load": "270 Kg",
+                             "Weight": "2800 kg"
+                         },
+                         "standardAccessories": [
+                             "Cooling unit",
+                             "Magnetic Separator",
+                             "Electro-Magnetic Table",
+                             "Balance Shaft",
+                             "Grinding Wheel Removal Tool",
+                             "Balance Stand",
+                             "Grinding Wheel",
+                             "Grinding Wheel Dressing Stand",
+                             "PLC Automatic Grinding Control (Siemens)",
+                             "Two-Axis Digital Reader",
+                             "Spare Flange",
+                             "Luxury Type Cabinet Rear Protection"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-grinder-sg-4080-ahd",
+                         "name": "KING GRINDER SG-4080 AHD",
+                         "category": "taslama-tezgahlari",
+                         "subcategory": "king-grinder",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KING GRINDER SG-4080 AHD.webp",
+                         "generalInfo": "Precision grinding machine equipped with PLC Automatic Grinding Control (Siemens) and Two-Axis Digital Reader",
+                         "features": [
+                             "PLC Automatic Grinding Control (Siemens)",
+                             "Two-Axis Digital Reader"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING GRINDER SG-4080 AHD",
+                             "Table Size": "406x813 mm",
+                             "Max. Horizontal Travel": "910 mm",
+                             "Max. Cross Travel": "450 mm",
+                             "Distance from Spindle Center to Table": "580 mm",
+                             "Magnetic Table Size": "400x800 mm",
+                             "Table Speed": "5-25 m/min",
+                             "Table Auto Feed": "0.1-8 mm",
+                             "Table Handwheel Feed": "0.02 mm/div",
+                             "Table Rapid Feed": "990 mm/min",
+                             "Grinding Wheel Auto Feed": "0.0005/0.05 mm",
+                             "Grinding Wheel Speed": "1750 rpm",
+                             "Grinding Wheel Size": "350x40x127",
+                             "Spindle Motor": "4 kw",
+                             "Z-Axis Movement Motor": "Servo",
+                             "Max. Table Load": "500 kg",
+                             "Machine Dimensions": "3600x2400x1890 mm",
+                             "Weight": "3400 kg"
+                         },
+                         "standardAccessories": [
+                             "Cooling unit",
+                             "Magnetic Separator",
+                             "Electro-Magnetic Table",
+                             "Balance Shaft",
+                             "Grinding Wheel Removal Tool",
+                             "Balance Stand",
+                             "Grinding Wheel",
+                             "Grinding Wheel Dressing Stand",
+                             "PLC Automatic Grinding Control (Siemens)",
+                             "Two-Axis Digital Reader",
+                             "Spare Flange",
+                             "Luxury Type Cabinet Rear Protection"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-sg-40100-ahd",
+                         "name": "KING SG-40100 AHD",
+                         "category": "taslama-tezgahlari",
+                         "subcategory": "king-grinder",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KING SG-40100 AHD.webp",
+                         "generalInfo": "Precision grinding machine equipped with Two-Axis Digital Reader",
+                         "features": [
+                             "Two-Axis Digital Reader"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING SG-40100 AHD",
+                             "Table Size": "406 x 1020 mm",
+                             "Max. Horizontal Travel": "1130 mm",
+                             "Max. Cross Travel": "450 mm",
+                             "Distance from Spindle Center to Table": "580 mm",
+                             "Magnetic Table Size": "400 x 1000 mm",
+                             "Table Handwheel Feed": "0.02 mm/div",
+                             "Grinding Wheel Auto Feed": "0.0005/0.05 mm",
+                             "Grinding Wheel Speed": "1750 rpm",
+                             "Grinding Wheel Size": "350 x 40 x 127 mm",
+                             "Spindle Motor": "4 kw",
+                             "Max. Table Load": "600 kg",
+                             "Weight": "3700 kg"
+                         },
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-c0636dx1000",
+                         "name": "KING C0636DX1000",
+                         "category": "torna-tezgahlari",
+                         "subcategory": "king-torna",
+                         "subSubcategory": "",
+                         "image": "",
+                         "generalInfo": "",
+                         "features": [],
+                         "specifications": {},
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-cm6241x1000",
+                         "name": "KING CM6241X1000",
+                         "category": "torna-tezgahlari",
+                         "subcategory": "king-torna",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/CM6241-1000.webp",
+                         "generalInfo": "UNIVERSAL LATHE",
+                         "features": [
+                             "CAST IRON BODY",
+                             "WIDE REFERENCE LIST",
+                             "SMOOTH OPERATION",
+                             "410 DIAMETER",
+                             "1800 RPM",
+                             "3-JAW CHUCK",
+                             "FIXED CENTER",
+                             "TRAVELING STEADY REST",
+                             "FIXED STEADY REST",
+                             "TOOL POST",
+                             "LIGHTING"
+                         ],
+                         "specifications": {
+                             "MODEL": "CM6241/1000",
+                             "SWING OVER BED": "410 MM",
+                             "SWING OVER CARRIAGE": "255 MM",
+                             "SWING OVER GAP": "580 MM",
+                             "BED WIDTH": "250 MM",
+                             "DISTANCE BETWEEN CENTERS": "1000 MM",
+                             "SPINDLE BORE": "52 MM",
+                             "SPINDLE TAPER": "M.T.NO 6",
+                             "SPINDLE SPEED RANGE": "45-1800",
+                             "CROSS SLIDE TRAVEL": "250 MM",
+                             "COMPOUND SLIDE TRAVEL": "140 MM",
+                             "LONGITUDINAL FEED RATE": "0.005-1.7 MM",
+                             "CROSS FEED RATE": "0.025-0.85 MM",
+                             "METRIC THREADS": "0.2-14 MM",
+                             "WITHWORTH 38": "2-72 TPI PITCH",
+                             "MODULE PITCH": "0.3-3.5 MP",
+                             "DIAMETRIC PITCH 31": "8-44 DP",
+                             "TAILSTOCK DIAMETER": "50 MM",
+                             "TAILSTOCK TAPER": "M.T. NO 4",
+                             "TAILSTOCK STROKE": "120 MM",
+                             "MAIN MOTOR OUTPUT": "3 KW",
+                             "WIDTH-HEIGHT": "85X132 MM",
+                             "LENGTH": "195 MM",
+                             "WEIGHT": "1,160 KG"
+                         },
+                         "standardAccessories": [
+                             "3-JAW CHUCK",
+                             "FIXED CENTER",
+                             "TRAVELING STEADY REST",
+                             "FIXED STEADY REST",
+                             "TOOL POST", 
+                             "LIGHTING",
+                             "COOLANT SYSTEM"
+                         ],
+                         "optionalAccessories": [
+                             "DIGITAL READOUT SYSTEM",
+                             "TAPER TURNING ATTACHMENT",
+                             "4-JAW CHUCK",
+                             "LIVE CENTER",
+                             "LARGE-DIAMETER FIXED BEARING"
+                         ]
+                     },
+                     {
+                         "id": "king-cs6250b-1500",
+                         "name": "KING CS6250B/1500",
+                         "category": "torna-tezgahlari",
+                         "subcategory": "king-torna",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KING CS - 6250 - 1500.webp",
+                         "generalInfo": "UNIVERSAL LATHE",
+                         "features": [
+                             "WIDE BED",
+                             "HIGH CAPACITY",
+                             "POWERFUL MOTOR"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING CS - 6250 / 1500",
+                             "Swing Over Bed": "500 mm",
+                             "Swing Over Carriage": "300 mm",
+                             "Swing Over Gap": "710 mm",
+                             "Bed Width": "405 mm",
+                             "Distance Between Centers": "1500 mm",
+                             "Gap Channel Length": "240 mm",
+                             "Spindle Nose": "D1-8",
+                             "Spindle Bore": "80 mm",
+                             "Spindle Taper": "MT-7",
+                             "Spindle Speed Steps": "24",
+                             "Spindle Speed Range": "9 - 1600",
+                             "Longitudinal and Cross Feed Steps": "65",
+                             "Longitudinal Feed Rate": "0.063- 2.52",
+                             "Cross Feed Rate": "0.027 - 1.07",
+                             "Rapid Longitudinal Feed": "4.5",
+                             "Rapid Cross Feed": "1.9",
+                             "Tool Post Size": "25 x 25",
+                             "Metric Thread Steps": "48",
+                             "Metric Thread Range": "0.5 - 112",
+                             "Tailstock Quill Travel": "150 mm",
+                             "Tailstock Taper": "MT-5",
+                             "Main Motor Power": "7.5 KW",
+                             "Rapid Feed Motor Power": "250 W",
+                             "Weight": "2,300 KG"
+                         },
+                         "standardAccessories": [
+                             "3-JAW CHUCK 250 MM",
+                             "4-JAW CHUCK 320 MM",
+                             "FACE PLATE 400 MM",
+                             "SPARE CHUCK FLANGE",
+                             "REVOLVING CENTER",
+                             "FIXED AND TRAVELING STEADY REST",
+                             "LUBRICATION PUMP",
+                             "CHIP TRAY",
+                             "PROTECTIVE SHIELD",
+                             "SPINDLE SUPPORT"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-cs6250b-2000",
+                         "name": "KING CS6250B/2000",
+                         "category": "torna-tezgahlari",
+                         "subcategory": "king-torna",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KING CS - 6250 - 2000.webp",
+                         "generalInfo": "UNIVERSAL LATHE",
+                         "features": [
+                             "WIDE BED",
+                             "HIGH CAPACITY",
+                             "POWERFUL MOTOR"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING CS - 6250 / 2000",
+                             "Swing Over Bed": "500 mm",
+                             "Swing Over Carriage": "300 mm",
+                             "Swing Over Gap": "710 mm",
+                             "Bed Width": "405 mm",
+                             "Distance Between Centers": "2000 mm",
+                             "Gap Channel Length": "240 mm",
+                             "Spindle Nose": "D1-8",
+                             "Spindle Bore": "80 mm",
+                             "Spindle Taper": "MT-7",
+                             "Spindle Speed Steps": "24",
+                             "Spindle Speed Range": "9 - 1600 rpm",
+                             "Tool Post Size": "25 x 25 mm",
+                             "Metric Thread Steps": "48",
+                             "Metric Thread Range": "0.5 - 224 mm",
+                             "Tailstock Quill Travel": "150 mm",
+                             "Tailstock Taper": "MT-5",
+                             "Main Motor Power": "7.5 kw",
+                             "Weight": "2,500 KG"
+                         },
+                         "standardAccessories": [
+                             "3-JAW CHUCK 250 MM",
+                             "4-JAW CHUCK 320 MM",
+                             "FACE PLATE 400 MM",
+                             "SPARE CHUCK FLANGE",
+                             "REVOLVING CENTER",
+                             "FIXED AND TRAVELING STEADY REST",
+                             "LUBRICATION PUMP",
+                             "CHIP TRAY",
+                             "PROTECTIVE SHIELD",
+                             "SPINDLE SUPPORT"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-cs6266c-2000",
+                         "name": "KING CS6266C/2000",
+                         "category": "torna-tezgahlari",
+                         "subcategory": "king-torna",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KİNG CS-6266C - 2000.webp",
+                         "generalInfo": "UNIVERSAL LATHE",
+                         "features": [
+                             "WIDE BED",
+                             "HIGH CAPACITY",
+                             "POWERFUL MOTOR",
+                             "LARGE SPINDLE BORE"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING CS6266C/2000",
+                             "Swing Over Bed": "660 mm",
+                             "Swing Over Carriage": "420 mm",
+                             "Swing Over Gap": "870 mm",
+                             "Bed Width": "405 mm",
+                             "Distance Between Centers": "2000 mm",
+                             "Gap Channel Length": "240 mm",
+                             "Spindle Nose": "D1-8",
+                             "Spindle Bore": "105 mm",
+                             "Spindle Taper": "MT-7",
+                             "Spindle Speed Steps": "12",
+                             "Spindle Speed Range": "36 - 1600",
+                             "Longitudinal and Cross Feed Steps": "65",
+                             "Longitudinal Feed Rate": "0.063 - 2.52",
+                             "Cross Feed Rate": "0.027 - 1.07",
+                             "Rapid Longitudinal Feed": "4.5",
+                             "Rapid Cross Feed": "2.0",
+                             "Maximum Cross Slide Travel": "310 mm",
+                             "Maximum Compound Slide Travel": "145 mm",
+                             "Maximum Carriage Travel": "1900 mm",
+                             "Tool Post Size": "25 x 25 mm",
+                             "Metric Thread Steps": "22",
+                             "Metric Thread Range": "1 - 14 mm",
+                             "Tailstock Quill Travel": "150 mm",
+                             "Tailstock Taper": "MT-5",
+                             "Main Motor Power": "7.5 kw",
+                             "Weight": "2,700 kg"
+                         },
+                         "standardAccessories": [
+                             "3-Jaw Chuck 250 mm",
+                             "4-Jaw Chuck 400 mm",
+                             "Face Plate 400 mm",
+                             "Spare Chuck Flange",
+                             "Revolving Center",
+                             "Fixed and Traveling Steady Rest",
+                             "Lubrication Pump",
+                             "Chip Tray",
+                             "Protective Shield",
+                             "Spindle Support"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "king-cs6266c-3000",
+                         "name": "KING CS6266C/3000",
+                         "category": "torna-tezgahlari",
+                         "subcategory": "king-torna",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KİNG CS-6266C - 3000.webp",
+                         "generalInfo": "Swing Over Bed: 660 mm Spindle Bore: 105 mm",
+                         "features": [
+                             "WIDE BED",
+                             "HIGH CAPACITY",
+                             "POWERFUL MOTOR",
+                             "LARGE SPINDLE BORE"
+                         ],
+                         "specifications": {
+                             "MODEL": "KING CS6266C/3000",
+                             "Swing Over Bed": "660 mm",
+                             "Swing Over Carriage": "420 mm",
+                             "Swing Over Gap": "870 mm",
+                             "Bed Width": "405 mm",
+                             "Distance Between Centers": "3000 mm",
+                             "Gap Channel Length": "240 mm",
+                             "Spindle Nose": "D1-8",
+                             "Spindle Bore": "105 mm",
+                             "Spindle Speed Steps": "12",
+                             "Tool Post Size": "25 x 25 mm",
+                             "Metric Thread Steps": "22",
+                             "Metric Thread Range": "1 - 14 mm",
+                             "Maximum Carriage Travel": "2900 mm",
+                             "Tailstock Quill Travel": "150 mm",
+                             "Weight": "3,000 kg"
+                         },
+                         "standardAccessories": [
+                             "3-Jaw Chuck 250 mm",
+                             "4-Jaw Chuck 400 mm",
+                             "Face Plate 400 mm",
+                             "Spare Chuck Flange",
+                             "Revolving Center",
+                             "Fixed and Traveling Steady Rest",
+                             "Lubrication Pump",
+                             "Chip Tray",
+                             "Protective Shield",
+                             "Spindle Support"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "kg-super-z3032x14",
+                         "name": "KG SUPER Z3032X14",
+                         "category": "radyal-matkap",
+                         "subcategory": "kg-super-radyal",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KG SUPER Z 3032x14 RADYAL MATKAP.webp",
+                         "generalInfo": "Radial Drilling Machine",
+                         "features": [
+                             "Precise and Easy to Use",
+                             "Powerful Performance",
+                             "Durable Construction"
+                         ],
+                         "specifications": {
+                             "MODEL": "KG SUPER Z 3032x14 RADIAL DRILL",
+                             "Max. Drilling Diameter": "32 mm",
+                             "Distance from Spindle to Table": "220 - 980 mm",
+                             "Distance from Spindle Center to Column": "260 - 1000 mm",
+                             "Spindle Travel": "120 mm",
+                             "Spindle Taper": "4",
+                             "Spindle Speeds": "108 / 162 / 262 / 398 / 665 / 1000 rpm",
+                             "Number of Spindle Speeds": "6",
+                             "Spindle Auto Feed": "0.10 - 0.25 mm",
+                             "Head Rotation Angle": "360°",
+                             "Main Motor Power": "1.5 kw",
+                             "Movement Motor Power": "0.75 kw",
+                             "Weight": "800 kg"
+                         },
+                         "standardAccessories": [
+                             "Chuck & Chuck Tapers",
+                             "Work Light",
+                             "Tool Kit",
+                             "Key",
+                             "Square"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "kg-super-z3040x14",
+                         "name": "KG SUPER Z3040X14",
+                         "category": "radyal-matkap",
+                         "subcategory": "kg-super-radyal",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KG SUPER Z 3040x14 RADYAL MATKAP.webp",
+                         "generalInfo": "Radial Drilling Machine",
+                         "features": [
+                             "Precise and Easy to Use",
+                             "Powerful Performance",
+                             "Durable Construction"
+                         ],
+                         "specifications": {
+                             "MODEL": "KG SUPER Z 3040x14 RADIAL DRILL",
+                             "Max. Drilling Diameter": "40 mm",
+                             "Distance from Spindle to Table": "320 - 1180 mm",
+                             "Distance from Spindle Center to Column": "350 - 1100 mm",
+                             "Spindle Travel": "180 mm",
+                             "Spindle Taper": "4",
+                             "Spindle Speeds": "75 / 130 / 240 / 380 / 660 / 1200 rpm",
+                             "Number of Spindle Speeds": "6",
+                             "Spindle Auto Feed": "0.10 - 0.25 mm",
+                             "Head Rotation Angle": "90°",
+                             "Main Motor Power": "2.2 kw",
+                             "Movement Motor Power": "0.75 kw",
+                             "Weight": "800 kg"
+                         },
+                         "standardAccessories": [
+                             "Chuck & Chuck Tapers",
+                             "Work Light",
+                             "Tool Kit",
+                             "Key",
+                             "Square"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "kg-super-z3050x14",
+                         "name": "KG SUPER Z3050X14",
+                         "category": "radyal-matkap",
+                         "subcategory": "kg-super-radyal",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/KG SUPER Z 3050x14 RADYAL MATKAP.webp",
+                         "generalInfo": "Radial Drilling Machine",
+                         "features": [
+                             "Precise and Easy to Use",
+                             "Powerful Performance",
+                             "Durable Construction"
+                         ],
+                         "specifications": {
+                             "MODEL": "KG SUPER Z 3050x14 RADIAL DRILL",
+                             "Max. Drilling Diameter": "50 mm",
+                             "Distance from Spindle to Table": "300 - 1200 mm",
+                             "Distance from Spindle Center to Column": "350 - 1310 mm",
+                             "Spindle Travel": "200 mm",
+                             "Spindle Taper": "5",
+                             "Spindle Speeds": "78 / 135 / 250 / 350 / 590 / 1100 rpm",
+                             "Number of Spindle Speeds": "6",
+                             "Spindle Auto Feed": "0.10 - 0.50 mm",
+                             "Head Rotation Angle": "90°",
+                             "Main Motor Power": "4 kw",
+                             "Movement Motor Power": "1.5 kw",
+                             "Weight": "800 kg"
+                         },
+                         "standardAccessories": [
+                             "Chuck & Chuck Tapers",
+                             "Work Light",
+                             "Tool Kit",
+                             "Key",
+                             "Square"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "kg-super-z3040x13",
+                         "name": "KG SUPER Z3040X13",
+                         "category": "radyal-matkap",
+                         "subcategory": "kg-super-radyal",
+                         "subSubcategory": "",
+                         "image": "",
+                         "generalInfo": "",
+                         "features": [],
+                         "specifications": {},
+                         "standardAccessories": [],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "jbs-180t",
+                         "name": "JBS 180T",
+                         "category": "testere-tezgahlari",
+                         "subcategory": "jetco-testere",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/JBS 180T.webp",
+                         "generalInfo": "Bimetal Band Saw",
+                         "features": [
+                             "Adjustable Support Arm",
+                             "Hydraulic Down Feed System",
+                             "Cooling System",
+                             "Four-Speed Pulley System",
+                             "Safety Switch on Saw Band Cover",
+                             "Automatic Stop Switch at End of Cut",
+                             "Ability to Cut in Vertical Fixed Position",
+                             "Chip Brush",
+                             "Wheeled and Closed Stand with Chip Tray"
+                         ],
+                         "specifications": {
+                             "MODEL": "JBS 180T",
+                             "Cutting Capacity at 90 Degrees": "180 mm",
+                             "Cutting Capacity at 45 Degrees": "110 mm",
+                             "Band Saw Dimensions": "20 x 0.9 x 2362 mm",
+                             "Vise Angle Range": "0-45 Degrees",
+                             "Band Pulley Diameter": "300 mm",
+                             "Band Speeds 4 Settings": "20-32-45-72 m/min.",
+                             "Operating Voltage": "400 V",
+                             "Motor Input Power": "1.9 HP",
+                             "Motor Output Power": "1 HP",
+                             "Cooling System Liquid Capacity": "8 Liters",
+                             "Dimensions": "1260x520x970 mm",
+                             "Weight": "145 kg"
+                         },
+                         "standardAccessories": [
+                             "Bimetal Band Saw Blade", 
+                             "Hydraulic Down Feed System", 
+                             "Four-Speed Pulley System", 
+                             "Safety Switch", 
+                             "Chip Brush", 
+                             "Automatic Stop Switch"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "jbs-180m",
+                         "name": "JBS 180M",
+                         "category": "testere-tezgahlari",
+                         "subcategory": "jetco-testere",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/JBS 180M.webp",
+                         "generalInfo": "Manual Band Saw",
+                         "features": [
+                             "Adjustable Support Arm",
+                             "Manual Down Feed",
+                             "Cooling System",
+                             "Four-Speed Pulley System",
+                             "Safety Switch on Saw Band Cover",
+                             "Chip Brush",
+                             "Wheeled and Closed Stand with Chip Tray"
+                         ],
+                         "specifications": {
+                             "MODEL": "JBS 180M",
+                             "Cutting Capacity at 90 Degrees": "178 mm",
+                             "Cutting Capacity at 45 Degrees": "127 mm",
+                             "Band Saw Dimensions": "20 x 0.9 x 2362 mm",
+                             "Vise Angle Range": "0-45 Degrees",
+                             "Band Speeds 4 Settings": "20-32-45-72 m/min.",
+                             "Operating Voltage": "400 V",
+                             "Motor Input Power": "1.5 HP",
+                             "Cooling System Liquid Capacity": "8 Liters",
+                             "Dimensions": "1260x520x970 mm",
+                             "Weight": "140 kg"
+                         },
+                         "standardAccessories": [
+                             "Bimetal Band Saw Blade", 
+                             "Support Arm", 
+                             "Four-Speed Pulley System", 
+                             "Safety Switch", 
+                             "Chip Brush"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "jbs-180gt",
+                         "name": "JBS 180GT",
+                         "category": "testere-tezgahlari",
+                         "subcategory": "jetco-testere",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/JBS 180GT.webp",
+                         "generalInfo": "TAIWAN ORIGIN",
+                         "features": [
+                             "Adjustable Support Arm",
+                             "Hydraulic Down Feed System",
+                             "Cooling System",
+                             "Four-Speed Pulley System",
+                             "Safety Switch on Saw Band Cover",
+                             "Automatic Stop Switch at End of Cut",
+                             "Ability to Cut in Vertical Fixed Position",
+                             "Chip Brush",
+                             "Wheeled and Closed Stand with Chip Tray"
+                         ],
+                         "specifications": {
+                             "MODEL": "JBS 180GT",
+                             "Cutting Capacity 90°": "178 MM",
+                             "Cutting Capacity 45°": "127 MM",
+                             "Band Saw Dimensions": "19.05x0.8x2362 MM",
+                             "Vise Angle Range": "0-45 MM",
+                             "Band Speeds 4 Settings": "34-50-65 M/MIN",
+                             "Operating Voltage": "400 V",
+                             "Motor Power": "0.75 kw (1 HP)",
+                             "Dimensions (WxDxH)": "1285x500x1000 MM",
+                             "Weight": "145 Kg"
+                         },
+                         "standardAccessories": [
+                             "BIMETAL BAND SAW BLADE", 
+                             "ADJUSTABLE SUPPORT ARM", 
+                             "FOUR-SPEED PULLEY SYSTEM", 
+                             "CHIP BRUSH", 
+                             "AUTOMATIC STOP SWITCH"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "jbs-200t",
+                         "name": "JBS 200T",
+                         "category": "testere-tezgahlari",
+                         "subcategory": "jetco-testere",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/JBS 200T.webp",
+                         "generalInfo": "Bimetal Band Saw",
+                         "features": [
+                             "Adjustable Support Arm",
+                             "Hydraulic Down Feed System",
+                             "Cooling System",
+                             "Four-Speed Pulley System",
+                             "Safety Switch on Saw Band Cover",
+                             "Automatic Stop Switch at End of Cut",
+                             "Ability to Cut in Vertical Fixed Position",
+                             "Chip Brush",
+                             "Wheeled and Closed Stand with Chip Tray"
+                         ],
+                         "specifications": {
+                             "MODEL": "JBS 200T",
+                             "Cutting Capacity at 90 Degrees": "200 mm",
+                             "Cutting Capacity at 45 Degrees": "125 mm",
+                             "Band Saw Dimensions": "20 x 0.9 x 2362 mm",
+                             "Vise Angle Range": "0-45 Degrees",
+                             "Band Pulley Diameter": "290 mm",
+                             "Band Speeds 4 Settings": "25-40-60-80 m/min",
+                             "Operating Voltage": "400 V",
+                             "Motor Input Power": "1.9 HP",
+                             "Motor Output Power": "1 HP",
+                             "Cooling System Liquid Capacity": "8 Liters",
+                             "Dimensions (WxDxH)": "1250x440x1100 mm",
+                             "Weight": "160 kg"
+                         },
+                         "standardAccessories": [
+                             "Bimetal Band Saw Blade", 
+                             "Hydraulic Down Feed System", 
+                             "Four-Speed Pulley System", 
+                             "Safety Switch", 
+                             "Chip Brush", 
+                             "Automatic Stop Switch"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "jbs-200gt",
+                         "name": "JBS 200GT",
+                         "category": "testere-tezgahlari",
+                         "subcategory": "jetco-testere",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/JBS 200GT.webp",
+                         "generalInfo": "Taiwan Origin Professional Band Saw",
+                         "features": [
+                             "Adjustable Support Arm",
+                             "Hydraulic Down Feed System",
+                             "Cooling System",
+                             "Four-Speed Pulley System",
+                             "Safety Switch on Saw Band Cover",
+                             "Automatic Stop Switch at End of Cut",
+                             "Chip Brush",
+                             "Wheeled and Closed Stand with Chip Tray"
+                         ],
+                         "specifications": {
+                             "MODEL": "JBS 200GT",
+                             "Cutting Capacity 90°": "200 mm",
+                             "Cutting Capacity 45°": "127 mm",
+                             "Band Saw Dimensions": "19.05x0.8x2362 mm",
+                             "Vise Angle Range": "0-45",
+                             "Band Speeds 4 Settings": "34-50-65 m/min",
+                             "Operating Voltage": "400 V",
+                             "Motor Power": "0.75 kw (1 HP)",
+                             "Dimensions (WxDxH)": "1235x430x1100 mm",
+                             "Weight": "190 kg"
+                         },
+                         "standardAccessories": [
+                             "Bimetal Band Saw Blade", 
+                             "Adjustable Support Arm", 
+                             "Four-Speed Pulley System", 
+                             "Chip Brush", 
+                             "Automatic Stop Switch"
+                         ],
+                         "optionalAccessories": []
+                     },
+                     {
+                         "id": "otomatik-yaglama-urun",
+                         "name": "Automatic Lubrication",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "otomatik-yaglama",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Otomatik Yağlama.webp",
+                         "generalInfo": "Automatic lubrication systems for your machines. Extend machine life with regular and precise lubrication.",
+                         "features": [
+                             "Timer-controlled automatic system",
+                             "Adjustable flow rate",
+                             "Easy installation",
+                             "Long-lasting",
+                             "Compatible with various machine types"
+                         ],
+                         "specifications": {
+                             "MODEL": "Automatic Lubrication System",
+                             "Capacity": "2-8 L",
+                             "Power": "220V",
+                             "Number of Outputs": "8-12 outputs",
+                             "Installation": "Universal"
+                         },
+                         "standardAccessories": [
+                             "Mounting Brackets",
+                             "Oil Tubes",
+                             "Control Panel",
+                             "User Manual"
+                         ],
+                         "optionalAccessories": [
+                             "Spare Oil Tank",
+                             "Additional Oil Pipes",
+                             "Special Connection Parts"
+                         ]
+                     },
+                     {
+                         "id": "filtre-urun",
+                         "name": "Filter",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "filtre",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Filtre.webp",
+                         "generalInfo": "High-quality filters that extend machine life and increase operational efficiency.",
+                         "features": [
+                             "High filtration capacity",
+                             "Easily replaceable cartridge",
+                             "Long-lasting",
+                             "Various sizes available",
+                             "High pressure resistance"
+                         ],
+                         "specifications": {
+                             "MODEL": "Industrial Filter",
+                             "Material": "Stainless Steel",
+                             "Filtration Capacity": "1-50 microns",
+                             "Maximum Pressure": "25 Bar",
+                             "Connection Type": "1/4\" - 1\""
+                         },
+                         "standardAccessories": [
+                             "Connection Elements",
+                             "Mounting Bracket",
+                             "Spare Cartridge"
+                         ],
+                         "optionalAccessories": [
+                             "Pressure Gauge",
+                             "Automatic Cleaning Kit",
+                             "Various Sized Cartridges"
+                         ]
+                     },
+                     {
+                         "id": "align-motor-urun",
+                         "name": "Align Motor",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "align-motor",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Aling Motor.webp",
+                         "generalInfo": "Align series motors providing precise control and high performance.",
+                         "features": [
+                             "High precision",
+                             "Easy installation",
+                             "Long lifespan",
+                             "Low maintenance requirement",
+                             "Wide speed range"
+                         ],
+                         "specifications": {
+                             "MODEL": "Align AL-500 Servo Motor",
+                             "Power": "500W - 5kW",
+                             "Voltage": "220V - 380V",
+                             "Speed Range": "0-3000 rpm",
+                             "Encoder": "High Resolution"
+                         },
+                         "standardAccessories": [
+                             "Mounting Brackets",
+                             "Connection Cables",
+                             "User Manual",
+                             "Software"
+                         ],
+                         "optionalAccessories": [
+                             "Drive Unit",
+                             "Extension Cables",
+                             "Control Panel"
+                         ]
+                     },
+                     {
+                         "id": "manuel-yaglama-urun",
+                         "name": "Manual Lubrication",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "manuel-yaglama",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Manuel Yağlama.webp",
+                         "generalInfo": "Manual lubrication systems designed for regular maintenance of machines.",
+                         "features": [
+                             "Easy application",
+                             "Precise dosing",
+                             "Compatibility with various machine types",
+                             "Durable construction",
+                             "Maintenance-free mechanism"
+                         ],
+                         "specifications": {
+                             "MODEL": "MP-200 Manual Lubrication Pump",
+                             "Capacity": "500ml - 2L",
+                             "Pressure": "20-30 Bar",
+                             "Material": "Aluminum-Steel",
+                             "Weight": "1.5-3 kg"
+                         },
+                         "standardAccessories": [
+                             "Oil Pump",
+                             "Oil Gun",
+                             "Hose Set",
+                             "Various Nozzles"
+                         ],
+                         "optionalAccessories": [
+                             "Extension Hoses",
+                             "Special Nozzle Adapters",
+                             "Carrying Case"
+                         ]
+                     },
+                     {
+                         "id": "havali-cektirme-urun",
+                         "name": "Pneumatic Puller",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "havali-cektirme",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Havalı Çektirme.webp",
+                         "generalInfo": "Pneumatic puller systems for quick and safe removal of spindles and other parts.",
+                         "features": [
+                             "Quick installation and removal",
+                             "Safe operation",
+                             "High pressure resistance",
+                             "Compact design",
+                             "Various connection types"
+                         ],
+                         "specifications": {
+                             "MODEL": "HC-200 Pneumatic Puller",
+                             "Operating Pressure": "6-8 Bar",
+                             "Inlet Connection": "1/4 NPT",
+                             "Compatible Models": "ISO 30-40-50",
+                             "Material": "Chrome Alloy Steel"
+                         },
+                         "standardAccessories": [
+                             "Pressure Regulator",
+                             "Hose Set",
+                             "Adapter Kit",
+                             "Mounting Brackets"
+                         ],
+                         "optionalAccessories": [
+                             "Special Adapters",
+                             "Extension Kit",
+                             "Quick Connectors"
+                         ]
+                     },
+                     {
+                         "id": "erozyon-sivisi-urun",
+                         "name": "EDM Fluid",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "erozyon-sivisi",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Erezyon Sıvısı.webp",
+                         "generalInfo": "High-performance dielectric fluids specially formulated for electrical discharge machines.",
+                         "features": [
+                             "High insulation resistance",
+                             "Low viscosity",
+                             "Good cooling capacity",
+                             "Anti-corrosion additives",
+                             "Long service life"
+                         ],
+                         "specifications": {
+                             "MODEL": "ES-100 EDM Fluid",
+                             "Capacity": "20L - 200L",
+                             "Flash Point": "> 120°C",
+                             "Density": "0.8 g/cm³",
+                             "Applicable Processes": "Wire EDM, Die Sinker EDM"
+                         },
+                         "standardAccessories": [
+                             "Drain Tap",
+                             "Filling Funnel"
+                         ],
+                         "optionalAccessories": [
+                             "Filtration Equipment",
+                             "Fluid Level Indicator",
+                             "Automatic Filling System"
+                         ]
+                     },
+                     {
+                         "id": "kriko-urun",
+                         "name": "Jack",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "kriko",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Kriko.webp",
+                         "generalInfo": "Industrial jacks specially manufactured for lifting and positioning heavy machinery.",
+                         "features": [
+                             "High lifting capacity",
+                             "Precise lifting mechanism",
+                             "Durable body",
+                             "Safety locks",
+                             "Easy movement"
+                         ],
+                         "specifications": {
+                             "MODEL": "HJ-500 Hydraulic Jack",
+                             "Lifting Capacity": "5-50 Tons",
+                             "Minimum Height": "150 mm",
+                             "Maximum Height": "550 mm",
+                             "Weight": "35-120 kg",
+                             "Body Material": "Hardened Steel"
+                         },
+                         "standardAccessories": [
+                             "Extension Arms",
+                             "Safety Pins",
+                             "User Manual"
+                         ],
+                         "optionalAccessories": [
+                             "Wheeled Platform",
+                             "Extension Adapters",
+                             "Hydraulic Pump"
+                         ]
+                     },
+                     {
+                         "id": "system-3r-urun",
+                         "name": "System 3R",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "system-3r",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/System 3R.webp",
+                         "generalInfo": "High-precision clamping and referencing system for EDM and milling machines.",
+                         "features": [
+                             "Micron-level precision",
+                             "Quick-change capability",
+                             "Modular design",
+                             "Reliable referencing",
+                             "Automation compatible"
+                         ],
+                         "specifications": {
+                             "MODEL": "System 3R Macro",
+                             "Positioning Accuracy": "0.002 mm",
+                             "Repeatability": "< 0.001 mm",
+                             "Maximum Load Capacity": "70 kg",
+                             "Body Material": "Stainless Steel",
+                             "Compatibility": "Die Sinker EDM, Wire EDM, Milling"
+                         },
+                         "standardAccessories": [
+                             "Reference Elements",
+                             "Clamping Devices",
+                             "Adjustment Tools",
+                             "Installation Guide"
+                         ],
+                         "optionalAccessories": [
+                             "Automatic Changer",
+                             "Pallet System",
+                             "Special Clamping Devices",
+                             "Measuring Probes"
+                         ]
+                     },
+                     {
+                         "id": "pens-takimi-urun",
+                         "name": "Collet Set",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "pens-takimi",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Pens Takımı.webp",
+                         "generalInfo": "High-precision collet sets for milling and turning machines.",
+                         "features": [
+                             "High clamping precision",
+                             "Various diameters",
+                             "Stainless steel construction",
+                             "Balanced grip",
+                             "Long service life"
+                         ],
+                         "specifications": {
+                             "MODEL": "PT-100 Collet Set",
+                             "Material": "Hardened Steel",
+                             "Diameter Range": "3-25 mm",
+                             "Standard": "DIN/ISO",
+                             "Compatible Tapers": "ISO 30, 40, 50",
+                             "Number of Pieces": "18 pieces"
+                         },
+                         "standardAccessories": [
+                             "Storage Case",
+                             "Assembly Wrench",
+                             "Maintenance Oil"
+                         ],
+                         "optionalAccessories": [
+                             "Special Diameter Collets",
+                             "Extension Adapters",
+                             "Collet Cleaning Kit"
+                         ]
+                     },
+                     {
+                         "id": "baglama-seti-urun",
+                         "name": "Clamping Kit",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "baglama-seti",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Bağlama Seti.webp",
+                         "generalInfo": "High-quality workpiece clamping and fixturing kit for milling, grinding, and CNC machines.",
+                         "features": [
+                             "High clamping force",
+                             "Precise positioning",
+                             "Rust resistant",
+                             "Suitable for various workpieces",
+                             "Modular structure"
+                         ],
+                         "specifications": {
+                             "MODEL": "BS-58 Deluxe Clamping Kit",
+                             "Material": "High-Strength Steel",
+                             "Kit Contents": "58 Pieces",
+                             "T-Slot Compatibility": "10-22 mm",
+                             "Hardness": "HRC 42-48",
+                             "Maximum Clamping Torque": "120 Nm"
+                         },
+                         "standardAccessories": [
+                             "Clamping Plates",
+                             "T-Nuts",
+                             "Connecting Bolts",
+                             "Step Blocks",
+                             "Special Carrying Case"
+                         ],
+                         "optionalAccessories": [
+                             "Magnetic T-Slot Cleaner",
+                             "Quick Adjustment Fixtures",
+                             "Special Clamping Elements"
+                         ]
+                     },
+                     {
+                         "id": "mengene-urun",
+                         "name": "Vise",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "mengene",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Mengene.webp",
+                         "generalInfo": "Precision and high-quality hydraulic and manual vises for CNC, milling, and grinding machines.",
+                         "features": [
+                             "High clamping force",
+                             "Precise positioning",
+                             "360° rotatable base",
+                             "Parallel jaws",
+                             "Long service life"
+                         ],
+                         "specifications": {
+                             "MODEL": "MN-160 Precision Vise",
+                             "Jaw Width": "100-200 mm",
+                             "Opening Capacity": "0-160 mm",
+                             "Jaw Height": "45 mm",
+                             "Material": "Hardened Alloy Steel",
+                             "Base Type": "Swivel"
+                         },
+                         "standardAccessories": [
+                             "Mounting Bolts",
+                             "Replacement Jaws",
+                             "Vise Supports",
+                             "User Manual"
+                         ],
+                         "optionalAccessories": [
+                             "Magnetic Jaws",
+                             "Soft Jaws",
+                             "Quick Adjustment Handle"
+                         ]
+                     },
+                     {
+                         "id": "yan-tarama-kafasi-urun",
+                         "name": "Side Milling Head",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "yan-tarama-kafasi",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Yan Tarama Kafası.webp",
+                         "generalInfo": "Versatile and precise side milling head for milling machines.",
+                         "features": [
+                             "90° angle positioning",
+                             "High precision",
+                             "Universal mounting",
+                             "Easy installation",
+                             "Robust construction"
+                         ],
+                         "specifications": {
+                             "MODEL": "YTK-300 Side Milling Head",
+                             "Taper Connection": "ISO 40, ISO 50",
+                             "Milling Angle": "0° - 90°",
+                             "Speed Range": "0-2000 rpm",
+                             "Maximum Tool Diameter": "50 mm",
+                             "Weight": "10 kg"
+                         },
+                         "standardAccessories": [
+                             "Mounting Flange",
+                             "Fixing Bolts",
+                             "Lubrication Set",
+                             "Wrench Set"
+                         ],
+                         "optionalAccessories": [
+                             "Special Adapters",
+                             "Extension Attachment",
+                             "High-Speed Unit"
+                         ]
+                     },
+                     {
+                         "id": "dijital-sistem-urun",
+                         "name": "Digital System",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "dijital-sistem",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Dijital Sistem.webp",
+                         "generalInfo": "Precision digital coordinate reading and display systems for machining equipment.",
+                         "features": [
+                             "High precision",
+                             "Easy installation",
+                             "User-friendly interface",
+                             "Compatible with various machine types",
+                             "Durable construction"
+                         ],
+                         "specifications": {
+                             "MODEL": "DS-300 Digital Coordinate Reader",
+                             "Display": "7\" LCD Color Screen",
+                             "Resolution": "0.001 mm",
+                             "Number of Axes": "2-3 Axes",
+                             "Connection": "RS-232",
+                             "Power Supply": "220V AC"
+                         },
+                         "standardAccessories": [
+                             "Mounting Brackets",
+                             "Connection Cables",
+                             "User Manual",
+                             "Scale Sets"
+                         ],
+                         "optionalAccessories": [
+                             "Extension Cables",
+                             "Special Mounting Brackets",
+                             "Replacement Scales"
+                         ]
+                     },
+                     {
+                         "id": "biga-dijital-sistem-urun",
+                         "name": "BIGA DIGITAL COORDINATE READING SYSTEM",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "dijital-sistem",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/BİGA DİJİTAL KOORDİNAT OKUYUCU SİSTEM.webp",
+                         "generalInfo": "High-precision BIGA brand digital coordinate reading and display system. Ideal solution for milling, turning, and grinding machines.",
+                         "features": [
+                             "Turkish menu",
+                             "High-precision measurement",
+                             "Easy to use",
+                             "Durable construction",
+                             "Large display",
+                             "Multi-axis support"
+                         ],
+                         "specifications": {
+                             "MODEL": "BIGA DRO-3",
+                             "Display": "8.4\" Color TFT Screen",
+                             "Resolution": "0.0005 mm",
+                             "Number of Axes": "2-3 Axes",
+                             "Memory": "200 Steps",
+                             "Power Supply": "110-220V AC",
+                             "Operating Temperature": "0-45°C"
+                         },
+                         "standardAccessories": [
+                             "Scale Sets",
+                             "Mounting Brackets",
+                             "Connection Cables",
+                             "User Manual",
+                             "Protective Cover"
+                         ],
+                         "optionalAccessories": [
+                             "Extension Cables",
+                             "Special Mounting Brackets",
+                             "Replacement Scales",
+                             "Dust Protection Covers"
+                         ]
+                     },
+                     {
+                         "id": "yuk-tasima-arabasi-urun",
+                         "name": "Load Carrying Cart",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "yuk-tasima-arabasi",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/YÜK TAŞIMA ARABASI.webp",
+                         "generalInfo": "Durable and high-capacity load carrying carts designed for transporting heavy machine parts.",
+                         "features": [
+                             "High load capacity",
+                             "Easy maneuverability",
+                             "Durable wheels",
+                             "Adjustable height",
+                             "Safety locks"
+                         ],
+                         "specifications": {
+                             "MODEL": "YTA-500 Premium",
+                             "Load Capacity": "500-2000 kg",
+                             "Platform Size": "800x500 mm",
+                             "Minimum Height": "450 mm",
+                             "Maximum Height": "750 mm",
+                             "Wheel Diameter": "150 mm",
+                             "Weight": "85 kg"
+                         },
+                         "standardAccessories": [
+                             "Safety Locks",
+                             "Non-slip Platform Surface",
+                             "Ergonomic Handles",
+                             "Braking System"
+                         ],
+                         "optionalAccessories": [
+                             "Rubber Bumpers",
+                             "Custom Size Platform",
+                             "Hydraulic Lifting System"
+                         ]
+                     },
+                     {
+                         "id": "korumalik-urun",
+                         "name": "Safety Guard",
+                         "category": "makina-aksesuarlari",
+                         "subcategory": "korumalik",
+                         "subSubcategory": "",
+                         "image": "images/Urun Fotograflari/Korumalık.webp",
+                         "generalInfo": "Modern protection systems providing a safe working environment for machine operators.",
+                         "features": [
+                             "High impact resistance",
+                             "Transparent view area",
+                             "Easy installation",
+                             "Heat resistant",
+                             "Ergonomic design"
+                         ],
+                         "specifications": {
+                             "MODEL": "KM-200 Safety Guard",
+                             "Material": "Hardened Polycarbonate",
+                             "Thickness": "5-10 mm",
+                             "Standard": "CE EN 12417",
+                             "Dimensions": "Customizable",
+                             "Impact Resistance": "150 J",
+                             "Heat Resistance": "120°C"
+                         },
+                         "standardAccessories": [
+                             "Mounting Brackets",
+                             "Safety Locks",
+                             "Emergency Access Hatch",
+                             "Adjustable Hinges"
+                         ],
+                         "optionalAccessories": [
+                             "Automatic Locking System",
+                             "LED Lighting",
+                             "Customized Branding",
+                             "Capacity Upgrade Kit"
+                         ]
+                     }
+                 ]
+}
