@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Güvenal Makina | İletişim</title>
+    <meta name="i18n-title" content="iletisim_title">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Kendo UI Core CSS -->
+    <link href="https://kendo.cdn.telerik.com/2023.2.718/styles/kendo.common.min.css" rel="stylesheet">
+    <link href="https://kendo.cdn.telerik.com/2023.2.718/styles/kendo.default.min.css" rel="stylesheet">
+    <!-- Select2 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet">
+    <!-- Slick Carousel CSS -->
+    <link rel="stylesheet" type="text/css" href="libs/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="libs/slick-theme.css"/>
+    <!-- AOS Animations -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles/style.css">
+    <style>
+        .contact-form-section {
+            background-color: #f8f9fa;
+            padding: 60px 0;
+        }
+        .contact-info-section {
+            padding: 60px 0;
+        }
+        .contact-card {
+            transition: all 0.3s ease;
+            height: 100%;
+        }
+        .contact-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        .contact-icon {
+            font-size: 2.5rem;
+            color: #ff6a00;
+            margin-bottom: 20px;
+        }
+        .form-container {
+            background: #fff;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 0 25px rgba(0,0,0,0.05);
+        }
+        .location-card {
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 0 15px rgba(0,0,0,0.05);
+            margin-bottom: 30px;
+            height: 100%;
+        }
+        .location-card .card-header {
+            background-color: #ff6a00;
+            padding: 15px 20px;
+        }
+        .location-card .card-body {
+            padding: 20px;
+        }
+        .map-container {
+            height: 250px;
+            overflow: hidden;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+        .contact-item i {
+            color: #ff6a00;
+            font-size: 1.2rem;
+            width: 25px;
+            text-align: center;
+        }
+    </style>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <!-- Header Placeholder -->
+    <div id="header-placeholder"></div>
+
+    <!-- Page Header -->
+    <section class="page-header" style="background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/sectionfoto/Anasayfailetisimarkaplan.webp') no-repeat center center/cover;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1 class="display-4 fw-bold" data-i18n="iletisim">İletişim</h1>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a href="index" data-i18n="ana_sayfa">Ana Sayfa</a></li>
+                            <li class="breadcrumb-item active" aria-current="page" data-i18n="iletisim">İletişim</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form Section -->
+    <section class="contact-form-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 mx-auto text-center mb-5">
+                    <h2 class="fw-bold mb-3" data-i18n="iletisim_formu">İletişim Formu</h2>
+                    <div class="divider mx-auto"></div>
+                    <p class="text-muted" data-i18n="form_aciklama">Her türlü soru, görüş ve önerinizi iletişim formu ile bize gönderebilirsiniz.</p>
+                </div>
+            </div>
+            
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="form-container" data-aos="fade-up">
+                        <form id="contactForm" class="needs-validation" novalidate>
+                            <div class="row g-4">
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="name" placeholder=" " required>
+                                        <label for="name" data-i18n="ad_soyad">Ad, Soyad</label>
+                                        <div class="invalid-feedback" data-i18n="lutfen_ad_girin">
+                                            Lütfen adınızı giriniz.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control" id="email" placeholder=" " required>
+                                        <label for="email" data-i18n="eposta">E-posta</label>
+                                        <div class="invalid-feedback" data-i18n="lutfen_eposta_girin">
+                                            Lütfen geçerli bir e-posta adresi giriniz.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="tel" class="form-control" id="phone" placeholder=" " required>
+                                        <label for="phone" data-i18n="telefon">Telefon</label>
+                                        <div class="invalid-feedback" data-i18n="lutfen_telefon_girin">
+                                            Lütfen telefon numaranızı giriniz.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="company" placeholder=" ">
+                                        <label for="company" data-i18n="firma_adi">Firma Adı</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="subject" required>
+                                            <option value="" selected disabled>Seçiniz...</option>
+                                            <option value="İletişim">İletişim</option>
+                                            <option value="Servis Talep Formu">Servis Talep Formu</option>
+                                            <option value="Referans Talep Formu">Referans Talep Formu</option>
+                                            <option value="Ürün Talep Formu">Ürün Talep Formu</option>
+                                        </select>
+                                        <label for="subject" data-i18n="konu">Konu</label>
+                                        <div class="invalid-feedback" data-i18n="lutfen_konu_secin">
+                                            Lütfen konu seçiniz.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control" id="message" placeholder=" " style="height: 150px" required></textarea>
+                                        <label for="message" data-i18n="mesaj">Mesajınız</label>
+                                        <div class="invalid-feedback" data-i18n="lutfen_mesaj_girin">
+                                            Lütfen mesajınızı giriniz.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="captcha-container">
+                                        <label data-i18n="captcha">Captcha Kodu:</label>
+                                        <div class="captcha-box d-flex align-items-center">
+                                            <span id="captcha-code" class="captcha-text p-2 border me-2"></span>
+                                            <button type="button" id="refresh-captcha" class="btn btn-sm btn-outline-secondary refresh-captcha">
+                                                <i class="fas fa-sync-alt"></i>
+                                            </button>
+                                        </div>
+                                        <input type="text" class="form-control mt-2" id="captcha-input" required>
+                                        <div class="invalid-feedback" data-i18n="lutfen_captcha_girin">
+                                            Lütfen captcha kodunu doğru giriniz.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 mt-4">
+                                    <button type="submit" class="btn btn-primary w-100 py-3" data-i18n="mesaj_gonder">Mesaj Gönder</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Contact Info Cards -->
+    <section class="contact-info-section bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center mb-5">
+                    <h2 class="fw-bold" data-i18n="iletisim_bilgileri">İletişim Bilgileri</h2>
+                    <div class="divider mx-auto"></div>
+                </div>
+            </div>
+            
+            <div class="row mb-5">
+                <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="contact-card text-center p-4 border rounded">
+                        <div class="contact-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <h4 class="mb-3" data-i18n="adresimiz">Adresimiz</h4>
+                        <p>İkitelli OSB Demirciler Küçük San. Sit. B1 Blok No: 34 K2 Başakşehir - İstanbul / TÜRKİYE</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="contact-card text-center p-4 border rounded">
+                        <div class="contact-icon">
+                            <i class="fas fa-phone-alt"></i>
+                        </div>
+                        <h4 class="mb-3" data-i18n="bizi_arayin">Bizi Arayın</h4>
+                        <p><a href="tel:+902125673887" class="text-dark">0212 567 38 87 (PBX)</a></p>
+                        <p><a href="tel:+902125674259" class="text-dark">Faks: 0212 567 42 59</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="contact-card text-center p-4 border rounded">
+                        <div class="contact-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <h4 class="mb-3" data-i18n="email_bize">Email Bize</h4>
+                        <p><a href="mailto:info@guvenalmakina.com.tr" class="text-dark">info@guvenalmakina.com.tr</a></p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Locations -->
+            <div class="row">
+                <div class="col-12 text-center mb-5">
+                    <h3 class="fw-bold" data-i18n="lokasyonlarimiz">Lokasyonlarımız</h3>
+                    <div class="divider mx-auto"></div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <!-- Merkez -->
+                <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="location-card">
+                        <div class="card-header">
+                            <h4 class="text-white mb-0" data-i18n="merkez">Merkez</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-map-marker-alt me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="adres">Adres</h6>
+                                            <p class="mb-0">İkitelli OSB Demirciler Küçük San. Sit. B1 Blok No: 34 K2 Başakşehir - İstanbul / TÜRKİYE</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-phone me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="telefon">Telefon</h6>
+                                            <p class="mb-0"><a href="tel:+902125673887" class="text-dark">0212 567 38 87 (PBX)</a></p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-fax me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="faks">Faks</h6>
+                                            <p class="mb-0">0212 567 42 59</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-envelope me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="eposta">E-posta</h6>
+                                            <p class="mb-0"><a href="mailto:info@guvenalmakina.com.tr" class="text-dark">info@guvenalmakina.com.tr</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="map-container">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.1709980380283!2d28.776956115421766!3d41.07069497929439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa5fdf4a0cec5%3A0x15c3bb79c6b1826!2s%C4%B0kitelli%20OSB%2C%20Demirciler%20Sanayi%20Sitesi!5e0!3m2!1str!2str!4v1653991235467!5m2!1str!2str" 
+                                             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Mağaza -->
+                <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="location-card">
+                        <div class="card-header">
+                            <h4 class="text-white mb-0" data-i18n="magaza">Mağaza</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-map-marker-alt me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="adres">Adres</h6>
+                                            <p class="mb-0">İsmet Paşa Mah. Abdi İpekçi Cad. No: 113 / 2 Bayrampaşa - İstanbul / TÜRKİYE</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-phone me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="telefon">Telefon</h6>
+                                            <p class="mb-0"><a href="tel:+902125673887" class="text-dark">0212 567 38 87</a></p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-fax me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="faks">Faks</h6>
+                                            <p class="mb-0">0212 567 42 59</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-envelope me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="eposta">E-posta</h6>
+                                            <p class="mb-0"><a href="mailto:info@guvenalmakina.com.tr" class="text-dark">info@guvenalmakina.com.tr</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="map-container">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.1294401428825!2d28.889429415420904!3d41.0471349792954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab0c7da1cbc97%3A0x72a47dc31e96f6e7!2sAbdi%20%C4%B0pek%C3%A7i%20Cd.%2C%20Bayrampa%C5%9Fa%2F%C4%B0stanbul!5e0!3m2!1str!2str!4v1653991496508!5m2!1str!2str" 
+                                             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Topçular -->
+                <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="location-card">
+                        <div class="card-header">
+                            <h4 class="text-white mb-0">Topçular</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-map-marker-alt me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="adres">Adres</h6>
+                                            <p class="mb-0">Rami Kışla Cd. Emintaş 3 San. Sit. No:56-57-58 Topçular - Eyüp - İSTANBUL - TÜRKİYE</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-phone me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="telefon">Telefon</h6>
+                                            <p class="mb-0"><a href="tel:+902125015381" class="text-dark">+90 212 501 53 81</a></p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-fax me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="faks">Faks</h6>
+                                            <p class="mb-0">+90 212 577 37 43</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-envelope me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="eposta">E-posta</h6>
+                                            <p class="mb-0"><a href="mailto:guvenal@guvenal.net" class="text-dark">guvenal@guvenal.net</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="map-container">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.8064124287474!2d28.9342751!3d41.0563014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7af0bdc23c5%3A0xa85c6d465f37739a!2sRami%20K%C4%B1%C5%9Fla%20Cd.%2C%20Ey%C3%BCp%2F%C4%B0stanbul!5e0!3m2!1str!2str!4v1653991623476!5m2!1str!2str" 
+                                             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Esenyurt Şube -->
+                <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="400">
+                    <div class="location-card">
+                        <div class="card-header">
+                            <h4 class="text-white mb-0">Esenyurt Şube</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-map-marker-alt me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="adres">Adres</h6>
+                                            <p class="mb-0">Çakmaklı Mh. Akçaburgaz Mevkii ALKOP Sanayi Sitesi A11 Blok No: 17 Kıraç - Hadımköy - Büyükçekmece - İSTANBUL - TÜRKİYE</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-phone me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="telefon">Telefon</h6>
+                                            <p class="mb-0"><a href="tel:+902128580081" class="text-dark">+90 212 858 00 81</a></p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-fax me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="faks">Faks</h6>
+                                            <p class="mb-0">+90 212 858 05 02</p>
+                                        </div>
+                                            </div>
+                                    <div class="contact-item d-flex mb-3">
+                                        <i class="fas fa-envelope me-3 mt-1"></i>
+                                        <div>
+                                            <h6 class="fw-bold" data-i18n="eposta">E-posta</h6>
+                                            <p class="mb-0"><a href="mailto:info@guvenalmakina.com.tr" class="text-dark">info@guvenalmakina.com.tr</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="map-container">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.1709980380283!2d28.776956115421766!3d41.07069497929439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa5fdf4a0cec5%3A0x15c3bb79c6b1826!2s%C4%B0kitelli%20OSB%2C%20Demirciler%20Sanayi%20Sitesi!5e0!3m2!1str!2str!4v1653991235467!5m2!1str!2str" 
+                                             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Regional Offices -->
+            <div class="row mt-4">
+                <div class="col-12">
+                    <div class="location-card" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card-header">
+                            <h4 class="text-white mb-0">Diğer Bölge Temsilciliklerimiz</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6 mb-4">
+                                    <div class="p-3 border rounded h-100">
+                                        <h5 class="mb-3">Ankara Bölgesi</h5>
+                                        <div class="contact-item d-flex mb-3">
+                                            <i class="fas fa-phone me-3 mt-1"></i>
+                                            <div>
+                                                <p class="mb-0"><a href="tel:+905301006088" class="text-dark">+90 530 100 60 88</a></p>
+                                            </div>
+                                        </div>
+                                        <div class="contact-item d-flex mb-3">
+                                            <i class="fas fa-envelope me-3 mt-1"></i>
+                                            <div>
+                                                <p class="mb-0"><a href="mailto:ankara@guvenal.net" class="text-dark">ankara@guvenal.net</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-md-6 mb-4">
+                                    <div class="p-3 border rounded h-100">
+                                        <h5 class="mb-3">Ege Bölgesi</h5>
+                                        <div class="contact-item d-flex mb-3">
+                                            <i class="fas fa-map-marker-alt me-3 mt-1"></i>
+                                            <div>
+                                                <p class="mb-0">İzmir, Manisa, Aydın, Denizli, Muğla</p>
+                                            </div>
+                                        </div>
+                                        <div class="contact-item d-flex mb-3">
+                                            <i class="fas fa-phone me-3 mt-1"></i>
+                                            <div>
+                                                <p class="mb-0"><a href="tel:+905324305686" class="text-dark">+90 532 430 56 86</a> / <a href="tel:+905538292942" class="text-dark">+90 553 829 29 42</a></p>
+                                            </div>
+                                        </div>
+                                        <div class="contact-item d-flex mb-3">
+                                            <i class="fas fa-envelope me-3 mt-1"></i>
+                                            <div>
+                                                <p class="mb-0"><a href="mailto:ankara@guvenal.net" class="text-dark">ankara@guvenal.net</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Placeholder -->
+    <div id="footer-placeholder"></div>
+
+    <!-- jQuery and Bootstrap JS -->
+    <script src="libs/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Kendo UI Core JS -->
+    <script src="https://kendo.cdn.telerik.com/2023.2.718/js/kendo.all.min.js"></script>
+    
+    <!-- GSAP Animation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    
+    <!-- AOS Animations -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    
+    <!-- Particles.js -->
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    
+    <!-- Select2 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    
+    <!-- Slick Carousel JS -->
+    <script type="text/javascript" src="libs/slick.min.js"></script>
+    
+    <!-- Translations -->
+    <script src="data/translations.js"></script>
+    
+    <!-- Slick Carousel Adapter -->
+    <script>
+        // Slick'in yüklenmesini denetlemek için yardımcı fonksiyon
+        function ensureSlickLoaded(callback, maxAttempts = 5) {
+            let attempts = 0;
+            
+            function checkSlick() {
+                attempts++;
+                
+                if (typeof $.fn.slick !== 'undefined') {
+                    console.log("Slick yüklendi, carousel'ları başlatıyorum");
+                    callback();
+                } else if (attempts < maxAttempts) {
+                    console.log(`Slick henüz yüklenmedi, ${attempts}. deneme. Yeniden deneniyor...`);
+                    setTimeout(checkSlick, 300);
+                } else {
+                    console.error("Slick yüklenemedi, maksimum deneme sayısına ulaşıldı");
+                    // Slick'i tekrar manuel olarak yüklemeyi dene
+                    var script = document.createElement('script');
+                    script.src = "libs/slick.min.js";
+                    script.onload = function() {
+                        console.log("Slick manuel olarak yüklendi, carousel'ları başlatıyorum");
+                        callback();
+                    };
+                    document.head.appendChild(script);
+                }
+            }
+            
+            checkSlick();
+        }
+    </script>
+    
+    <!-- Custom Scripts -->
+    <script src="scripts/i18n.js"></script>
+    <script src="scripts/components.js"></script>
+    <script src="scripts/animations.js"></script>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/whatsapp-button.js"></script>
+    
+    <script>
+        $(document).ready(function() {
+            // Initialize AOS animations
+            AOS.init({
+                duration: 800,
+                easing: 'ease-in-out',
+                once: true
+            });
+            
+            // Manually apply language to header after it's loaded - modern MutationObserver approach
+            const headerObserver = new MutationObserver(function(mutations) {
+                mutations.forEach(function(mutation) {
+                    if (mutation.type === 'childList' && mutation.addedNodes.length) {
+                        // Only run once when header is loaded
+                        headerObserver.disconnect();
+                        
+                // Trigger language initialization
+                if (typeof initLanguage === 'function') {
+                    setTimeout(function() {
+                        console.log("Header loaded in iletisim.html, initializing language");
+                        initLanguage();
+                    }, 100);
+                }
+                    }
+                });
+            });
+            
+            // Start observing the header placeholder
+            const headerPlaceholder = document.getElementById("header-placeholder");
+            if (headerPlaceholder) {
+                headerObserver.observe(headerPlaceholder, { childList: true });
+            }
+            
+            // Make "İletişim" link active
+            $('.nav-link[href="iletisim"]').addClass('active');
+            
+            // Form validation
+            (function() {
+                'use strict';
+                
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                var forms = document.querySelectorAll('.needs-validation');
+                
+                // Loop over them and prevent submission
+                Array.prototype.slice.call(forms).forEach(function(form) {
+                    form.addEventListener('submit', function(event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        } else {
+                            event.preventDefault();
+                            // Burada form submit işlemi yapılabilir
+                            alert('Mesajınız gönderildi. En kısa sürede size dönüş yapacağız.');
+                            form.reset();
+                        }
+                        
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+            })();
+            
+            // Ürün seçimi
+            $('#subject').on('change', function() {
+                const selectedValue = $(this).val();
+                
+                // Eğer ürün talep formu veya servis talep formu seçildiyse ürün adı giriş alanı göster
+                if (selectedValue === 'Ürün Talep Formu' || selectedValue === 'Servis Talep Formu' || selectedValue === 'Referans Talep Formu') {
+                    if ($('#product-selection-container').length === 0) {
+                        const productInput = `
+                            <div id="product-selection-container" class="col-12">
+                                <div class="form-floating mb-3">
+                                    <input type="text" class="form-control" id="product-name" placeholder=" " required>
+                                    <label for="product-name" data-i18n="urun_adi">Ürün Adı:</label>
+                                    <div class="invalid-feedback" data-i18n="lutfen_urun_adi_girin">
+                                        Lütfen ürün adını giriniz.
+                                    </div>
+                                </div>
+                            </div>
+                        `;
+                        
+                        $(productInput).insertAfter($('#subject').closest('.col-12'));
+                    }
+                } else {
+                    $('#product-selection-container').remove();
+                }
+            });
+        });
+    </script>
+
+    <!-- Add this script at the end of the file, before the footer -->
+    <script>
+        // Function to generate a random captcha code
+        function generateCaptcha() {
+            const digits = '0123456789';
+            const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+            let captchaCode = '';
+            
+            // Generate a 6-character captcha with mix of letters and numbers
+            for (let i = 0; i < 6; i++) {
+                if (Math.random() > 0.5) {
+                    captchaCode += digits[Math.floor(Math.random() * digits.length)];
+                } else {
+                    captchaCode += letters[Math.floor(Math.random() * letters.length)];
+                }
+            }
+            
+            return captchaCode;
+        }
+
+        // Set initial captcha when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            const captchaElement = document.getElementById('captcha-code');
+            const refreshButton = document.getElementById('refresh-captcha');
+            const contactForm = document.getElementById('contactForm');
+            const captchaInput = document.getElementById('captcha-input');
+            
+            // Set initial captcha
+            captchaElement.textContent = generateCaptcha();
+            
+            // Refresh captcha when button is clicked
+            refreshButton.addEventListener('click', function() {
+                captchaElement.textContent = generateCaptcha();
+            });
+            
+            // Check captcha on form submission
+            contactForm.addEventListener('submit', function(event) {
+                if (captchaInput.value !== captchaElement.textContent) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    captchaInput.classList.add('is-invalid');
+                } else {
+                    captchaInput.classList.remove('is-invalid');
+                }
+                
+                // Standard form validation
+                if (!contactForm.checkValidity()) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+                
+                contactForm.classList.add('was-validated');
+            });
+        });
+    </script>
+
+    <!-- Mega Menu Helper Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // MegaMenu yardımcı fonksiyonu
+            function setupMegaMenu() {
+                setTimeout(function() {
+                    const megaMenuTrigger = document.querySelector('.mega-menu-trigger');
+                    const megaMenuWrapper = document.querySelector('.mega-menu-wrapper');
+                    
+                    if (megaMenuTrigger && megaMenuWrapper) {
+                        console.log("Mega menü elementleri bulundu, event dinleyicileri ekleniyor");
+                        
+                        // MegaMenu etkileşimleri için direkt DOM olayları
+                        megaMenuTrigger.addEventListener('mouseenter', function() {
+                            megaMenuTrigger.classList.add('show');
+                            megaMenuWrapper.classList.add('show');
+                            megaMenuWrapper.style.display = 'block';
+                        });
+                        
+                        megaMenuTrigger.addEventListener('mouseleave', function() {
+                            setTimeout(function() {
+                                if (!megaMenuWrapper.matches(':hover')) {
+                                    megaMenuTrigger.classList.remove('show');
+                                    megaMenuWrapper.classList.remove('show');
+                                    megaMenuWrapper.style.display = 'none';
+                                }
+                            }, 200);
+                        });
+                        
+                        megaMenuWrapper.addEventListener('mouseleave', function() {
+                            setTimeout(function() {
+                                megaMenuTrigger.classList.remove('show');
+                                megaMenuWrapper.classList.remove('show');
+                                megaMenuWrapper.style.display = 'none';
+                            }, 200);
+                        });
+                        
+                        // Mobil cihazlar için dokunma desteği
+                        document.querySelector('.mega-menu-link').addEventListener('click', function(e) {
+                            if (!megaMenuTrigger.classList.contains('show')) {
+                                e.preventDefault();
+                                megaMenuTrigger.classList.add('show');
+                                megaMenuWrapper.classList.add('show');
+                                megaMenuWrapper.style.display = 'block';
+                            }
+                        });
+                    } else {
+                        console.log("Mega menü elementleri bulunamadı, header yüklenmesi bekleniyor");
+                        // Header yüklendikten sonra tekrar dene
+                        setTimeout(setupMegaMenu, 500);
+                    }
+                }, 500); // DOM tamamen yüklendikten sonra çalıştır
+            }
+            
+            // İlk başlatma
+            setupMegaMenu();
+        });
+    </script>
+</body>
+</html> 
